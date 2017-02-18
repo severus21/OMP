@@ -1,0 +1,145 @@
+\documentclass[a4paper,10pt]{article}
+
+\usepackage[utf8]{inputenc} 
+\usepackage[T1]{fontenc}     
+\usepackage[francais]{babel}
+
+\usepackage[toc,page]{appendix}	
+
+\usepackage{lmodern} % Pour changer le pack de police
+\usepackage{makeidx}
+
+\usepackage{color}
+\usepackage[top=2cm, bottom=2cm, left=2cm, right=2cm]{geometry}
+\usepackage{url}
+\usepackage{enumerate}
+
+\usepackage{algorithmicx}
+\usepackage{algorithm}
+\usepackage{algpseudocode}	
+ 
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{amssymb} 	
+\usepackage{stmaryrd}	
+
+% \providecommand{\lxor}{\veebar}
+
+\usepackage{multido}
+
+\usepackage{caption}
+\usepackage{tikz}
+
+
+\usetikzlibrary{shapes,positioning}
+\tikzset{node/.style={draw,circle,minimum size=1.2cm},}
+% \tikzset{point/.style={draw,circle,minimum size=0cm},}
+
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{prop}{Proposition}[section]
+\newtheorem{lemma}{Lemma} [section]
+\newtheorem{remarque}{Remarque}[section]
+\newtheorem{definition}{Définition}[section]
+
+\title{The Hypercube Placement Algorithm}
+\author{\textsc{Prosperi} Laurent}
+\date\today % Pour mettre la date du jour, tapez \today 
+\makeindex
+
+\begin{document}
+
+\maketitle
+
+
+\begin{abstract}
+   This work address strategy of data placement in ditributed, decentralized network, in order to increase reliability, 
+   fault-tolerance and scalability.
+   
+\end{abstract}
+
+\section{The objectives}
+\begin{itemize}
+ \item scalability
+ \item fault-tolerance
+ \item deduplication
+ \item distributed
+ \item performances
+ \item safety( data integrity, ...)
+ \item code correctness
+\end{itemize}
+
+
+\section{Quick Overview}
+First we can distinguish two usages \textit{saving} and \textit{retrieving} files.
+
+\subsection{File saving}
+In order to add a file \textit{F} owned by client \textit{C} and process by a set of nodes \textit{N}(the system) :
+\begin{enumerate}
+ \item Optional : Check permission(addition one)
+ \item Deduplication on C
+ \item If no file duplication then :
+ \begin{itemize}
+  \item Data placement in N
+  \item Data réplication in N and chunk deduplication
+  \item Increase by 1 \textit{chunk ref} for each chunk
+  \item Check data intégrity for each chunk
+  \item Optional : Metadata management in N
+  \item Metadata management in C
+  \item Optional : Check metadata intégrity in C( optionaly on N)
+ \end{itemize}
+ \item Else:
+ \begin{itemize}
+  \item Increase by 1 \textit{chunk ref} for each chunk
+  \item Metadata management in C
+ \end{itemize}
+\end{enumerate}
+
+\textbf{Nota bene}
+Addition perm != Access perm
+With addition perm we can not access data, only add data or increase \textit{chunk ref}
+It is the same with deletion perm.
+
+\textbf{Nota Bene}
+We can add a system for permissions( only usefull if the data on nodes are secured, only if the nodes can be trusted). If so, 
+the permissions can be encode in objects Id for instance. So there is no need to check permissions : we encrypt some thing with 
+a rsa key in the ids.
+
+\subsection{File retrieving}%faute
+In order to retrieve a file \textit{F} of Id \textit{I} on a client \textit{C}, stored on a set of 
+nodes \textit{N} : 
+\begin{enumerate}
+ \item Optional : Check permission(acces one) for each chunk
+ \item Optional : get metadata from C using \textit{I}
+ \item Request data from N using metadata and \textit{I}
+ \item Check data integrity
+ \item Rebuild file
+ \item Check file integrity
+\end{enumerate}
+
+\subsection{File deletion}
+In order to delete a file \textit{F} of Id \textit{I} on a client \textit{C}, 
+stored on a set of 
+nodes \textit{N} :
+\begin{enumerate}
+ \item Optional : check permissions(deletion one)
+ \item Optional : get metadata from C using \textit{I}
+ \item Check metadata integrity
+ \item Deletion in N( ie decrease \textit{chunk ref} and if 
+  \textit{chunk ref} == 0 then remove chunk)
+\end{enumerate}
+
+\subsection{Get hard metadata}
+??
+
+\subsection{Get soft/abstract metadata}
+??
+
+\input{deduplication}
+\input{object_naming}
+\input{node_naming}
+\input{metadata}
+\input{hcube}
+\input{HPP}
+\input{placement}
+\end{document}

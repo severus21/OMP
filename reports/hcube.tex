@@ -1,0 +1,210 @@
+\section{Hyper-cube properties}
+\begin{definition}
+  Let $\forall i \in [|0,n-1|]$, $e_{i} = (0,...,0,1,0,...,0)$ ie $\bar{e_{i}} = 2^{i}$ \\
+  $$Q_{n} = \left\{ \sum_{i=0}^{n-1}{ \delta_{i}e_{i} } = (\delta_{0}, ..., \delta_{n-1}) | (\delta_{0}, ..., \delta_{n-1}) \in \{0,1\}^{n} \right\}$$
+\end{definition}
+\begin{remarque} 
+  Let $n \in \mathbb{N}^{*}, \forall u \in Q_{n}, \bar{u} \in [|0, 2^{n}-1|]$ and $\bar{u} = \sum_{i=0}^{n-1}{ \delta_{i}\bar{e_{i}} }$
+\end{remarque}
+
+\begin{definition}%//https://en.wikipedia.org/wiki/Hypercube\_graph
+  The hypercube graph Qn may be constructed from the family of subsets of a set with n elements, by making a vertex for each 
+  possible subset and joining two vertices by an edge whenever the corresponding subsets differ in a single element. 
+  Equivalently, it may be constructed using 2n vertices labeled with n-bit binary numbers and connecting two vertices by an 
+  edge whenever the Hamming distance of their labels is one. These two constructions are closely related: a binary number may 
+  be interpreted as a set (the set of positions where it has a 1 digit), and two such sets differ in a single element whenever 
+  the corresponding two binary numbers have Hamming distance one.\\\\
+  Let $n \in \mathbb{N}^{*}$ and $H_{n}=(V_{n}, E_{n}, Id_{n}) = (Q_{n}, Id_{n})$ an hyper-cube of dimension n\\
+  Such that :
+  \begin{tabular}{cc}
+    $V_{n}$ & set of vertices\\
+    $E_{n}$ & set of edges\\
+    $Id_{n}$ & $V \rightarrow \bar{Q_{n}}=[|0, 2^{n}-1|]$, bijective such that $Id_{n}(V_{n})=Q_{n}$\\
+    $H_{n}$  & $\left\{ (u,v) 
+		\begin{array}{l}
+		  (u,v) \in Q_{n}^{2}\\
+		  d_{ham}(u,v) = 1\\
+		\end{array}
+		\right\}$\\
+  \end{tabular}
+\end{definition}
+
+
+\begin{minipage}{0.49\textwidth}
+ \begin{center}
+ \textbf{Counting properties :}\\
+ \begin{tabular}{|c|c|}
+  \hline
+    Number of vertices & $2^{n}$\\
+    Number of edges & $n2^{n-1}$\\
+    Diameter & $n$\\
+    Girth & $4\ if\ n \geq 2$\\
+    Chromatic number & 2\\
+    Spectrum 	& ${\displaystyle \{(n-2k)^{\binom {n}{k}};k=0,\ldots ,n\}}$\\
+  \hline
+  \end{tabular}
+  \end{center}
+\end{minipage}
+\begin{minipage}{0.49\textwidth}
+ \begin{center}
+  \textbf{Properties :}\\
+ \begin{tabular}{|c|}
+  \hline
+  Symmetric\\
+  Distance regular\\
+  Unit distance\\
+  Hamiltonian\\
+  Bipartite\\
+  \hline
+  \end{tabular}
+  \end{center}
+\end{minipage}
+
+\begin{lemma}
+ Let $n \in \mathbb{N}^{*}$, $|faces(Q_{n})| = 2^{(n-2)}\binom{n}{2}$
+\end{lemma}
+
+% ici un algo qui calcules les faces(deterministe et linaire en 2^{n}), faudrait remplacer le n par un $\alpha$ dans cette section
+
+\begin{algorithmic}
+    \State Open = $Q_{n}$
+    \State Closed =  $\varnothing$
+    \State Faces = $\varnothing$
+    \While{ $Open \neq \varnothing$ }
+      \State $i_{1}, ..., i_{n} = n-min( Open )$
+      \For{ $0 < j \leq n$}
+	\State $i_{1}, i_{j-1}, k, i_{j+1} i_{n} = n-min( Open )$
+      \EndFor
+      \State $ $
+    \EndWhile
+    \If {$s = 0$}
+
+    \State $i\gets random(0, deg(u)-1)$
+    \State $s \gets deg(u)$
+    \State $move\_to( end(v,i) )$
+       \Else
+    \State $p \gets \min_{ \frac{s}{deg(u)}, 1}$
+    \If {$random() \leq p$}
+      \State $s \gets 0$
+    \Else
+      \State $reverse\_move$
+    \EndIf
+      \EndIf
+ \end{algorithmic}
+
+\begin{lemma}
+  Let $n \in \mathbb{N}^{*}$, $(u,v) \in Q_{n}^{2}$ then (u,v) are n-connected.
+\end{lemma}
+
+\begin{proof}%http://math.stackexchange.com/questions/305088/proof-that-a-n-hypercube-is-n-vertex-connected#305136
+  Let $u=(u_{0}, u_{1}, u_{n-1})$ and $v=(v_{0}, v_{1}, v_{n-1})$ \\
+  let us prove that by induction on $n \in \mathbb{N}^{*}$\\
+  \begin{itemize}
+   \item Case n=1 it works
+   \item Case n+1 assuming that it works for n
+   \begin{enumerate}
+    \item Case 1 : $\exists i \in [|0,n-1|]$, $u_{i}=v_{i}$ \\
+    Let $u_{|i}=(u_{0}, ..., u_{i-1}, u_{i+1}, ..., u_{n-1})$(resp $v_{|i}$) then by definition $(u_{|i}, v_{|i}) \in Q_{n-1}$\\
+    Hence by induction property (u,v) are (n-1)-connected in $Q_{n-1}$ ; therefor there is (n-1) vertice disjoint paths between u and v, noted $P_{n-1}^{|i}(u,v)$\\
+    Now we extend the paths as follow : 
+    $$
+    P_{n}(u,v) = \left\{p = (s^{1}, ..., s^{m}),
+    \begin{array}{lcl}
+        p_{|i}=(s_{|i}^{1}, ..., s_{|i}^{m}) \in P_{n-1}^{|i}(u,v) \cap Q_{n-1}^{m} & with & s_{|i}^{j}= (s_{0}, ..., s_{i-1}, s_{i+1}, ..., s_{m}\\
+        s^{j}= (s_{0}, ..., s_{i-1}, u_{i}, s_{i+1}, ..., s_{m}) & with & u_{i}=v_{i}\\
+    \end{array}
+    \right\}
+    $$
+    
+    $P_{n-1}^{|i}(u,v)$ is a set vertice disjoint paths so $P_{n}(u,v)$ too
+   \item Case 2: $\forall i \in [|0,n-1|]$, $u_{i} \neq v_{i}$ \\
+   Let $e_{j} = (0,...,0,1,0,...,0)$ ie $\bar{e_{j}} = 2^{j}$ and $u \leftrightarrow e_{j}= \bar{u} \text{ xor } \bar{e_{j}}$ \\
+   $$
+   P_{n}(u,v) = \left\{
+   (s_{0}, s_{1}, ..., s_{n-1}),
+   \begin{array}{c}
+   s_{0}=(u \leftrightarrow e_{j})\\
+   s_{1}=(s_{0} \leftrightarrow e_{j+1})\\
+   ...\\
+   s_{n-j}=(s_{n-j-1} \leftrightarrow e_{n})\\
+   s_{n-j+1} =(s_{n-j}\leftrightarrow e_{0})\\
+   ...\\
+   s_{n-1} = (s_{n-2}\leftrightarrow e_{j-1})\\
+   \end{array}
+   \right\}
+   $$
+   \end{enumerate}
+  \end{itemize}
+\end{proof}
+
+\begin{lemma}
+  $N_{d=i}(u) =$ neighbours of u at distance i\\
+  $i \le 4$ and $j \le 4$\\
+  $$
+    P_{n}^{d=(i,j)}(u,v) = \bigsqcup_{
+    \begin{array}{l}
+     u' \in N_{d=i}(u) \\
+     v' \in  N_{d=j}(v)\\
+    \end{array}
+    }{P_{n}(u',v')}
+  $$
+\end{lemma}
+
+\begin{lemma}
+Let $n \in \mathbb{N}, i\in [|1,n-1|]$, to disconnect a $H_{i}$ in $H_{n}$ we have to kill $(n-i)2^{i}$ nodes.\\
+\end{lemma}
+
+\begin{proof}
+Without loss of generality, we can express $Q_{i}$ as $Q_{n}$ subset with some prefix of length $n-i$ \\
+Let us choose one prefix : $pref=\sum_{j=i+1}^{n-1}{ \delta_{j}e_{j} }$ with $(\delta_{i+1}, ..., \delta_{n-1}) \in \{0,1\}^{n-i}$ \\
+Let
+$\begin{array}{ccccc}
+f & : & Q_{i} & \to & Q_{n} \\
+ & & s=\sum_{j=0}^{i}{ \delta_{j}e_{j} } & \mapsto & s'= pref + s \\
+\end{array}$
+$Q'_{i} = f(Q_{i})$ and $|Q'_{i}| = |Q_{i}|$\\\\
+  To disconnect $Q'_{i}$ from others we have to kill all nodes in $N( Q'_{i}) \backslash\lbrace{Q'_{i}}\rbrace$\\
+
+  \begin{tabular}{lcl}
+   $N( Q'_{i}) \backslash\lbrace{Q'_{i}}\rbrace$ & $=_{def}$ & $\{ u | d_{ham}(u,Q'_{i})=1\}$\\
+	& $=$ & $\{ u | u = pref' + v, v \in Q_{i}, d_{ham}(pref,pref')=1 \}$\\
+  $|N( Q'_{i}) \backslash\lbrace{Q'_{i}}\rbrace|$ & $=$ & $|\{pref'| d_{ham}(pref,pref')=1 \}| + |Q_{i}|$\\
+	& $=$ & $(n-i) 2^{i}$\\
+  \end{tabular}
+\end{proof}
+
+\begin{definition} Let $n \in \mathbb{N}^{*}$\\
+  Let $u \in Q_{n}$, $F_{u}$ is the state variable of u
+  $$F_{u} : \left\{ 
+  \begin{array}{cc}
+   F_{u}=0 & \text{u has failed  at time 0}\\
+   F_{u}=1 & \text{u has failed  at time 1}\\
+   ... & ...\\
+   F_{u}=i & \text{u has failed  at time i}\\
+  \end{array}
+  \right\}
+ $$\\
+ Let $\lambda \in ]0,1[$, $\forall t \in \mathbb{N}, \forall u \in Q_{n}, (F_{u}=t) = \lambda$ \\
+ More over we assume that $\forall (u,v) \in Q_{n}$, $u \neq v$ then $F_{u}, F_{v}$ are pairwise independent\\
+ 
+ Model durint transition t to t+1 there are not failure and all dead are replace
+\end{definition}
+
+\begin{remarque}
+  It is an uniform law, and it's not accurate probability increase with time and there is renewal
+\end{remarque}
+
+To redo with better modelisation!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+\begin{prop} 
+  Let $n \in \mathbb{N}^{*}, i \in [|1,n-1|], t \in [|1,n-1|]$, $p(Disconnect_{H(i)}=t)= \lambda ^{(n-i)2^{i}}$
+\end{prop}
+
+\begin{proof}Let $n \in \mathbb{N}^{*}, i \in [|1,n-1|], t \in [|1,n-1|]$\\
+  \begin{tabular}{lll}
+    $p(Disconnect_{H(i)})$ & $=$ & $p(F_{N( Q'_{i}) \backslash\lbrace{Q'_{i}}\rbrace}=t)$\\
+    & $=_{independent}$ & $\Pi_{u \in N( Q'_{i}) \backslash\lbrace{Q'_{i}}\rbrace}{p(F_{u}=t)}$\\
+    & $=_{independent}$ & $\lambda^{ N( Q'_{i}) \backslash\lbrace{Q'_{i}}\rbrace }$\\
+    & $=$ & $\lambda^{ (n-i) 2^{i} }$\\
+     \end{tabular}
+\end{proof}
+

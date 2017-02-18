@@ -1,0 +1,184 @@
+  \begin{tikzpicture}
+   \node[point] (a) {};
+   \node[point, below right=of a] (a1) {};
+   \node[node, below right=of a1] (0) {};
+   \node[node, right=of 0](1) {};
+   \node[node, below=of 1](2) {};
+   \node[node, left=of 2] (3) {};
+   \draw (3) -- (2) -- (1) -- (0) -- (3);
+   
+   \node[node, right=of 1] (4) {};
+   \node[node, right=of 4] (5) {};
+   \node[node, below=of 5] (6) {};
+   \node[node, left=of 6] (7) {};
+   \draw (7) -- (6) -- (5) -- (4) -- (7);
+   \draw[dashed] (1) -- (4);
+   \draw[dashed] (2) -- (7);
+   
+   \node[point, above right=of 5] (b1) {};
+   \node[point, right=of b1] (a2) {};
+   \node[node, below right=of a2] (8) {};
+   \node[node, right=of 8] (9) {};
+   \node[node, below=of 9] (10) {};
+   \node[node, left=of 10] (11) {};
+   \draw (11) -- (10) -- (9) -- (8) -- (11);
+   \draw[dashed] (5) -- (8);
+   \draw[dashed] (6) -- (11);
+   
+   \node[node, right=of 9] (12) {};
+   \node[node, right=of 12] (13) {};
+   \node[node, below=of 13] (14) {};
+   \node[node, left=of 14] (15) {};
+   \draw (15) -- (14) -- (13) -- (12) -- (15);
+   \draw[dashed] (9) -- (12);
+   \draw[dashed] (10) -- (15);
+   \node[point, above right=of 13] (b2) {};
+   \node[point, above right=of b2] (b) {};
+   
+   %% Deuxième ligne
+   \node[node, below=of 3] (16) {};
+   \node[node, right=of 16](17) {};
+   \node[node, below=of 17](18) {};
+   \node[node, left=of 18] (19) {};
+   \draw (19) -- (18) -- (17) -- (16) -- (19);
+   \node[point, below left=of 19] (d1) {};
+   \node[point, below=of d1] (a3) {};
+   
+   \node[node, right=of 17] (20) {};
+   \node[node, right=of 20] (21) {};
+   \node[node, below=of 21] (22) {};
+   \node[node, left=of 22] (23) {};
+   \draw (23) -- (22) -- (21) -- (20) -- (23);
+   \draw[dashed] (17) -- (20);
+   \draw[dashed] (18) -- (23);
+   \draw[dashed] (3) -- (16);
+   \draw[dashed] (2) -- (17);
+   \draw[dashed] (7) -- (20);
+   \draw[dashed] (6) -- (21);
+   
+   
+
+   \node[node, below=of 11] (24) {};
+   \node[node, right=of 24] (25) {};
+   \node[node, below=of 25] (26) {};
+   \node[node, left=of 26] (27) {};
+   \draw (27) -- (26) -- (25) -- (24) -- (27);
+   \draw[dashed] (21) -- (24);
+   \draw[dashed] (22) -- (27);
+   \draw[dashed] (11) -- (24);
+   \draw[dashed] (10) -- (25);
+   
+   \node[node, right=of 25] (28) {};
+   \node[node, right=of 28] (29) {};
+   \node[node, below=of 29] (30) {};
+   \node[node, left=of 30] (31) {};
+   \draw (31) -- (30) -- (29) -- (28) -- (31);
+   \draw[dashed] (25) -- (28);
+   \draw[dashed] (26) -- (31);
+   \draw[dashed] (14) -- (29);
+   \draw[dashed] (15) -- (28);
+   
+   \node[point, below right=of 30] (c2) {};
+   \node[point, below=of c2] (b4) {};
+   \node[point, below right=of 22] (c1) {};
+   \node[point, right=of c1] (d2) {};
+   
+   %%Trosième ligne
+   \node[node, below right=of a3] (32) {};
+   \node[node, right=of 32](33) {};
+   \node[node, below=of 33](34) {};
+   \node[node, left=of 34] (35) {};
+   \draw (35) -- (34) -- (33) -- (32) -- (35);
+   \draw[dashed] (18) -- (33);
+   \draw[dashed] (19) -- (32);
+
+   
+   \node[node, right=of 33] (36) {};
+   \node[node, right=of 36] (37) {};
+   \node[node, below=of 37] (38) {};
+   \node[node, left=of 38] (39) {};
+   \draw (39) -- (38) -- (37) -- (36) -- (39);
+   \draw[dashed] (33) -- (36);
+   \draw[dashed] (34) -- (39);
+   \draw[dashed] (22) -- (37);
+   \draw[dashed] (23) -- (36);
+   \node[point, above right=of 37] (b3) {};
+   \node[point, right=of b3] (a4) {};
+   
+   
+
+   \node[node, below right=of a4] (40) {};
+   \node[node, right=of 40] (41) {};
+   \node[node, below=of 41] (42) {};
+   \node[node, left=of 42] (43) {};
+   \draw (43) -- (42) -- (41) -- (40) -- (43);
+   \draw[dashed] (37) -- (40);
+   \draw[dashed] (38) -- (43);
+   \draw[dashed] (27) -- (40);
+   \draw[dashed] (26) -- (41);
+   
+   \node[node, right=of 41] (44) {};
+   \node[node, right=of 44] (45) {};
+   \node[node, below=of 45] (46) {};
+   \node[node, left=of 46] (47) {};
+   \draw (47) -- (46) -- (45) -- (44) -- (47);
+   \draw[dashed] (41) -- (44);
+   \draw[dashed] (42) -- (47);
+   \draw[dashed] (31) -- (44);
+   \draw[dashed] (30) -- (45);
+   
+   %%Quatrième ligne
+   \node[node, below=of 35] (48) {};
+   \node[node, right=of 48] (49) {};
+   \node[node, below=of 49] (50) {};
+   \node[node, left=of 50] (51) {};
+   \draw (51) -- (50) -- (49) -- (48) -- (51);
+   \draw[dashed] (34) -- (49);
+   \draw[dashed] (35) -- (48);
+   \node[point, below left=of 51] (d3) {};
+   \node[point, below left=of d3] (d) {};
+   
+   \node[node, right=of 49] (52) {};
+   \node[node, right=of 52] (53) {};
+   \node[node, below=of 53] (54) {};
+   \node[node, left=of 54] (55) {};
+   \draw (55) -- (54) -- (53) -- (52) -- (55);
+   \draw[dashed] (49) -- (52);
+   \draw[dashed] (50) -- (55);
+   \draw[dashed] (38) -- (53);
+   \draw[dashed] (39) -- (52);
+   \node[point, below right=of 54] (c3) {};
+   \node[point, right=of c3] (d4) {};
+   
+   
+   \node[node, below=of 43] (56) {};
+   \node[node, right=of 56] (57) {};
+   \node[node, below=of 57] (58) {};
+   \node[node, left=of 58] (59) {};
+   \draw (59) -- (58) -- (57) -- (56) -- (59);
+   \draw[dashed] (43) -- (56);
+   \draw[dashed] (42) -- (57);
+   \draw[dashed] (53) -- (56);
+   \draw[dashed] (54) -- (59);
+   
+   \node[node, right=of 57] (60) {};
+   \node[node, right=of 60] (61) {};
+   \node[node, below=of 61] (62) {};
+   \node[node, left=of 62] (63) {};
+   \draw (63) -- (62) -- (61) -- (60) -- (63);
+   \draw[dashed] (57) -- (60);
+   \draw[dashed] (58) -- (63);
+   \draw[dashed] (47) -- (60);
+   \draw[dashed] (46) -- (61);
+   
+   \node[point, below right=of 62] (c4) {};
+   \node[point, below right=of c4] (c) {};
+   
+   %second order hcube
+   \draw[green] (a1) -- (b1) -- (c1) -- (d1) -- (a1);
+   \draw[green] (a2) -- (b2) -- (c2) -- (d2) -- (a2);
+   \draw[green] (a3) -- (b3) -- (c3) -- (d3) -- (a3);
+   \draw[green] (a4) -- (b4) -- (c4) -- (d4) -- (a4);
+   \draw[red] (a) -- (b) -- (c) -- (d) -- (a);
+  \end{tikzpicture}
+  

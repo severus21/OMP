@@ -1,0 +1,30 @@
+\section{Metadata management/handling}
+\subsection{Hard metadata}
+Optional
+"Hard metadata" are the metadata needed to rebuild a file from a File ID(it is a Object ID, indeed SHA256(D) ensure unicity)\\
+
+After déduplication we obtains a list of chunks, a 4-uplets list (\textit{pos, length, id, data}).\\
+
+\begin{table}[h]
+  \centering
+  \begin{tabular}{|c|c|c|}
+    \hline
+    \textit{id} & ? see object naming & chunk's id, using Object Naming Protocol\ref{}\\
+    \textit{pos} & 8 Bytes & Begi"nn"ing of the chunk's data in the original file\\
+    \textit{length} & 8 Bytes & Length( bytes) of the chunk's data\\
+    \textit{checksum} & 4 Bytes & CRC32-C\\
+    \textit{data} & - & chunks' data\\
+    \hline
+  \end{tabular}
+  \caption{}
+\end{table}
+
+schema d'explication des niveaux d'indirection
+et rapide calcul de la taille max des fichiers stockés
+
+The improvement of the system of hard metadata : it is fully "transparant en terme d'architectur même service que la sauvegarde des chunks".
+
+\textbf{Nota Bene :} To rebuild a file we have only have to use the file retrieving API( chunks number)
+
+
+\subsection{Soft/abstract metadata}

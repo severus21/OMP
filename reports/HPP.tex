@@ -1,0 +1,312 @@
+\section{The Hypercube Placement Protocol}
+\subsection{Services}
+\begin{itemize}
+ \item Store objects
+ \item Restore objects
+ \item Remove objects
+ \item Optionnaly handle metadata
+\end{itemize}
+
+
+\subsection{Specifications}
+\begin{minipage}{0.49\textwidth}
+    \begin{tabular}{|c|}
+      \hline
+      Critical\\
+      Production\\
+      Feature\\ 
+      \hline
+    \end{tabular}
+\end{minipage}
+\begin{minipage}{0.49\textwidth}
+    \begin{tabular}{|c|c|}
+      \hline
+      0 & Nothing done\\
+      1 & Specification\\
+      2 & Algorithm\\
+      3 & Implementation\\ 
+      4 & Production\\
+      \hline
+     \end{tabular}
+\end{minipage}
+
+
+
+
+\begin{table}[h]
+  \centering
+  \begin{tabular}{|c|c|c|c|}
+    \hline
+    Service name & Description & Utility & State \\
+    \hline
+    Object placement & & Critical & 0 \\
+    Object access & & Critical & 0 \\
+    Object deletion & & Production & 0\\
+    Data replication & & Critical & 0 \\
+    Data integrity check & & Critical & 0 \\ %on each transaction
+    Node integrity check & & ? & 0 \\
+    Failure detection & & Critical & 0 \\
+    Node integrity update & & ? & 0 \\
+    Load balancing & & Critical & 0 \\
+    Data balancing & & Critical & 0 \\
+    Node addition & & Critical & 0 \\
+    Node deletion & & Critical & 0 \\
+    Quota/Permission & & Production & 0 \\
+    File versionning & Here or in metadata handling(delta chunking) ??? & ? & ? \\
+    \hline
+  \end{tabular}
+  \caption{}
+\end{table}
+
+\subsection{Local Complexity requirements}
+In a \textbf{n} nodes system, \textbf{m} number of objects:\\
+
+\begin{table}[h]
+  \centering
+  \begin{tabular}{|c|c|c|}
+  \hline
+  Description & Time & Space\\
+  \hline
+  Object placement & $O(\ln(n))$ &  $O(\ln(n))$ \\
+  Object access & $O(\ln(n))$ &  $O(\ln(n))$ \\
+  Object deletion & $O(\ln(n))$ & $O(\ln(n))$\\
+  Data replication & O(max( object placement, object access)) & O(max( object placement, object access))\\
+  Data integrity check & O(1) & O(1) \\
+  Load balancing & $O(\ln(n))$ &  $O(\ln(n))$ \\
+  Data balancing & $\frac{1}{m}$ migrations & $\frac{1}{m}$ migrations\\ %when a node is over filled
+  Node addition & $\frac{1}{m}$ migrations & $\frac{1}{m}$ migrations\\
+  Node deletion & $\frac{1}{m}$ migrations & $\frac{1}{m}$ migrations\\
+  Node integrity check & ? & ? \\ % we assume node still alive, if not it's node deletion
+  Node map(store on a node) & ? & $O(1)$ \\
+  Node map update & $O(1)$ & $O(1)$ \\
+  Node state & ? & $O(\ln(n))$ \\
+  Node state update & $O(\ln(n))$ & ? \\
+  \hline
+  \end{tabular}
+  \caption{}
+\end{table}
+Doit on décrire les différents sytème de cache ?? Filtre de bloom, cache in memmory 1/3 etc ??
+
+\subsection{Global Complexity}
+\begin{table}[h]
+  \centering
+  \begin{tabular}{|c|c|c|}
+  \hline
+  Description & Time & Space\\
+  \hline
+  Object placement & $O(\ln(n))$ messages propagation &  $O(n)$ messages  \\
+  Object access & $O(\ln(n))$ messages propagation &  $O(n)$ messages \\
+  Object deletion & $O(\ln(n))$ messages propagation &  $O(n)$ messages \\
+  Data replication & O(max( object placement, object access)) & O(max( object placement, object access))\\
+  Data integrity check & O(1) & O(1) \\
+  Load balancing & $O(\ln(n))$ messages propagation &  $O(n)$ messages \\
+  Data balancing & $\frac{1}{m}$ migrations & $\frac{1}{m}$ migrations\\ %when a node is over filled
+  Node addition & $\frac{1}{m}$ migrations & $\frac{1}{m}$ migrations\\
+  Node deletion & $\frac{1}{m}$ migrations & $\frac{1}{m}$ migrations\\
+  Node map update & $O(\ln{n})$ messages propagation & $O(n)$ messages\\
+  Node state update & $O(\ln{n})$ messages propagation & $O(n)$ messages\\
+  \hline
+  \end{tabular}
+  \caption{}
+\end{table}
+
+
+\section{The Global Node Map}
+\
+
+\subsection{Nodes clustering}
+  \begin{figure}[h]
+    \label{node-clustering}
+    \centering
+    \scalebox{0.9}{
+      \input{diagrams/node-clustering.tex}
+    }
+    \caption{2-2-hyper cube structure}
+  \end{figure}
+  
+The main idea is to split nodes in \textbf{k}-nodes cluster and to aggregate such cluster in second order cluster and so on( 
+in a fractal mod). In this papers we will consider a cluster as an Hyper Cube where vertex are node and edges is connection 
+between node( UDP/TCP connections). \\
+
+We split the node-ids domain in buckets of \textbf{k} nodes( that make a cluster) then we split we buckets domain in hight order buckets
+of \textbf{f} low order buckets and we repeat. 
+
+\subsection{Global Map}
+\begin{minipage}{0.49\textwidth}
+   \centering
+   \scalebox{0.3}{
+     \input{diagrams/2-2-hcube.tex}
+   }
+   \captionof{figure}{2-2-hyper cube structure}
+\end{minipage}
+\begin{minipage}{0.49\textwidth}
+So we can see the network, at any level, as an Hyper Cube where vertices are hypercube(recursively).
+\end{minipage}\\\\
+\begin{table}[h]
+  \centering
+  \begin{tabular}{|c|c|c|c|c|}
+    \hline
+    layer & Description & Number of vertices &  Number of nodes & Dimension\\
+    \hline
+    0		   	& node & 1 & 1 & 0\\
+    1		   	& $\alpha-dim$ hcube(vertices are nodes) & f & $f=2̂^{\alpha}$ & $\alpha$\\
+    l		   	& $\alpha-dim$ hcube(vertices are $\alpha-dim$ hcube) & $f$ & $f^{l} = 2^{\alpha l}$  & $\alpha$\\
+    \hline
+  \end{tabular}
+  \caption{}
+\end{table}
+
+\begin{definition} Global map\\
+  $$\text{Let }G^{f}(n), (f,n) \in \mathbb{N} \times \mathbb{N}^{*}, \text{ a global map where }
+  \left\{\begin{array}{ll}
+     f = 2^{\alpha} & \text{size of a cluster}\\
+     n 	& \text{number of nodes}\\ 
+     l(n) &  \text{number of layers of hypercube}\\
+    \alpha & \text{ mesh parameter}\\
+  \end{array}\right.$$\\
+  \begin{tabular}{cc}
+    let $G^{f}(n)=_{def} (V^{f}(n),E^{f}(n), Id_{f}) =_{def} (Q^{f}(n), Id^{f})$
+  \end{tabular}
+\end{definition}
+
+
+
+\begin{definition} Let $(f,l) \in \mathbb{N} \times \mathbb{N}^{*}$, $G_{l}^{f} = \left\{ G^{f}(n) |n \in \mathbb{N}, l(n) = l \right\}$\\
+\end{definition}
+
+\begin{definition} Let $n \in \mathbb{N}^{*}$, $l \in [|1, l(n)|]$, 
+$H_{l+1}^{f}(n) = (V_{l+1}^{f}(n), E_{l+1}^{f}(n), Id_{l+1}^{f})$\\
+Where $V_{l+1}^{f}(n) = \left\{V_{0}^{f}(n), ..., V_{f-1}^{f}(n)) \right\} \subset (Q_{l}^{f})^{f} $ and $Id_{l+1}^{f}(V_{i}^{f}(n)	)=i$\\
+$\forall v \in V, V_{l}^{f}(v) = V_{i}^{f}(n)$ where $i \in [|0,f-1|]$ such that $v \in V_{i}^{f}(n)$, i is uniq
+\end{definition}
+
+\begin{definition} global identifier\\
+  Let $(f,n) \in \mathbb{N} \times \mathbb{N}^{*}$, and $v \in V$:\\
+      $gid_{G^{f}(n)}(v) = gid_{l(n)}(v) \text{ where } \left\{ 
+	\begin{array}{llll}
+	 gid_{1}(v) & = & Id_{f}(v) & \\
+	 gid_{l+1}(v) & = & Id_{l+1}^{f}(V_{l}^{f}(v)) \times 2^{(l-1)\alpha+\alpha} + gid_{l}(v) & | 0 \leq l \le l(n)\\
+	\end{array}\right\}$\\  
+\end{definition}
+
+\begin{prop}
+Let $(f,n) \in \mathbb{N} \times \mathbb{N}^{*} gid_{G^{f}(n)}(v) =\sum_{l=1}^{l(n)-1} Id_{l}^{f}(V_{l}^{f}(v)) \times 2^{(l-1)\alpha}$
+\end{prop}
+
+
+\begin{definition}[ neighbourhood] Let $(f,n) \in \mathbb{N} \times \mathbb{N}^{*}, i \in Q^{f}(n)$,\\
+$N^{f}(i) =_{def}\bigcup_{l=1}^{l(n)}{N_{l}^{f}(v)}$\\
+$where \left\{
+\begin{array}{lll}
+ N_{1}^{f} & = &\{j|j\in Q^{f}(n), d_{ham}(i,j)=1\}\\
+ N_{1}^{f} & = &\{j|j\in Q^{f}(n), d_{ham}(i,j)=1\}\\
+\end{array}\right\}$
+
+\end{definition}
+
+
+\begin{prop}
+  Let $(f,n) \in \mathbb{N} \times \mathbb{N}^{*}$ then $l(n)-1 < \ln(\frac{|G^{f}(n)|}{f}-f) =_{def} \ln(\frac{n}{f}-f) \leq l(n)$\\ 
+\end{prop}
+
+\begin{proof}Let $(f,n) \in \mathbb{N} \times \mathbb{N}^{*}$\\
+  \begin{itemize}
+   \item Case 1 :   $Layers(G^{f}(n))$ is a perfect tree, hence there is $f^{l(n)}$ leaves(1-cluster)\\
+      Moreover there is $\frac{|G^{f}(n)|}{f}=\frac{n}{f}$ 1-cluster(ie leaves by construct)\\
+    \begin{tabular}{rcl}
+      $f^{l(n)}$ & = & $\frac{n}{f}$ \\
+      $l(n)\ln(f)$ & = & $\ln(\frac{n}{f})$\\
+      $l(n)$ & = & $\ln(\frac{n}{f}-f)$\\ 
+    \end{tabular}
+   \item Case 2 :   $G^{f}(n)$ is a complete tree\\
+     Therefore 
+    \begin{tabular}{lclcl}
+      $f^{l(n)-1}$ & $<$ & $\frac{|G^{f}(n)|}{f}$ & $\leq$ & $f^{l(n)}$\\
+      $(l(n)-1)\ln(f)$ & $<$ & $\ln(\frac{n}{f})$ & $\leq$ & $l(n)\ln(f)$\\
+      $l(n)-1$ & $<$ & $\ln(\frac{n}{f}-f)$ & $\leq$ & $l(n)$\\ 
+    \end{tabular}
+  \end{itemize}
+\end{proof}
+
+
+ 
+ 
+\begin{lemma} \label{lemma-min_connexity}
+  Let $(k,f,d) \in \mathbb{N} \times \mathbb{N} \times \mathbb{N}^{*}$, $G^{f}$ is $\min(\ln(k),\ln(f))$-connected
+\end{lemma}
+ 
+ \begin{proof}
+  
+ \end{proof}
+ 
+ \begin{lemma}
+  Let blablabla, $\forall l \in [|2,lmax-1|]$, the network composed of l-hcube(ie l-hcube are vertices) is f-connexe.
+ \end{lemma}
+
+ \begin{proof}
+ same proof ass \ref{lemma-min_connexity}
+\end{proof}
+
+\begin{lemma}
+ If a node is in cluster at d distance of the fronter then it is $k*f^{d}$ connexe with >d distance of fronter.
+ Note that d<=ln(n) (esperance en kf(n/2) ? )
+\end{lemma}
+
+\begin{proof}
+ todo
+\end{proof}
+
+\begin{lemma}
+ A node as exactly k+f neightbourgs if it is not in the fronteir and k< <k+f otherwith.
+\end{lemma}
+
+\begin{proof}
+ Todo
+\end{proof}
+
+
+Lets describe the semantic of the network, vertices are nodes where data is/are? stored, edges is the allowed cmmunication 
+channel used for all except data transmition. Indeed as soon as data location is computed both node open a direct channel, the network provide low overhead 
+with node discovering, data placement, global node map modifications and in the other hand it provide very fast data transfert by bypassing the topologie of the network.
+\\
+We will call communication rounds : each $\tau$s (something like 0.1, a parameter) each node send data map modification to its neightbourg and heartbeat
+
+\subsection{Object placement}
+\begin{minipage}{0.49\textwidth}
+   \centering
+   \scalebox{0.1}{
+     \input{diagrams/hrw-skeleton.tex}
+   }
+   \captionof{figure}{HRW with skeleton, $f=2$, $k=3$}
+\end{minipage}
+\begin{minipage}{0.49\textwidth}
+We will use a distributed version of HRW(ref todo ?) with skeleton. Each lvl of the skeleton will correspond to an hyper cube lvl.\\
+Nota bene the skeleton has no need to  be construct and store, indeed we only need(ln(|skeleton|) at each request) so we will rebuild a part each time.
+\end{minipage}\\
+
+\begin{algorithmic}
+    \State v : noeud précédant
+    \State u : noeud courant
+    \State s : état de l'agent
+    \If {$s = 0$}
+
+    \State $i\gets random(0, deg(u)-1)$
+    \State $s \gets deg(u)$
+    \State $move\_to( end(v,i) )$
+       \Else
+    \State $p \gets \min_{ \frac{s}{deg(u)}, 1}$
+    \If {$random() \leq p$}
+      \State $s \gets 0$
+    \Else
+      \State $reverse\_move$
+    \EndIf
+      \EndIf
+ \end{algorithmic}
+
+% First lets assumes we have the knowledge of the whole map.\\
+
+\subsection{Adding new node}
+Problème du *2, inserer par le bas : deplacement de données??
+
+\subsection{Implementation details}
+Memoisation of the entire map if network not to huge : $O(1) message$

@@ -1,0 +1,8 @@
+[package]
+name = "t"
+version = "0.0.0-dev"
+authors = ["Laurent Prosperi <laurent.prosperi@ens-cachan.fr>"]
+
+[dependencies]
+rust-crypto = "^0.2"
+time = "0.1"
