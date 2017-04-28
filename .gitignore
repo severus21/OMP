@@ -45,4 +45,5 @@ Cargo.lock
 
 references/
 txt/
+*.csv
 

@@ -1,0 +1,213 @@
+use std::io::prelude::*;
+use std::io::{Cursor, Error, BufReader, BufWriter, SeekFrom};
+use std::fs::File;
+
+use dedup::chunk::{HChunk, Chunk, ChunkType, ChunkEntry, ENTRY_LEN, MAX_CHUNKS_LEN};
+use dedup::rabin::{BUFF_MAX_SIZE};
+use storage::storage_handler::BlobIndex;
+use dedup::dedup::Phi;
+
+use std::collections::HashMap;
+
+use std::cmp::min;
+
+//TODO
+//LA fonction de hashage pour les id devrait être encodé dans un module
+//Pareil pour rabin, utiliser le même module
+extern crate crypto;
+use self::crypto::digest::Digest;
+use self::crypto::sha2::Sha256;
+
+pub struct Client{
+    db : BlobIndex,
+    phi  : Phi,      
+}
+
+impl Client{
+    pub fn new(db_location:String) -> Client {
+        Client{
+            db : BlobIndex::new(db_location, 1000, 100),
+            phi : Phi::new()        
+        }
+    }
+    
+    fn _get(&mut self, mut entries: Vec<ChunkEntry>, ref out_location:&str) -> Result<u64, Error>{
+        let mut writer = BufWriter::with_capacity(BUFF_MAX_SIZE, 
+            try!(File::create(out_location)));
+        
+        let mut memory = HashMap::new();
+        let mut effectively = 0;
+        while !entries.is_empty(){
+            
+        print!("Entries {} \n", entries.len());
+            let entry = entries.pop().unwrap();
+            if memory.contains_key(&entry.id){
+                panic!("FUCK fUCK FUCK!!!\n");
+            };
+            memory.insert(entry.id.clone(), 1);
+            let chunk = match try!(self.db.get_chunk(&entry.id)){
+                None => panic!("No chunk {} in db\n", entry.id),
+                Some(chunk) => chunk
+            };
+            
+            match chunk._type{
+                ChunkType::Data =>{
+                    effectively += chunk.len;
+                    try!(writer.seek(SeekFrom::Start(chunk.begin)));
+                    try!(writer.write_all(&chunk.data[..]));
+                }, ChunkType::Index =>{
+                    for _entry in &try!(chunk.to_entries()){
+                        print!("{}\n", chunk.id);
+                            assert!(_entry.id != chunk.id);
+                    }
+                    entries.extend( try!(chunk.to_entries()) );
+                }, ChunkType::File => panic!("DB corrupted, it could not be file")
+            }
+        }
+        print!("Effectively {}\n", effectively);
+        Ok( try!(writer.seek(SeekFrom::End(0))) )
+    }
+
+    pub fn get(&mut self, id:String, out_location : &str) -> Result<(),Error>{
+        let file_chunk = match try!(self.db.get_chunk(&id)){
+            None => panic!("No file {} in db\n", id),
+            Some(chunk) =>chunk
+        };
+        let file_size = try!(self._get(try!(file_chunk.to_entries()), out_location));
+        print!("Coucou\n");
+        //Integrity check, TODO maybe automated in some mod
+        let mut hasher = Sha256::new();
+        let mut reader = BufReader::with_capacity(BUFF_MAX_SIZE, 
+                                                  try!(File::open(out_location))); 
+        loop{
+            let len = {
+                let buff = try!(reader.fill_buf());
+                hasher.input(&buff[0..buff.len()]);
+                buff.len()
+            };
+            if len == 0{
+                break;    
+            }
+            reader.consume(len);    
+        }
+        
+        if hasher.result_str() != id{
+            panic!("File corrupted\n");
+        }
+        Ok(())    
+    }
+    
+    fn split_hierarchy(&mut self, mut hierachy:Vec<HChunk>)-> Result<(Vec<Chunk>,
+    Vec<Chunk>), Error>{
+        let mut new_chunks = Vec::new();
+        let mut update_chunks = Vec::new();
+
+        while !hierachy.is_empty(){
+            let hchunk = hierachy.pop().unwrap();
+
+            if try!(self.db.exists_chunk(&hchunk.id)){
+                update_chunks.extend( hchunk.to_chunks() );
+            }else{
+                new_chunks.push(hchunk.as_index_chunk());
+                hierachy.extend( hchunk.subchunks );
+                //new_chunks.extend(hchunk.to_chunks());
+                /*let mut index = Cursor::new(Vec::new());
+                for _hchunk in &hchunk.subchunks{
+                    _hchunk.write_entry(&mut index);
+                }
+                
+                let mut chunk = hchunk.as_chunk();
+                chunk.data = index.into_inner();
+                assert_eq!(chunk.data.len() % 80, 0); 
+                new_chunks.push(chunk);*/
+            }
+        }
+        Ok((new_chunks, update_chunks))
+    }
+    
+    pub fn set(&mut self, input_location : &str) -> Result<String,Error>{
+        let mut hasher = self.phi.hasher(input_location);
+        let mut hierarchy = Vec::new();
+        let file_id = try!(hasher.process(&mut hierarchy, input_location)); 
+        
+        
+        let mut file_index :Cursor<Vec<u8>> = Cursor::new(Vec::new());
+        for hchunk in &hierarchy{
+            hchunk.write_entry(&mut file_index);
+        }
+        
+        let (mut new_chunks, update_chunks) = try!(self.split_hierarchy(hierarchy));
+        let (mut j1, mut j2, mut j3) = (0,0,0);
+        for chunk in &update_chunks{
+            match chunk._type {
+                ChunkType::Data =>j1+=1 ,
+                ChunkType::Index => j2+=1,
+                ChunkType::File =>(),
+            };
+            try!( self.db.add_chunk(chunk));
+        }
+        print!("{} {} {}\n", j1, j2, j3);
+        
+        let mut reader = BufReader::with_capacity(BUFF_MAX_SIZE, try!(
+                File::open(input_location)));
+        let file_len = try!(reader.seek(SeekFrom::End(0))); 
+
+        for chunk in &mut new_chunks{
+            match chunk._type{
+                ChunkType::Data =>{
+                    reader.seek( SeekFrom::Start(chunk.begin) );
+                    chunk.read_data(&mut reader);
+                },
+                _ =>() //already fill by hchunk 
+            }
+            try!( self.db.add_chunk(chunk));
+        }
+        
+        //Now, we will have to write the index in a file and make it store by the system at id :
+        //sha224 of file
+        let mut file_index = file_index.into_inner();
+        let mut index_len = file_index.len();
+        let mut new_index = Cursor::new(Vec::new());
+        
+        let mut hasher = Sha256::new();
+        while file_index.len() >= MAX_CHUNKS_LEN{
+            assert!((index_len/80) * 80 == index_len);
+            for (i,slice) in file_index.chunks(MAX_CHUNKS_LEN % ENTRY_LEN).enumerate(){
+                hasher.reset();
+                hasher.input(slice);
+
+                let chunk = Chunk{
+                    _type : ChunkType::Index,
+                    id    : hasher.result_str(),
+                    begin : i as u64 * MAX_CHUNKS_LEN as u64,
+                    len   : min( (i+1) as u64 * MAX_CHUNKS_LEN as u64, index_len as u64),
+                    data  : Vec::from(slice)
+                };
+                chunk.write_entry(&mut new_index);
+
+                try!(self.db.add_chunk(&chunk));
+            }
+
+            file_index = new_index.into_inner();
+            index_len = file_index.len();
+            new_index = Cursor::new(Vec::new());
+        }
+
+        let chunk = Chunk{
+            _type : ChunkType::File,
+            id : file_id,
+            begin : 0,
+            len : index_len as u64,
+            data : file_index
+        };
+        assert_eq!(index_len % 80, 0); 
+        try!(self.db.add_chunk(&chunk));
+        assert!(try!(self.db.exists_chunk(&chunk.id)));
+        print!("END OF SET\n");
+        Ok(chunk.id.clone())    
+    }
+
+}
+
+
+

@@ -6,3 +6,7 @@ authors = ["Laurent Prosperi <laurent.prosperi@ens-cachan.fr>"]
 [dependencies]
 rust-crypto = "^0.2"
 time = "0.1"
+mime = ">=0.1, <0.3"
+mime_guess = "1.8.1"
+byteorder = "1.0.0"
+tempfile = "2.1.5"
