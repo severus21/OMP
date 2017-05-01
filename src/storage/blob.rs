@@ -178,7 +178,7 @@ impl Blob{
     
     pub fn remove(&mut self, dir:PathBuf, id:&String) -> Result<(), Error>{
         assert!(self.loaded);
-
+        print!("1\n");
         if !self.exists(id){
             return Ok(());
         }
@@ -186,6 +186,7 @@ impl Blob{
         let pos = self.find_pos(id);
         {
             let ref mut entry = self.metadata[pos];
+            print!("_ref {}\n", entry._ref);
             entry._ref -= 1;
         };
 
@@ -193,6 +194,7 @@ impl Blob{
             return Ok(());
         }
 
+        print!("2\n");
         //.data
         try!(rename(self.location_data(dir.clone()),
             self.location_tmpdata(dir.clone())));
@@ -247,7 +249,7 @@ impl Blob{
         self.mutated = true;
 
         Ok(())
-}
+    }
 
     pub fn get(&self, location:PathBuf, id:&String) -> Result<Option<Chunk>, Error>{
         assert!(self.loaded);

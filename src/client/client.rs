@@ -7,10 +7,13 @@ use dedup::rabin::{RabinHasher, BUFF_MAX_SIZE};
 use storage::storage_handler::BlobIndex;
 use dedup::dedup::{Phi,Rule};
 
+use utility::visit_files;
+
 use std::collections::HashMap;
 
 use std::cmp::min;
 
+use std::path::Path;
 //TODO
 //LA fonction de hashage pour les id devrait être encodé dans un module
 //Pareil pour rabin, utiliser le même module
@@ -195,6 +198,16 @@ impl Client{
         print!("END OF SET\n");
         Ok(root.id.clone())    
     }
+    
+    pub fn remove(&mut self, id:String)->Result<(),Error>{
+        self.db.remove_chunk(&id)
+ 
+    }
+
+    //TODO CASACADE D'erreusr
+    /*pub fn sync(&mut self, input_location : &str) -> Result<String,Error>{
+        visit_files(Path::new(input_location), &(|entry| self.set(&entry.path().to_str().unwrap()).unwrap())); 
+    }*/
 
 }
 

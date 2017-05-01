@@ -11,39 +11,13 @@ Cargo.lock
 ## End Rust
 
 
-
-## Begin Latex
-*.aux
-*.glo
-*.idx
-*.log
-*.toc
-*.ist
-*.acn
-*.acr
-*.alg
-*.bbl
-*.blg
-*.dvi
-*.glg
-*.gls
-*.ilg
-*.ind
-*.lof
-*.lot
-*.maf
-*.mtc
-*.mtc1
-*.out
-*.pdf
-*.synctex.gz
-
-# Kyle
-*.backup
-## End Latex
-
-
-references/
-txt/
+#Report
 *.csv
 
+#Vim
+*.swp
+
+#Test igenerated files 
+tests/**.index
+tests/**.txt
+tests/**.data

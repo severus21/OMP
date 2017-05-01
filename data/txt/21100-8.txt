@@ -1,0 +1,4568 @@
+The Project Gutenberg EBook of Titus Andronicus, by William Shakespeare
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Titus Andronicus
+
+Author: William Shakespeare
+
+Translator: Paavo Cajander
+
+Release Date: April 16, 2007 [EBook #21100]
+
+Language: Finnish
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK TITUS ANDRONICUS ***
+
+
+
+
+Produced by Tapio Riikonen
+
+
+
+
+
+
+TITUS ANDRONICUS
+
+Kirj.
+
+William Shakespeare
+
+
+Paavo Cajanderin suomennos ilmestyi 1912.
+
+
+
+Näytelmän henkilöt:
+
+SATURNINUS, viimeisen Rooman keisarin poika, sittemmin keisari.
+BASSIANUS, hänen veljensä, Lavinian kanssa kihloissa.
+TITUS ANDRONICUS, roomalainen ylimys, päällikkö sodassa
+  gootteja vastaan.
+MARCUS ANDRONICUS, kansantribuuni, Tituksen veli.
+LUCIUS,   |
+QVINTUS,  |  Titus Andronicuksen poikia.
+MARTIUS,  |
+MUCIUS,   |
+Nuori LUCIUS, Luciuksen poika.
+PUBLIUS, Marcus Andronicuksen poika.
+AEMILIUS, roomalainen ylimys.
+ALARBUS,    |
+DEMETRIUS,  |  Tamoran pojat
+CHIRON,     |
+AARON, maurilainen, Tamoran rakastaja.
+Sotapäällikkö.
+Tribuuni.
+Sanansaattaja.
+Talonpoika.
+Goottilaisia ja roomalaisia.
+TAMORA, goottein kuningatar.
+LAVINIA, Titus Andronicuksen tytär.
+Lapsenhoitaja, ja musta lapsi.
+
+Senaattoreja, tribuuneja, oikeudenpalvelijoita, sotureita
+ja seuralaisia.
+
+Tapahtumapaikkana Rooma ja sen lähiseudut.
+
+
+
+
+ENSIMMÄINEN NÄYTÖS.
+
+
+Ensimmäinen kohtaus.
+
+    Rooma. Kapitolin edusta.
+
+    (Andronicus-suvun hauta näkyvissä. Ylempänä esiintyvät
+    tribuunit ja senaattorit, alempana toisella sivulla
+    Saturninus seuralaisineen, toisella Bassianus seuralaisineen.)
+
+SATURNINUS.
+Patriisit jalot, oikeuteni tukeet,
+Aseilla asiaani ajakaa;
+Te, kansalaiset, rakkaat toverini,
+Perintöäni miekoin puolustakaa.
+Sen vanhin poika olen, jota viimeks
+Somisti Rooman valtadiadeema.
+Isäni arvon tahdon omistaa;
+Ei sortaa esikoisuuttani saa.
+
+BASSIANUS.
+Toverit, suosijani, Rooman miehet,
+Caesarin poikaan, Bassianukseen,
+Jos mieltynyt on Rooman valtasilmä,
+Tie Kapitoliin sulkekaa ja älkää
+Häpeän lähestyä salliko
+Sit' istuinta, jok' oikeuden, hyveen,
+Jalouden, kohtuuden on pyhäkkö,
+Vaan vaali suokoon voiton ansiolle;
+Ajakaa vaalin vapautta, miehet.
+
+    (Marcus Andronicus astuu esiin, kruunu kädessä.)
+
+MARCUS.
+Te, prinssit, jotka ystävin ja lahkoin
+Tapaatte kruunua ja valtaa, tietkää,
+Ett' yksimielisesti Rooman kansa,
+Jot' edustamme me, nyt vaalin kautta
+On Rooman keisariksi määrännyt
+Andronicuksen, joka Pius-nimen
+Sai suurist' ansioistaan Roomaa kohtaan.
+Niin kelpo miestä, oivaa sotilasta
+Ei ole toista tässä kaupungissa.
+Senaatti hänet kutsunut on kotiin
+Sodista ankarista goottein maalta.
+Hän, vihollisten kauhu, poikineen
+Tuon sotaisan ja vahvan kansan voitti.
+On asiaamme vuotta kymmenen
+Hän puoltanut ja miekoin lannistanut
+Vihollis-uhkaa. Viidesti hän Roomaan
+Palasi haavoissaan ja poikans' uljaat
+Toi tantereelta kotiin kirstuissa.
+Nyt vihdoin voitonmerkein ahdattuna
+Palajaa Roomaan taas Andronicus,
+Kehuttu Titus, aseloistossaan.
+Siis pyydämme -- sen miehen kunniaksi,
+Jonk' aimo jälkeläisen saavan suotte,
+Ja senaatin ja Kapitolin nimeen,
+Joit' arvon kunnioittaa tahdotte --
+Eritkää, hajoittakaa seurueenne!
+Pois väkivalta! Nöyrää rauhan tietä
+Siivosti esiintuokaa ansionne.
+
+SATURNINUS.
+Tribuunin kaunis puhe suostuttaa.
+
+BASSIANUS.
+Marcus Andronicus, niin suoruuteesi
+Ja totuuteesi luotan, niin sua hellin
+Ja omaisias, niin on mulle rakas
+Sun jalo veljes Titus poikineen
+Ja hän, joss' aatokseni kaikki elää,
+Lavinia armas, Rooman kaunistus,
+Ett' ystäväni kaikki kotiin päästän
+Ja onneni kansansuosin vaakaan
+Ma punnittavaks asiani heitän.
+
+    (Bassianuksen seuralaiset menevät.)
+
+SATURNINUS.
+Te ystävät, te oikeuteni tukeet,
+Nyt kiittäin teidät kotiin lasken kaikki,
+Ja maani suopeuteen ja suosioon
+Ma itseni ja asiani heitän.
+    (Saturninuksen seuralaiset menevät.)
+Niin ole, Rooma, hyvänsuopa sinä,
+Kuin sinuun luottava ja harras minä.
+Avatkaa portit minun sisään mennä.
+
+BASSIANUS.
+Niinikään minun, halvan kilpaajan.
+
+    (Menevät ylös Kapituliin.)
+
+
+Toinen kohtaus.
+
+    Sama paikka.
+
+    (Eräs päällikkö tulee.)
+
+PÄÄLLIKKÖ.
+Tie auki! Sankari Andronicus,
+Hyveiden turva, Rooman uljain urho,
+Sodissa kaikiss' aina voittoisa,
+Palannut onnell' on ja kunnialla
+Seuduilta, missä miekoin ahdisti
+Ja alleen voitti Rooman viholliset.
+
+    (Torvien ja rumpujen soidessa tulevat Martius ja Mucius;
+    heidän jäljessään kaksi miestä, jotka kantavat mustalla
+    vaatteella peitettyä ruumiinarkkua; sitten Qvintus ja Lucius.
+    Heidän jälkeensä Titus Andronicus; sitten Tamora, Alarbus,
+    Demetrius, Chiron, Aaron ja muita gootteja vankeina; sotureita
+    ja kansaa. Kantajat laskevat arkun maahan ja Titus puhuu.)
+
+TITUS.
+Sua tervehdin,
+Surupuvussasi voittorikas Rooma!
+Kuin laiva, purettuaan tavaransa,
+Taas kalleuksineen palaa satamaan,
+Miss' ensin nosti ankkurin, niin tulee
+Andronicuskin laakeroituna
+Ja maataan tervehtelee kyynelin,
+Ilokyynelin, taas Rooman nähdessään.
+Zeus, Kapitolin suojelija suuri,
+Luo pyhiin menoihimme armon katse!
+Viidestäkolmatt' urho-pojasta --
+Puolt' enempää ei Priamuksell' ollut --
+On tässä jäännös, elävä ja kuollut.
+Palkitkoon Rooma lemmell' eloon jääneet,
+Ja niille, jotka nyt vien viimelepoon,
+Se haudan suokoon esi-isäin viereen.
+Täss' suovat gootit levon miekalleni.
+Omistas huoletonna, julma Titus,
+Viel' annatko sa poikas hautaamatta
+Kamalaa Styxin rantaa harhailla? --
+Nuo veljein viereen viekää! -- (Hautaholvi avataan.) Toisianne
+Nyt vaiti tervehtikää kuolleen tapaan!
+Levossa maatkaa, isänmaanne uhrit! --
+Oi, sinä, ilojeni pyhä piilo,
+Avujen, aateluuden kallis säily,
+Kuin monta poikaa multa kätketkään,
+Joit' isä ei näe enää ikänään!
+
+LUCIUS.
+Suo meille uljain goottilainen vanki,
+Sen että silvomme ja roviolla
+Ad manes fratrum lihat uhraamme
+Tään tyrmän eessä, miss' on veljein luut,
+Niin että haamut leppymättömät
+Maan pääll' ei kummittelis hirmuksemme.
+
+TITUS.
+Ylevin näistä viekää: vanhin poika
+Tuon onnettoman kuningattaren.
+
+TAMORA.
+Seis, roomalaiset veljet! -- Armon herra,
+Voittoisa Titus, sääli kyyneleitä,
+Emon kyyneleitä pojan puolesta!
+Jos sinun poikas oli kalliit sulle,
+Mun poikani on yhtä kallis mulle.
+Siin' eikö kyllä, että vankeina
+Toit meidät Roomaan ikeen-alaisina
+Paluutas, voittomatkaas ylentämään?
+Kadulla vielä poikaniko tapat,
+Siks että sankarina maataan puolsi?
+Sun poikasi jos oikeus oli maataan
+Ja kuningastaan puoltaa, niin myös minun.
+Oi, Titus, hautaas älä verin tahraa!
+Jumalten luonnett' omistaa jos tahdot,
+Sit' armon antajana omista:
+On armo tosi-aateluuden merkki.
+Suur' Titus, säästä esikoistani!
+
+TITUS.
+Anteeksi, rouva hyvä; mieles malta.
+Nuo niiden veljiä on, jotka kansas
+Näk' elossa ja kuolleina; nyt hurskaast'
+Anovat veljein veren sovitusta.
+On uhri poikas; hänen kuolla täytyy,
+Jott' uikuttavat haamut tyyntyisi.
+
+LUCIUS.
+Pois hänet viekää! Heti tulen tekoon!
+Ja miekoillamme ruumis roviolla
+Niin silpokaamme, ettei palaa jää.
+
+    (Lucius, Qvintus, Martius ja Mucius menevät, mukanaan Alarbus.)
+
+TAMORA.
+Jumalatonta, julmaa hurskautta!
+
+CHIRON.
+Noin raaka puoliksiko Scythiakaan?
+
+DEMETRIUS.
+Äl' ylvään Roomaan vertaa Scythiaa.
+Alarbus lepoon käy; me eloon jäämme
+Tituksen katseen uhkaa vapisemaan.
+Kokoa mieles, äiti; toivo vielä:
+Ne jumalat, joilt' aseet alkeat
+Sai Troian kuningatar[1] verin kostaa
+Trakian tyrannille teltassaan,
+Myös suovat, että goottein kuningatar --
+Niin, kuningatar, gootteja kuin gootit --
+Saa verin kostaa vihollisilleen.
+
+    (Lucius, Qvintus, Martius ja Mucius palaavat, miekat vyöllä.)
+
+LUCIUS.
+Isä ja herra, roomalainen tapa
+On suoritettu: silvottu Alarbus;
+Sisukset vireill' uhritulta pitää,
+Jok' ilmaa höystää niinkuin suitsutus.
+Nyt jäljell' on vain veljet haudata
+Ja riemuin heitä tervehtiä Roomaan.
+
+TITUS.
+Se tehkää! Heidän sieluilleen nyt lausuu
+Hyvästit viimeiset Andronicus:
+    (Torvien soidessa arkku lasketaan hautaan.)
+Levätkää kunniassa, poikani!
+Rauhassa maatkaa, Rooman parhaat urhot,
+Maailman muutteista ja murheist' erin!
+Ei täällä vilppi vaani, kateus paisu,
+Ei kiron myrkyt kasva, ei käy myrsky,
+Ei melu, kaikk' on tyyntä iki-unta.
+Levätkää kunniassa, poikani!
+
+    (Lavinia tulee.)
+
+LAVINIA.
+Eläköön kunniassa kauan Titus!
+Ylevä isä, elä maineessa!
+Tään haudan partaalla ma kyynelveron
+Nyt maksan veljieni peijaisiksi,
+Ja polvill' edessäsi maata kastan
+Paluusi johdost' ilokyynelin.
+Mua siunaa voitokkaalla kädelläsi,
+Jonk' onnest' iloitsevat Rooman parhaat.
+
+TITUS.
+Oi, hyvä Rooma, tämän lievikkeen
+Sydämmen iloks säästit vanhukselle! --
+Lavinia, elä iäkkäämmäks isää,
+Hyveides mainett' ikuisesti lisää!
+
+    (Marcus Andronicus, Saturninus, Bassianus ja muita tulee.)
+
+MARCUS.
+Eläköön kauan Titus, veli rakas!
+Triumphis Roomalle on ilonäky.
+
+TITUS.
+Suur' kiitos, tribuuni ja jalo veljyt!
+
+MARCUS.
+Ja tervetulleet sodast' onnekkaasta,
+Te langot elävät ja kaatuneet.
+On sama onnen osa teillä, nuoret,
+Jotk' isänmaanne eestä taistelitte;
+Mut sen on peijaisjuhla taattavin,
+Ken Solonin on onnen saavuttanut[2]
+Ja maineen vuoteell' uhmaa sattumaa.
+Titus Andronicus, tää Rooman kansa,
+Jonk' aina olit tosi ystävä,
+Mun, tribuuninsa, kautta lähettää
+Tään valkean ja tahrattoman vaipan[3]
+Ja kuolleen keisarimme poikain kanssa
+Sun keisar'ehdokkaaksi asettaa.
+Se ylles pue, ole _candidatus_,
+Ja Roomaa päätönt' auta saamaan pää.
+
+TITUS.
+Parempaa päätä jalo ruumis kaipaa
+Kuin vanhan heikkoudesta vaappuvaa.
+Tähänkö pukeuisin vaivaks teille?
+Mun tänään julkisesti valitsette
+Ja huomenn' elämän ja kruunun heitän
+Ja uutta vaivaa teille tuotan vain. --
+Ma vuotta neljäkymment' olen ollut
+Soturis, Rooma, onnell' ohjannut
+Maan sotavoimaa, hautaan kätkenyt
+Ykskolmatt' urhopoikaa, jotka saivat
+Ritarilyönnin kentällä ja aseiss'
+Uroina maansa eteen kaatuivat.
+Kunniasauva vanhukselle sopii,
+Ei maita vallitseva valtikka;
+Sen viime pitäjässä lujuutt' oli.
+
+MARCUS.
+Sa kruunun, Titus, saat, jos sitä pyydät.
+
+SATURNINUS.
+Tribuuni julkea, vai tiedät sen?
+
+TITUS.
+Oi, tyynny, Saturninus!
+
+SATURNINUS.
+                        Roomalaiset,
+Minulle oikeutta! -- Miekka maalle,
+Patriisit! Älkää kätkekö sit' ennen
+Kuin Saturninus Rooman keisar' on. --
+Pois hornan kattilaan, Andronicus,
+Jos multa kansan sydämmet sa ryöstät!
+
+LUCIUS.
+Mies ylpeä, jok' onnes ehkäiset,
+Kun jalo Titus hyvää sulle aikoo!
+
+TITUS.
+Oi, tyynny, prinssi! Kansan sydämmet
+Ma sulle hankin, puolees taivutan ne.
+
+BASSIANUS.
+Andronicus, min' en sua imartele.
+Vaan kunnioitan kuolinhetkeen asti.
+Jos lahkoani ystävilläs lisäät,
+Niin suuresti sua kiitän; kiitoshan
+On jalomielisille parhain palkka.
+
+TITUS.
+Te, jalot tribuunit, ja Rooman kansa,
+Äänenne pyydän, vaali-oikeutenne:
+Ne uskokaa Andronicukselle.
+
+TRIBUUNIT.
+Andronicusta kunnioittaakseen
+Ja urhon kotiin paluust' iloitakseen,
+Sen kansa ottaa, kenen määrää hän.
+
+TITUS.
+Tribuunit, kiitos suur'! Siis Saturninus
+Valitkaa, keisarinne vanhin poika,
+Jonk' avut varmaan Roomaa kirkastavat,
+Niin kuin Titaanin säteet maailmaa,
+Ja oikeuden kypsyttävät maassa.
+Jos neuvoani kuulette, niin hänet
+Siis kruunatkaa, -- ja keisar' eläköön!
+
+MARCUS.
+Patriisit ja plebeijit, yhteis-äänin
+Ja hurraa-huudoin Saturninuksen
+Siis valitsemme Rooman keisariksi:
+Eläköön keisarimme Saturninus!
+
+    (Pitkällistä torventoitausta.)
+
+SATURNINUS.
+Titus Andronicus, sua suosiostas
+Mua kohtaan tämän päivän vaalissa
+Täss' ansiosi-mukaisesti kiitän
+Ja töillä hyvyytesi palkitsen.
+Aluksi, Titus, korottaakseni
+Sun mainettas ja perhees arvoa,
+Ma teen Laviniasta keisarinnan,
+Sydämmeni ja Rooman haltijan,
+Ja Pantheoniss' otan avioksi.
+Tää onko mieleesi, Andronicus?
+
+TITUS.
+On, arvon herra; tämä liitto mulle
+On varsin kunniaksi. Rooman nähden
+Täss' omistan nyt Saturninukselle,
+Kuninkaalle ja valtakunnan päälle,
+Maanpiirin valtiaalle, miekkani,
+Triumphi-vaununi ja vankini, --
+Arvoisa lahja Rooman keisarille!
+Nää ota vastaan kunniani merkit,
+Jotk' alamaisen veroks etees lasken.
+
+SATURNINUS.
+Suur' kiitos, jalo Titus, elon tuoja!
+Kuink' annistas ja sinust' ylpeilen,
+On Rooma muisteleva. Vähääkään jos
+Unohdan äärettömist' ansioistas,
+Uskollisuutens' unohtakoon Rooma!
+
+TITUS (Tamoralle).
+Olette, rouva, keisarin nyt vanki;
+Hän arvonne ja säädyn mukaan teitä
+Ja seuraannekin hyvin kohtelee.
+
+SATURNINUS.
+Ihana nainen! Moist' ei pintaa tapaa:
+Tuon naisin, jos viel' oisin naimaan vapaa. --
+Pois otsan pilvet, kaunis kuningatar!
+Vaikk' ilon tappanut on tappiosi,
+Et silti Roomaan tullut pilkaksi:
+Sua ruhtinaallisest' on kohdeltava.
+Sanaani luota; katkeruus ei kaataa
+Saa toivoa; voi lohduttajas nostaa
+Sun goottein kuningatart' ylemmäksi. --
+Lavinia, ethän tätä paheksu?
+
+LAVINIA.
+En suinkaan: aateluutennehan takaa,
+Ett' tarkoituksenne on siivo, vakaa.
+
+SATURNINUS.
+Lavinia, kiitos! -- Tulkaa, roomalaiset!
+Vapaiksi vangit pääskööt lunnaitta.
+Nyt rummuin, torvin vaali julistakaa!
+
+BASSIANUS.
+Anteeksi, Titus, mun on tämä neiti.
+
+    (Tarttuu Laviniaan.)
+
+TITUS.
+Mitä, herra? Tosiko on tarkoitus?
+
+BASSIANUS.
+On, jalo Titus, luja myöskin päätös
+Pysyä kiinni oikeudessani.
+
+MARCUS.
+_Suum cuique_, sanoo roomalainen laki;
+On oikeus hällä ottaa omansa.
+
+LUCIUS.
+Se hänen tuleekin, jos minä elän.
+
+TITUS.
+Pois, konnat! Missä keisarin on vahti?
+Petosta! Viety on Lavinia.
+
+SATURNINUS.
+                           Viety?
+Ken hänet vei?
+
+BASSIANUS.
+               Se, joka vaikka konsa
+Pois keltä tahans' ottaa morsionsa.
+
+    (Bassianus ja Marcus vievät pois Lavinian.)
+
+MUCIUS.
+Avuksi, veljet! Minä ovea
+Sill'aikaa miekallani vartioitsen.
+
+    (Lucius, Qvintus ja Marcius menevät.)
+
+TITUS.
+Mukaani, prinssi! Tytön palautan.
+
+MUCIUS.
+Täst' ette pääse.
+
+TITUS.
+                  Mitä, nulkki? Kuka
+Mua Roomass' estää?
+
+    (Pistää Muciuksen kuoliaaksi.)
+
+MUCIUS.
+Auta, Lucius, auta!
+
+    (Lucius palaa.)
+
+LUCIUS.
+Isä, väärin teitte, enemmän kuin väärin:
+Tapoitte turmariidass' oman pojan.
+
+TITUS.
+Et sinä eikä hän mun poikiani:
+Mun poikani ei noin mua häväisis.
+Lavinia keisarille tuo, sa konna!
+
+LUCIUS.
+Kuolleena kyllä, vaan en vaimoks hälle;
+Hän kihloilla on toiseen sidottu.
+
+    (Menee.)
+
+SATURNINUS.
+Ei, Titus; keisarin ei tarvis häntä,
+Ei hänt', ei sua, ei heimostasi ketään.
+Sit' uskon, jok' on pilkannut mua kerran,
+Mut sua ja pettopoikias en koskaan,
+Jotk' ootte yhtyneet mua häväisemään.
+Toist' eikö Roomass' ollut pilkattavaa
+Kuin Saturninus? Niin, Andronicus,
+Tää teko hyvin soveltuu sun kerskaas,
+Ett' olen sulta kruunun kerjännyt.
+
+TITUS.
+Kamalaa! Mitä tietää moinen moite?
+
+SATURNINUS.
+Pois matkaasi, ja anna avus sille,
+Jok' äsken miekka kädessä häntä liehi!
+Saat uljaan vävyn, miehen, joka sopii
+Pojilles hurjapäille kumppaniksi,
+Kun Rooman yhteiskuntaa ryöstävät.
+
+TITUS.
+Tuo sydämmen on haavaan puukonpisto.
+
+SATURNINUS.
+Tamora rakas, kuningatar goottein,
+Jok' olet ihanimpiin roomattariin
+Kuin impiins' uljas Phoebe verrattuna,
+Jos suostut moiseen äkkivalintaan,
+Niin, Tamora, sun otan morsioksi
+Ja Rooman kuningattareksi teen.
+Sa, goottein kuningatar, suostutko?
+Niin, kautta kaikkein Rooman jumalain
+Käsill' on pappi jo ja vihkivesi,
+Heleät loistaa tuohukset, ja kaikki
+Hymenin juhlaa varten valmist' on --
+Sen vannon, Rooman katuja en astu,
+En palatsiini nouse ennen kuin
+Vien täältä mukanani vihkivaimon.
+
+TAMORA.
+Ja tässä, taivaan kuullen, sulle, Rooma,
+Ma vannon: goottein kuningattaren
+Jos Saturninus nostaa näin, niin lupaa
+Hän olla hänen toiveittensa orja
+Ja nuoruutensa vaalija ja äiti.
+
+SATURNINUS.
+Siis Pantheoniin, kaunis kuningatar!
+Jaloa ruhtinastanne nyt, herrat,
+Ja sulo morsiantaan seuratkaa,
+Jonk' antoi taivas Saturninukselle,
+Näin kääntäin toisin hänen kohtalonsa.
+Häämenot täydet siellä toimitamme.
+
+    (Saturninus seuralaisineen, Tamora poikineen, Aaron
+    ja gootit poistuvat.)
+
+TITUS.
+Hääsaattoon minua ei kutsuttu!
+Sa milloin, Titus, yksin käydä sait
+Ja solvattuna näin ja häväistynä?
+
+    (Marcus, Lucius, Qvintus ja Martius palaavat.)
+
+MARCUS.
+Oi, Titus, katso! Kas, mit' olet tehnyt!
+Sa kiivaudessa oivan poikas tapoit.
+
+TITUS.
+Ei, hupsu tribuuni, hän mun ei ollut,
+Et sinä, eikä nuokaan, joista lähti
+Tää heimoamme häväisevä työ,
+Epatto veli, epatot myös pojat!
+
+LUCIUS.
+Mut haudatkaamme hänet niinkuin tulee:
+Suo hälle sija veljiensä viereen.
+
+TITUS.
+Pois, petturit! Ei tähän kammioon!
+Viissataa vuott' on tämä hauta ollut;
+Sen uljaaks uudistin; se arvopaikka
+On urhojen ja Rooman uskottujen,
+Ei kurjan, kapinassa kaatuneen.
+Haudatkaa mihin mieli, vaan ei tähän.
+
+MARCUS.
+Veli, armoton sa olet. Maine kertoo
+Nepaani Muciuksen urhotöistä;
+Hän haudattava veljeinsä on viereen.
+
+QVINTUS & MARTIUS.
+On pakosta, tai meistä saa hän seuraa.
+
+TITUS.
+Pakosta? Kuka konna sanoi sen?
+
+QVINTUS.
+Se, joka siitä vastaa, vaikk' ei tässä.
+
+TITUS.
+Mua uhmatenko hänet hautaatte?
+
+MARCUS.
+Ei, jalo Titus; sua pyydämme,
+Ett' anteeks hälle suot ja hautaat hänet.
+
+TITUS.
+Sinäkin, Marcus, iskit arvooni:
+Söit noiden poikain kanssa kunniaani.
+Olette vihamiehiäni kaikin;
+Pois! Kyllänsä jo teistä vanhus saikin.
+
+MARCUS.
+Hän houreissaan on aivan; tulkaa pois!
+
+QVINTUS.
+En minä, kunnes Mucius haudataan.
+
+    (Marcus ja Tituksen pojat polvistuvat.)
+
+MARCUS.
+Veli, sen nimen kautta luonto pyytää, --
+
+QVINTUS.
+Isä, sen nimen kautta luonto puhuu, --
+
+TITUS.
+Vait sinä, muut jos tahtoo mitään voittaa!
+
+MARCUS.
+Suur' Titus, sinä puoli sieluani, --
+
+LUCIUS.
+Isä, meidän kaikkein olemus ja sielu, --
+
+MARCUS.
+Oi, salli Marcus-veljes haudata
+Nepaansa kallis tähän hyveen kätköön:
+Hän kuoli kunnian ja Lavinian tähden.
+Äl' ole barbaari, vaan roomalainen:
+Helleenit hautasivat Ajaxinkin,
+Tuon henkipaton; häntä hautaamaan
+Laerteen viisas poika[4] heitä neuvoi.
+Ilosi, nuori Muciuskin, siis tässä
+Sijansa saakoon.
+
+TITUS.
+                 Nouse, Marcus, nouse! --
+Näin surullist' en päivää ole nähnyt:
+Mua Roomass' omat pojat häväisevät! --
+No, hautaa hänet; sitten hautaa minut.
+
+    (Mucius lasketaan hautaan.)
+
+LUCIUS.
+Tuoss' ystäväisi luona luusi maatkoot,
+Siks kunnes kumpus voittomerkit peittää!
+
+KAIKKI (polvillaan).
+Jaloa Muciust' ei saa itkein surra:
+Ken hyveen eestä kuoli, maineess' elää.
+
+MARCUS.
+Mut -- jättääksemme nämä synkät mietteet --
+Kuink' on tuo viekas goottein kuningatar
+Niin äkist' ylentynyt Roomassa?
+
+TITUS.
+En tiedä; tiedän vain, ett' on niin laita;
+Mut onko siinä juonta, tietää taivas.
+Hän velass' eikö suuress' ole sille,
+Jok' onneen moiseen hänet toi niin kaukaa?
+Hän varmaan jalosti sen palkitsee.
+
+    (Torventoitauksia. Toisesta ovesta tulevat Saturninus
+    seurueineen, Tamora, Demetrius, Chiron ja Aaron; toisesta
+    Bassianus, Lavinia ja muita.)
+
+SATURNINUS.
+No, Bassianus, sinä voiton sait:
+Iloksi olkoon sulle morsiosi!
+
+BASSIANUS.
+Ja sulle sun: en sano enempää,
+Ja vähempää en toivo; hyvästi!
+
+SATURNINUS.
+Jos laki Roomass' on ja mulla valta,
+Niin sinä, petturi, ja puolueesi
+Kadutte vielä tätä ryöstöä.
+
+BASSIANUS.
+Se ryöstöäkö, omani jos otan,
+Oman kihlattuni, oman vaimoni?
+Mut Rooman laki tässä päättäköön;
+Sill'aikaa pidän mikä mulle kuuluu.
+
+SATURNINUS.
+Hyv' on; mua hylysti sa kohtelet,
+Mut tylysti sua pitelen, jos elän.
+
+BASSIANUS.
+Mun teostani tulee vastata
+Paraimman mukaan, vaikka hengelläni.
+Nyt sen vain sanon teidän armollenne --
+Sen olen Roomalle ma velkapää --
+Tään jalon miehen, Titus-sankarin,
+On kunnia ja maine häväistynä;
+Hän pelastaaksensa Lavinian
+Nuorimman poikans' omin käsin tappoi
+Sun tähtesi ja vihastuen siitä,
+Ett' antiaan ei vapaast' antaa saanut.
+Siis armoon ota hänet, Saturninus:
+Hän töissään sinua ja Roomaa kohtaan
+On ollut niinkuin ystävä ja isä.
+
+TITUS.
+Bassianus, sinä työni jätä rauhaan;
+Sinä ja nuo, te minut häväisitte.
+Vanhurskas taivas tietää sen ja Rooma,
+Kuink' olen Saturninust' ihaillut.
+
+TAMORA.
+Suur' ruhtinas, jos valtasilmäs koskaan
+Tamoraan armossa on katsonut,
+Niin kuule, mitä puoltamaton puhuu:
+Ma pyydän, armas, anteeks anna kaikki.
+
+SATURNINUS.
+Mitä, rouva? Tulin julki häväistyksi,
+Ja senkö kostamatta nielisin?
+
+TAMORA.
+Ei, Rooman jumalat mua varjelkoot,
+Ett' oisin syypää sinun häpeääsi!
+Mut kautta kunniani taata tohdin,
+Ett' ylvä Titus syytön kaikess' on:
+Tuo raivo on vain suora tuskan ilme.
+Ma pyydän, ota hänet armoihin;
+Älä hylkää turhast' oivaa ystävää;
+Äl' yrmein katsein riko hellää mieltä. --
+    (Syrjään Saturninukselle.)
+Neuvooni suostu, anna perään; salaa
+Kaikk' äkeys ja harmi: uusi olet
+Sa valtaistuimella istukas;
+Vähällä voivat patriisit ja kansa
+Tituksen käydä puolelle ja sinut
+Pois syöstä kiittämättömyyden vuoksi,
+Jok' on, näet, julma synti Roomassa.
+Pyyntööni suostu, jätä huoli mulle.
+Kun aika tulee, tapan heidät kaikki,
+Hävitän perheensä ja puolueensa,
+Tuon julman isän pettosikiöineen,
+Joit' armahtamaan poiuttani pyysin.
+Näkevät, mit' on antaa kadulla
+Kuningattaren turhaan polvistua. --
+    (Ääneen.)
+Tule, rakas; -- tulkaa pois, Andronicus; --
+Vanhusta auta, mieltään virkistä,
+Sen muuten katsees hirmumyrsky murtaa.
+
+SATURNINUS.
+Oi, nouse, Titus! Keisarinna voitti.
+
+TITUS.
+Suur' kiitos teille, valtias, ja hälle!
+Uutt' antaa voimaa sanat nuo ja katseet.
+
+TAMORA.
+Nyt, Titus, liittynyt kun olen Roomaan
+Ja tunnustettu roomattareksi,
+Mun tulee keisaria hyvään johtaa.
+Niin, tänään, Titus, kaikki viha sammuu,
+Ja mulle kunniaks se olkoon, että
+Sovitin teidät ystäväinne kanssa. --
+Ma teidän puolestanne, Bassianus,
+Tein pyhän lupauksen keisarille,
+Ett' alistutte sekä mukaannutte. --
+Lavinia, -- ja te, nuoret, -- rohkeutta!
+Mun neuvostani polvillanne nöyräst'
+Anokaa majesteetilt' anteeksi.
+
+LUCIUS.
+Sen vannon keisarin ja taivaan nähden,
+Ett' aie oli sopuisimmin puoltaa
+Vain sisaren ja omaa kunniaa.
+
+MARCUS.
+Sen minäi kunniani kautta vannon.
+
+SATURNINUS.
+Pois vain, ja vait! Meit' älkää vaivatko.
+
+TAMORA.
+Ei, rakkaani, nyt ollaan ystäviä.
+Tribuuni lankoinensa polvistuvat;
+En kieltoon tyydy; rakas, katso taakses.
+
+SATURNINUS.
+Sun tähtes, Marcus, ja sun veljes tähden
+Ja armaan Tamorani pyynnöstä
+Suon anteeks noiden nuorten ilkityöt.
+Nouskaatte! Näet, Lavinia, vaikka minut
+Tylysti jätit, sain tok' ystävän,
+Ja varmana kuin kuolo vannoin, etten
+Papista poikamiesnä eriäisi.
+Pois tulkaa! Keisarin jos hoviin mahtuu
+Kaks morsianta, niin, Lavinia, sinä
+Ja ystäväsi olkaa vieraani. --
+Tää, Tamora, on rakkauden päivä.
+
+TITUS.
+Jos majesteetin halu huomenna
+On tulla pantterin ja hirven ajoon,
+Niin aamull' ääness' ovat koirat, torvet.
+
+SATURNINUS.
+Ma tulen, Titus; siitä kiitokset!
+
+    (Torventoitauksia. Menevät.)
+
+
+
+
+TOINEN NÄYTÖS.
+
+
+Ensimmäinen kohtaus
+
+    Rooma. Hovilinnan edusta.
+
+    (Aaron tulee.)
+
+AARON.
+Olympon huippuun Tamora nyt nousee
+Fortunan nuolten saavuttamatonna;
+Siell' istuu korkealla, hänt' ei häiri
+Salaman leimu, pauhu pauanteen,
+Ei kateuden kalvaan uhka yllä.
+Kuin koitart' aurinkoinen tervehtii
+Ja, meren huilattuaan säteillänsä,
+Tulisin vaunuin tähtirataa kiitää,
+Niin Tamorakin: hänen älyään
+Kumartaa mainen korkeus, ja hyve
+Vavisten kierii hänen vihans' eessä.
+Terästä sydämmes ja älys, Aaron,
+Ja sinäi nouse yhtä korkealle
+Kuin keisarinnas, jota voittoriemuin
+Jo kauan pidit lemmenkahleissa
+Ja silmäis lumopiiriin sidottuna
+Lujemmin kuin Prometheus Kaukasoon!
+Pois mieli matala ja orjanpuku!
+Kilisten kullassa ja helmiss' aion
+Ma uutta keisarinnaa palvella.
+Sanoinko: palvella? Ei, kiemailla
+Lumoojaa tuota, jumalatarta,
+Semiramista, nymphaa, sireeniä,
+Mi lumoo Rooman Saturninuksen
+Ja tuhoon hänet vie ja valtakunnan.
+Haa! Mikä riita?
+
+    (Demetrius ja Chiron tulevat sisään riidellen.)
+
+DEMETRIUS.
+                 Nuoruutesi, Chiron,
+Älyä puuttuu, älys terää puuttuu,
+Tapoja myöskin, noin kun väliin tunget,
+Vaikk' ehdoton on mulla suosio.
+
+CHIRON.
+Demetrius, aina sinä pöyhkeilet,
+Masentaa nytkin kerskallas mua aiot.
+Ei parin vuoden ikäero sua
+Tee suosikiks ja mua suosittomaks;
+Min' olen yhtä hyvä palvelemaan
+Ja kaunoistani palvomaan kuin sinä;
+Ja miekkani sen näyttää ilmeisemmin,
+Kuink innolla Laviniaa ma lemmin.
+
+AARON.
+Hoi, karttuja![5] Täss' yljät tappelevat.
+
+DEMETRIUS.
+Nulikka, senkö vuoks, ett' äiti laittoi
+Kupeelles vahingossa tanssisäilän,
+Noin uljaasti nyt ystäviäs uhkaat?
+Sa lastas anna liimaantua tuppeen,
+Siks kunnes paremmin sit' osaat käyttää!
+
+CHIRON.
+Mut siksi täysin tuntea sa saat,
+Mit' uskallan, vaikk' onkin taito pieni:
+
+DEMETRIUS.
+Kopeilet, poika!
+
+    (Paljastavat miekkansa.)
+
+AARON.
+                 Mitä teette, herrat?
+Lähellä linnaa miekan paljastatte
+Ja kadull' ääntä moista pidätte?
+Tuon salavihan syyn ma hyvin tunnen,
+Mut kultamiljoonistakaan en sois,
+Ett' asialliset sen tietäisivät;
+Ja mistään hinnast' äitinne ei tahtois
+Noin tulla häväistyksi hovissa.
+Hävetkää! Miekka pois!
+
+DEMETRIUS.
+                       En minä, kunnes
+Sen pistän hänen rintaansa ja työnnän
+Takaisin hänen kurkkuunsa sen herjan,
+Jot' on mua häväistäkseen huokunut.
+
+CHIRON.
+Min' olen siihen varalla ja valmis,
+Suupaltti konna, joka sanoin pauhaat,
+Mut miekkatyöss' et mitään uskalla.
+
+AARON.
+Pois, sanon minä! Kautta jumalien.
+Joit' urhoolliset gootit palvovat,
+Tää turha riita tuhoo meidät kaikki!
+Oi, aatelkaahan, herrat, mik' on vaara
+Näin prinssin ilmeist' oikeutta sortaa.
+Niin kevytmielinen Laviniako
+Ja Bassianusko niin turmeltunut,
+Noin että hänen vaimostaan sais kiistää
+Ja sit' ei seurais rangaistus ja kosto?
+Pois, herrat, pois! Jos keisarinna tietäis
+Tään epäsoinnun syyn, niin suuttuis soittoon.
+
+CHIRON.
+Sen tietköön hän ja koko mailma: mulle
+Lavinia rakkaamp' on kuin koko mailma.
+
+DEMETRIUS.
+Kakara, nöyremp' ole valinnassasi
+Lavinia vanhimman on veljes oma.
+
+AARON.
+Olette hullut. Ettekö te tiedä
+Kuink' ollaan Roomass' äkäiset ja kateet
+Ja kilpaylkiä ei siedetä?
+Niin, tietkää, herrat, tästä juonest' oma
+Sikiää surmanne.
+
+CHIRON.
+                 Haa, tuhat surmaa
+Ma kärsisin, jos hänet voittaisin!
+
+AARON.
+Vai voittaisitte?
+
+DEMETRIUS.
+                  Mitä kummaa siinä?
+Hän nainen on, ja siksi kosittava;
+Hän nainen on, ja siksi voitettava;
+Lavinia on hän, siksi lemmittävä.
+Enemmän vettä myllyn kautta kulkee,
+Kuin mitä tietää mylläri; ja helppo
+On leikatusta leiväst' ottaa viilu.
+Vaikk' keisarin on veli Bassianus,
+Niin Vulcanuksen koristetta muutkin
+Ja paremmat on kantaneet kuin hän.
+
+AARON (syrjään).
+Niin kyllä, vaikka itse Saturninus!
+
+DEMETRIUS.
+Miks olla toivoton, kun voittaa voi
+Sanoilla, lahjoilla ja silmäyksillä?
+Mitä? Etkö kaurist' usein kaatanut
+Ja vienyt kotiin vahdin nokan ohi?
+
+AARON.
+Siis näyttää siltä niinkuin pieni keikka
+Ois mielessä?
+
+CHIRON.
+              Niin oikein: kuperkeikka!
+
+DEMETRIUS.
+Osasit pilkkaan, Aaron.
+
+AARON.
+                        Jospa tekin!
+Niin päästäis koko tästä jupakasta.
+Mut kuulkaa: hupsujako olette,
+Kun tuosta kiistelette? Suututtaisko,
+Jos onnistuisi kummankin?
+
+CHIRON.
+                          Ei mua.
+
+DEMETRIUS.
+Ei muakaan, kun vain saan muass' olla.
+
+AARON.
+Hävetkää, sopikaa, ja riita pois!
+Vain oveluus ja juoni teitä auttaa
+Halunne perille; siis päättäkää
+Se, mitä hyväll' ette saavuta,
+Väkisin ottaa, niinkuin parhain sopii.
+Sen sanon: ei Lucretia puhtaamp' ollut
+Kuin Bassianuksen Lavinia tuo.
+Joudumpi tie, kuin vitkain huokausten,
+On valittava; minä keksin keinon.
+Tuloss' on, herrat, juhlametsästys,
+Siell' yhtyy kaikki Rooman kaunottaret.
+Avara metsä on ja laaja, monta
+On syrjäpaikkaa siellä, jotka ovat
+Kuin luodut ryöstölle ja ilkitöille.
+Tuo sievä hirvi sopii ajaa sinne
+Ja vä'in kaataa, jos ei sanoin voi.
+Tää ainut tie on tarjona. No, tulkaa;
+Nyt keisarinna, joka pyhän älyns'
+Omistaa kostolle ja konnuudelle,
+On saapa tiedon tästä hankkeesta.
+Hän juoniamme hioo neuvoillaan
+Ja eripuran väliltänne estää
+Ja kummankin vie määrään toivottuun.
+Kuin Faman huone keisarin on linna,
+Täpöisen täynnä kieltä, korvaa, silmää;
+Mut metsä julm' on, turta, kuuro, mykkä:
+Kävellä siellä voitte, haastaa, ryöstää,
+Himonne täyttää taivaan näkemättä
+Ja ahmia Lavinian aarteita.
+
+CHIRON.
+Ei neuvos ole arkalasta, poika.
+
+DEMETRIUS.
+_Sit fas aut nefas_, kunnes virran löydän
+Ja taian, joka tämän poltteen poistaa;
+_Per Styga, per manes vehor_.
+
+    (Menevät.)
+
+
+Toinen kohtaus.
+
+    Metsä lähellä Roomaa. Torvien toitotusta ja koirien
+   haukuntaa kuuluu.
+
+    (Titus Andronicus, Marcus, Lucius, Qvintus, Martius ja
+    metsästäjiä tulee.)
+
+TITUS.
+Jo ajo käy; on aamu sinikirkas
+Ja keto tuoksuu, metsä vihannoi.
+Täss' irti koirat! Haukkuun havahtukoot
+Nyt keisari ja armas nuorikko,
+Ja prinssi myöskin; torvet raikukoot,
+Niin että koko hovi vastaan kaikuu.
+Te, pojat, teidän niinkuin minun tulee
+Visusti pitää huolta keisarista:
+Mua viime yönä pahat unet häiri,
+Mut huomenkoitto taas mun virkisti.
+
+    (Jahtitorvien toitotusta.)
+
+    (Saturninus, Tamora, Bassianus, Lavinia, Demetrius,
+    Chiron seuralaisineen tulevat.)
+
+TITUS.
+Teen keisarille hyvät huomenet,
+Ja yhtä hyvät teille, keisarinna! --
+Lupasin torvill' ajomerkin antaa.
+
+SATURNINUS.
+Se hauska oli toitaus, hyvät herrat,
+Mut nuorikoille liian aikaista.
+
+BASSIANUS.
+Lavinia, mitä sanot?
+
+LAVINIA.
+                     Mulle ei:
+Kaks tuntia jo valveill' olen ollut.
+
+SATURNINUS.
+No, joutuin tänne hevoset ja vaunut!
+Sitt' erän pyyntiin! (Tamoralle.) Roomalaisen ajon
+Nyt saatte nähdä, rouva.
+
+MARCUS.
+                         Mull' on koirat,
+Jotk' ylös saavat karjaan pantterinkin
+Ja korkeint' äkkijyrkkää nousevat.
+
+TITUS.
+Hevoset mulla, jotka saaliin jälkeen
+Kuin pääskyt kedon yli kiitävät.
+
+DEMETRIUS.
+Veli, meill' ei hevost' eikä koiraakaan,
+Mut kauniin kauriin kaadammepa vaan.
+
+    (Menevät.)
+
+
+Kolmas kohtaus.
+
+    Yksinäinen paikka metsässä.
+
+    (Aaron tulee, kukkaro kultaa kädessä.)
+
+AARON.
+Mua viisaat arvelevat hupsuksi,
+Kun alle puun näin paljon kultaa kätken.
+Jost' itse en saa mitään milloinkaan.
+Ken minusta niin halpaa luulee, tietköön,
+Ett' tästä kullasta ma valan juonen,
+Jost', ovelasti muokaten, voi siitä
+Mit' uhka-uhallisin konnantyö.
+Tuoss' uinu, kulta!
+    (Kätkee kullan.)
+                    Rauhan kadottakoon,
+Kera keisarinnan ken käy almun jakoon!
+
+    (Tamora tulee.)
+
+TAMORA.
+Oi, rakas Aaron, miks on katsees synkkä,
+Kun kaikkialla riemu vallitsee?
+Joka pensahassa visertelee linnut,
+Käy päivänlekkoon käärme kiemuraan,
+Vihanta lehvä tuulelmassa värjyy
+Ja varjollansa kedon kirjailee.
+Sen sulokatveen istukaamme, Aaron,
+Ja -- koiria kun kaiku lörppä matkii,
+Kimeesti torvensointiin vastaten,
+Ikäänkuin kahdet ajot käymäss' oisi --
+Leväten kuunnelkaamme haukuntaa;
+Ja -- niinkuin painin jälkeen, jota muinoin
+Tuo prinssi-karkuri[6] ja Dido leikki,
+Kun onneks myrsky heidät yllätti
+Ja luola hiljaa kätki uudukkoonsa --
+Niin mekin, käsi toisen kaulassa,
+Nukumme leikin jälkeen vienoon uneen,
+Ja koirat, torvet, linnunviserrys
+On meille niinkuin imettäjän laulu,
+Jok' uneen pienokaista viihdyttää.
+
+AARON.
+Vaikk' ohjaa Venus teidän halujanne,
+Mun poveni on valtias Saturnus.[7]
+Mitä sanoo kuolonjäykkä silmäni,
+Vait-oloni ja tämä musta mieli,
+Nää villakippurat, jotk' oijistuvat
+Kuin käärme, joka kiemurastaan kirpoo
+Ja tuhoovaiseen työhön suoriutuu?
+Ei, rouva, nää ei lemmen merkkejä!
+Sydäntä ohjaa viha, kättä surma,
+Ja päässä veri takoo, kostonhimo.
+Tamora, valtiatar sieluni,
+Joll' ei oo muuta taivasta kuin sinä:
+Tää Bassianuksen on tuomiopäivä,
+Pois kieli viedään Philomelaltaan,
+Jolt' impeyden sun poikas tänään ryöstää,
+Kätensä pesten yljän veressä.
+Kas, tässä kirje; ota se, ma pyydän;
+Tää surman käärö anna kuninkaalle. --
+Muut' älä kysy; täällä vakoillaan.
+Tuoss' osa onnen saaliistamme saapuu,
+Se tuhoaan ei vielä aavista.
+
+TAMORA.
+Ah, armas mauri, armaamp' elämääni!
+
+AARON.
+Vait, keisarinna! Bassianus tulee;
+Hänt' ärsytä; ma noudan poikasi
+Sua puoltamaan, vaikk' olkoon mistä riita.
+
+    (Menee.)
+
+    (Bassianus ja Lavinia tulevat.)
+
+BASSIANUS.
+Ken täällä? Rooman suuri keisarinna,
+Erillään sopivasta seurastaan?
+Tai ehkä valepukuinen Diana,
+Mi pyhät puistonsa on jättänyt
+Suurt' ajoamme täällä nähdäkseen?
+
+TAMORA.
+Hävytön salateiden nuuskija,
+Jos mull' ois kehuttu Dianan voima,
+Niin oiti otsaasi Actaeonin
+Ma sarvet istuttaisin, jotta koirat
+Sun uutis-ruumiiseesi hyökkäisivät,
+Sa röyhkä moukka, päälletunkija!
+
+LAVINIA.
+Anteeksi, arvon rouva, mutta luullaan,
+Ett' oiva teill' on sarvenpano-taito,
+Ja varmaan kahdenkesken maurin kanssa
+Nyt teette kokeita. Zeus varjelkoon
+Sen miehen koirist' isäntäänne tänään!
+Ois sääli, hirveksi jos luultais häntä.
+
+BASSIANUS.
+Tuo musta kimriläinen,[8] tietkää, rouva,
+Ihonsa-laiseks laittaa kunnianne,
+Häjyksi, inhaksi ja likaiseksi.
+Miks seurastanne erottauduitte,
+Astuitte alas valkoratsultanne
+Ja tähän kolkkoon paikkaan hiivitte,
+Ei muita mukana kuin villi mauri,
+Jos teit' ei ruma himo johtanut?
+
+LAVINIA.
+Kun leikissänne teitä häiritsimme,
+Niin tietystikin jalo mieheni
+Saa röyhkän nimen! -- Tule, mennään pois!
+Hyväilköön korpinmustaa lemmikkiään,
+Tää alho sopiva on sellaiseen!
+
+BASSIANUS.
+Tään veljeni ma, keisarin, teen tiedoks.
+
+LAVINIA.
+Nää vehkeet tiettyjä on kauan olleet.
+Oi, ruhtinas, kuink' on sua petetty!
+
+TAMORA.
+Miks malttamust' on mulla tuota kestää?
+
+    (Demetrius ja Chiron tulevat.)
+
+DEMETRIUS.
+Mitä, äiti hyvä, kallis keisarinna,
+Miks katseenne on ontto noin ja kalvas?
+
+TAMORA.
+Mull' eikö syytä ole kalpeuteen?
+Nuo kaks mun tähän paikkaan viettelivät.
+Se, näette, autio on, synkkä laakso:
+Puut, vaikk' on kesä, vaivaiset ja kuivat
+Ja mistelin ja naavan peittämät.
+Tääll' aurinko ei koskaan paista, täällä
+Yöpöllöt pesii vain ja kolkot korpit.
+Tään jylhän rotkon mulle näyttivät,
+Sanoivat, että täällä sydänyöllä
+Tuhannet aaveet, sihisevät kyyt,
+Tuhannet rupikonnat, piikkisiat
+Niin julmaa vihloääntä pitävät,
+Ett' tämän kun vain kuulee kuolevainen,
+Niin hullaantuu tai kuolee siihen paikkaan.
+Tään helvetillisen kun tarinan
+He päättivät, mun heti uhkasivat
+Tuhoisen tammen runkoon sitoa
+Ja siihen jättää kurjaan kuolemaan.
+Sanoivat viel', ett olen rietas portto
+Ja irstas gootitar ja mitä pahint'
+On korva koskaan tämänlaista kuullut.
+Ja jos ei teit' ois onni tänne tuonut,
+He kostons' olisivat täyttäneet.
+Se kostakaa, jos äiti teille rakas,
+Tai teit' en enää lapsikseni sano.
+
+DEMETRIUS.
+Täll' osoitan, ett' olen poikasi.
+
+    (Pistää Bassianuksen kuoliaaksi.)
+
+CHIRON.
+Ja minä tällä: siinä miehen isku!
+
+    (Pistää hänkin miekkansa Bassianukseen.)
+
+LAVINIA.
+Semiramis, -- ei, julma Tamora!
+Paraiten sulle sopii oma nimi.
+
+TAMORA.
+Tikari tänne! Saatte nähdä, pojat,
+Ett' äidin käsi äidin herjan kostaa.
+
+DEMETRIUS.
+Seis, äiti! Hänet muuhun varataan:
+Pui ensin vilja, sitten oljet polta.
+Tuo nukke kehuskeli siveyttään,
+Aviovalaans', uskollisuuttansa,
+Ja tuolla ruseell' uhmas valtaanne;
+Hän tuonko saisi mukaans' ottaa hautaan?
+
+CHIRON.
+Jos niin käy, olen minä eunukki.
+Johonkin syrjärotkoon ruumis viedään,
+Ja tehdään siitä himollemme patja.
+
+TAMORA.
+Mut halaamanne hunajan kun saitte,
+Niin vaapsain tappakaa, se muuten pistää.
+
+CHIRON.
+Me siitä vastaamme; ei vaaraa, äiti.
+Nyt, käpyseni, viemme väkisin
+Tuon tarkkaan talletetun siveytesi.
+
+LAVINIA.
+Oi, Tamora, on naisen kasvot sulla,
+
+TAMORA.
+En tahdo enää kuulla; viekää pois!
+
+LAVINIA.
+Rukoilkaa, herrat, että hän mua kuulee!
+
+DEMETRIUS.
+Hänt', äiti, kuule; hänen kyynelistään
+Sa riemuitse, mut sydämmesi olkoon
+Kova kuin sateenpisaroille kivi.
+
+LAVINIA.
+Emoa tiikerinkö pentu neuvoo?
+Hänt' älä neuvo: hän sun opetti.
+Imemäsi maito muuttui marmoriksi,
+Jo nisästä sa julmuutesi joit.
+Mut äidin pojat ain' ei yhtä maata:
+    (Chironille.)
+Sinä häntä pyydä naista säälimään.
+
+CHIRON.
+Äpäräks itsenikö tekisin?
+
+LAVINIA.
+Niin oikein: leivosta ei korppi siitä.
+Mut olen kuullut -- oi, jos ois se totta! --
+Ett' antaa leijonakin säälistä
+Kuninkaan-kynnet vuolla kämmenestään,
+Ja että korppi ruokkii löytölasta,
+Vaikk' omat poikaset on nälissään.
+Oi, ole mulle, vaikk' on poves jäätä,
+Jos et noin hyvä, sentään hiukan hellä!
+
+TAMORA.
+En tuota minä ymmärrä; pois, pois!
+
+LAVINIA.
+Selitän sulle: taattoseni tähden,
+Jok' armahti, vaikk' ois sun voinut tappaa,
+Oi, kuurot korvas avaa, älä paadu!
+
+TAMORA.
+Vaikk' itse et mua oiskaan loukannut,
+Niin hänen tähtens' olen säälimätön.
+Te, pojat, muistatte, kuink' itkin turhaan,
+Ett' uhriks eivät veisi veljeänne,
+Mut tyly Titus oli armoton.
+Pois viekää, tehkää hälle mitä mieli,
+Jot' inhempaa, sen mieluisempaa mulle.
+
+LAVINIA.
+Tamora, laupiaaks sua mainitaan,
+Jos omin käsin tässä minut surmaat.
+En elämää näin kauan kerjännyt:
+Jo kuolin, raukka, kun Bassianus kaatui.
+
+TAMORA.
+No mitä sitten kerjäsit, sa houkka?
+
+LAVINIA.
+Pikaista kuolemaa, ja vielä yhtä,
+Jot' epää naiseus mua mainimasta:
+Mua himost' auta, murhaa pahemmasta;
+Johonkin inhaan kuoppaan minut viskaa,
+Miss' ei näe ruumistani miehen silmä;
+Se tee, se laupiasta murhaa on!
+
+TAMORA.
+Näin kultapojiltani palkan veisin.
+Sinussa tyydyttäkööt himoaan.
+
+LAVINIA.
+Ei armoa? Ei sääliä? Oo, peto,
+Naissuvun häväistys ja vihollinen!
+Tuhotkoon tuho --
+
+CHIRON (riistää Lavinian mukaansa).
+                  Ei, nyt tukin suusi. --
+Tuo sinä miehen ruumis! Tuoss' on rotko,
+Johonka Aaron käski hänet heittää.
+
+    (Menevät.)
+
+TAMORA.
+Hyvästi, pojat! Älkää päästäkö!
+Sydämmen iloa en ennen tunne,
+Kuin kaikk' Andronicukset poiss' on tieltä.
+Nyt menen saamaan mauriltani muiskun,
+Ja pojat hurjat raiskaamaan tuon luiskun.
+
+    (Menee.)
+
+
+Neljäs kohtaus.
+
+    Sama paikka.
+
+    (Aaron, Qvintus ja Martius tulevat.)
+
+AARON.
+No, tulkaa, hyvät herrat; jalat alle!
+Sen inhan rotkon heti teille näytän,
+Miss' äsken pantterin näin nukkumassa.
+
+QVINTUS.
+Himentää silmää; mitä tietänee?
+
+MARTIUS.
+Niin minunkin; jos ei mua hävettäis,
+Niin ajon heittäisin ja nukahtaisin.
+
+    (Putoaa rotkoon.)
+
+QVINTUS.
+Mitä? Putositko? Mikä viekas rotko!
+On suulla villit orjantappurat,
+Ja näiden lehdill' uutta verta päilyy
+Niin heleää kuin kukill' aamukaste.
+Kamala paikka tämä minust' on.
+Veli, sano, loukkaannuitko pudotessas?
+
+MARTIUS.
+Mua loukkas kauhein näky, mik' on koskaan
+Sydämmeen silmän kautta tuskaa tuonut.
+
+AARON (syrjään).
+Nyt kuninkaan tuon tätä katsomaan,
+Niin näkemästään uskoo, että nämä
+Ne hänen veljensä on surmanneet.
+
+    (Menee.)
+
+MARTIUS.
+Miks et mua lohduta ja pois mua auta
+Täst' oneasta verikuopasta?
+
+QVINTUS.
+Mun vallannut on omituinen kauhu;
+Vapisee ruumis, kylmä hiki valuu;
+Sydän varoo pahempaa kuin silmä näkee.
+
+MARTIUS.
+Sydämmes totta aavisti, se varma:
+Sinä ja Aaron tänne katsokaa,
+Niin kuolon julman verikuvan näette.
+
+QVINTUS.
+On poissa Aaron; hellä sydämmeni
+El salli silmieni sitä nähdä,
+Jot' aavistellenkin jo kammoksun.
+Mik' on se, sano! Pelännyt en koskaan
+Niin ole niinkuin laps, en tiedä, mitä.
+
+MARTIUS.
+Bassianus makaa tässä verissään
+Kuin teurastettu lammas mätettynä
+Pimeään, veriseen ja kolkkoon kuoppaan.
+
+QVINTUS.
+Kuin tiedät pimeässä, ett' on hän se?
+
+MARTIUS.
+On verisessä sormessansa sormus,
+Sen kiiltokivi kuopan kirkastaa
+Ja niinkuin tuohus hautakammiossa
+Valaisee vainaan tuhkanharmaat posket
+Ja kuopan inhan poven paljastaa.
+Näin paistoi Pyramukseen kalvas kuu,
+Kun yöllä immen verissä hän virui.
+Oi, veli, auta mua raukein käsin --
+Jos kauhu sun on raukaissut kuin minun --
+Täst' ilkeästä kuolon tyrmästä:
+Kokyton sumusuu[9] ei kauheampi.
+
+QVINTUS.
+Ojenna kätes, että sua autan;
+Tai, jos ei voimaa mulla sitä tehdä,
+Minutkin tämän ahnaan kuilun kitaan
+Sa vedä, Bassianus-raukan hautaan.
+En jaksa vetää sua reunaan asti.
+
+MARTIUS.
+En minäkään sun avuttasi nousta.
+
+QVINTUS.
+Kätesi vielä kerran; sit' en päästä,
+Ennenkuin vedän sun, tai sinä mun;
+Jos sin' et tule, tulen minä luokses.
+
+    (Putoaa kuoppaan.)
+
+    (Saturninus ja Aaron tulevat.)
+
+SATURNINUS.
+No, tule pois; sen luolan tahdon nähdä
+Ja tuon, ken juur' vastikään siihen juoksi.
+Ken olet sinä, sano, joka tuohon
+Maan ammottavaan nieluun juuri astuit?
+
+MARTIUS.
+Titus Andronicuksen polo poika,
+Jok' onnettomaan aikaan tänne saapui
+Sun veljes tavatakseen kuolleena.
+
+SATURNINUS.
+Kuolleena veljeni? Sa puhut pilaa:
+Hän puolisoineen jahtimajass' on
+Tään hauskan ajopaikan pohjoispäässä;
+Ei siitä tuntia, kun hänet näin.
+
+MARTIUS.
+En tiedä, missä nähtiin elossa,
+Mut voi! Hän täältä löyttiin kuollehena.
+
+    (Tamora seurueineen, Titus Andronicus ja Lucius tulevat.)
+
+TAMORA.
+Miss' on mun valtiaani, keisari?
+
+SATURNINUS.
+Täss', armas, mielimurteen murtamana.
+
+TAMORA.
+Ja miss' on Bassianus, veljesi?
+
+SATURNINUS.
+Nyt haavaani sa tutkit pohjaa myöten:
+Bassianusraukka täss' on murhattuna.
+
+TAMORA.
+Siis myöhään tulee tämä turmakirja,
+    (Antaa kirjeen.)
+Tään äkkinäisen tragedian luonnos.
+Vain kummeksin, ett' ihmismuoto hienoon
+Voi hymyyn peittää moista murhavimmaa.
+
+SATURNINUS (lukee).
+"Jos emme sievosesti tapaa häntä --
+Bassianusta ma tarkoitan -- niin sinä,
+Hyvä metsästäjä, kaiva hälle hauta.
+Nyt meidät ymmärtänet. Palkkas löydät
+Sa nokkosista luota seljapuun,
+Mik' oksillansa peittää kuopan suun,
+Johon on haudattava Bassianus.
+Se tee, niin iki-ystävät saat meistä."
+Oi, Tamora, moist' onko koskaan kuultu?
+Täss' on se kuoppa, tässä seljapuu;
+Hakekaa löytääksenne metsästäjä,
+Jolt' on Bassianus saanut surmansa.
+
+AARON.
+Ja, majesteetti, täss' on rahapussi.
+
+SATURNINUS (Titukselle).
+Kaks verikoiraa, sinun sikiöitäs,
+On tässä vieneet veljeltäni hengen.
+Pois kuopasta, ja tyrmään heidät viekää!
+Siell' olkoot, kunnes heille kidutukset
+Ma keksin ennen kuulumattomat.
+
+TAMORA.
+He kuopassako ovat? Kummallista!
+Kuink' äkkiä ne murhat tulee ilmi!
+
+TITUS.
+Suur' majesteetti, heikko polvi maassa
+Rukoilen puserretuin kyynelin,
+Ett' tämä poikieni konnantyö,
+Niin, konnantyö, jos näytetään se toteen, --
+
+SATURNINUS.
+Vai vielä toteen? Ilmeistähän on se. --
+Ken löysi kirjeen? Sinä, Tamora?
+
+TAMORA.
+Andronicus sen itse otti maasta.
+
+TITUS.
+Sen tein; mut suokaa minun taata heitä:
+Isäni pyhän haudan kautta vannon,
+Ett' ovat teidän käskystänne valmiit
+Verellään luullun työnsä maksamaan.
+
+SATURNINUS.
+En takuustasi huoli; mua seuraa.
+Te viekää ruumis, murhaajat te viekää.
+Puhua älkööt saako; syy on selvä;
+Jos pahempaa ois loppua kuin surma,
+Sen, jumalauta, heihin sovittaisin.
+
+TAMORA (Titukselle).
+Rukoilen keisaria; poikais tähden
+Siis älä pelkää, kaikki hyvin käy.
+
+TITUS.
+Tule, Lucius, heitä et saa puhutella.
+
+    (Menevät eri tahoille.)
+
+
+Viides kohtaus.
+
+    Sama paikka.
+
+    (Demetrius ja Chiron tulevat, raastaen muassaan raiskattua
+    Laviniaa, jonka kädet ovat silvotut ja kieli leikattu
+    pois suutta.)
+
+DEMETRIUS.
+Nyt mene, kerro -- haastaa jos voi kieles --
+Ken pois sen leikkasi ja raiskas sun.
+
+CHIRON.
+Tai kirjoita ja niin tuo tietos ilmi;
+Rupea kirjuriks, jos tyngät sallii.
+
+DEMETRIUS.
+Kas, katseilla ja merkeillä hän uhmaa!
+
+CHIRON.
+Mene, raikast' ano vettä, pese kätes!
+
+DEMETRIUS.
+Ei kieltä hällä eikä käsiä;
+Siis menköön äänetönnä menojaan.
+
+CHIRON.
+Menisin hirteen, hänenä jos oisin.
+
+DEMETRIUS.
+Jos sull' ois kättä, millä tehdä silmu!
+
+    (Demetrius ja Chiron menevät.)
+
+    (Marcus tulee metsältä.)
+
+MARCUS.
+Mitä? Veljenikö tytär, joka kiirein
+Noin pakenee? Hoi, serkku! Miss' on miehes? --
+Jos unta näen, niin valvetakseni
+Pois annan kaikkeni; jos valveill' olen,
+Niin lentotähti minuun iskeköön,
+Ikuiseen että uneen nukahtaisin! --
+Sano, armas serkku, mikä tyly käsi
+Pois leikkasi ja silpoi ruumiistasi
+Sen kalliit koristeet, sen kaksi oksaa,
+Nuo, joiden varjoss' oisi kuninkaat
+Halanneet levätä, mut eivät koskaan
+Niin suurta saavuttaneet onnea,
+Ett' oisi lempes saaneet? Miks et vastaa?  --
+Ah' lämmin purppurainen verivirta;
+Kuin tuulen liikuttama lähteen huoko,
+Sun rusohuulillasi nousee, laskee
+Ja tulee, menee henkäyksesi kanssa!
+Sun joku Tereus varmaan raiskasi,
+Ja kieles silpoi, jottei tulis ilmi.
+Ah, kasvos häpeästä käännät pois!
+Ja vaikka vuotanut on vähiin veres
+Kuin kolmen putken kautta, vesisuihku,
+Niin poskes hehkuu kuin Titaanin muoto,
+Kun punoittain se pilven kanssa kamppaa.
+Sanonko puolestasi: niin se on?
+Jos tietäis vaan! Jos tuntisin sen pedon,
+Kiroilla sydäntäni keventäisin!
+Salainen suru on kuin umpi-uuni:
+Sydettää sydämmen, miss' asustaa.
+Vain kieli Philomelalt' otettiin,
+Ja vaivoin tuskans' ompeli hän liinaan;
+Sult', armas serkku, tääkin apu vietiin.
+Sun kohtas ovelampi Tereus:
+Hän katkoi kauniit sormet nuo, jotk' oli
+Somempaa ommelleet kuin Philomela.
+Josp' ois tuo peto nähnyt liljakättes
+Lipovan luutulla, kuin haavanlehden
+Ja sulkkukielienkin suutelevan
+Ihaillen niitä, eipä hengen uhall'
+Ois rohjennut hän niihin koskea;
+Tai sulokieles taivaallisen soinnun
+Jos oisi kuullut hän, niin veitsen oisi
+Kädestään päästänyt ja nukahtanut
+Kuin Orpheuksen lauluun Kerberus.
+Pois tule, isäs sokeaksi tee:
+Näköä moist' ei isänsilmä kestä.
+Lemuvat niitut hetken rajuilma
+Voi upottaa; ja kuink' ei isän silmää
+Sois pitkäin kuukausien kyyneleet?
+Pois tule; jaamme sinun kanssas surun;
+Saat siitä, raukka, pienen lohdun murun.
+
+                              (Menevät.)
+
+
+
+
+KOLMAS NÄYTÖS.
+
+
+Ensimmäinen kohtaus.
+
+    Katu Roomassa.
+
+    (Senaattoreja, tribuuneja ja oikeudenpalvelijoita tulee,
+    heidän mukanaan Martius ja Qvintus, jotka sidottuina
+    viedään teloitettaviksi. Titus kulkee edellä, rukoillen
+    poikainsa puolesta.)
+
+TITUS.
+Tribuunit, kuulkaa, arvon isät, kuulkaa!
+Oi, vanhust' armahtakaa, jonka nuoruus
+Sodissa kului vaaran-alaisissa,
+Te rauhan turvissa kun nukuitte!
+Aatelkaa vertani, jok' eestä Rooman
+On juossut, valvotuita pakkas-öitä,
+Karvaita näitä kyyneleitä, joita
+On poskieni vanhat rypyt täynnä!
+Oi, poikiani säälikää: ei heillä
+Niin sielu ole paatunut kuin luullaan.
+En poikaa kahtakolmatt' itkenyt,
+Kun kaatuivat he maineen tanterelle,
+Mut näiden puolesta ma tomuun piirrän
+    (Heittäytyy maahan; senaattorit y.m. kulkevat ohi.)
+Sydämmen tuskan, sielun vetreet veet.
+Maan janon kyyneleeni sammuttakoot;
+Poikaini veri sitä häpein punaa.
+Oi, maa, sua runsahammin pisaroillaan
+Nää kaksi vanhaa rauniota kastaa
+Kuin kuuroillansa nuori toukokuu.
+Sua kesäpoudilla ma kostutan,
+Ma kuumin vesin talvilumes sulaan
+Ja muodollesi iki-kevään luon,
+Jos kultapoikaini et verta juo.
+    (Lucius tulee, miekka paljastettuna.)
+Tribuunit lempeät, te harmaapäät,
+Kumotkaa tuomio, oi, vapauttakaa
+Mun poikani, ja sanoa mun suokaa,
+Mun, jok' en ole koskaan itkenyt,
+Ett' teidät hellytti mun kyyneleeni!
+
+LUCIUS.
+Oi, kallis isä, turhaan valitat:
+Sua tribuunit ei kuule, kaikk' on menneet;
+Kiville suruasi haastelet.
+
+TITUS.
+Ah, Lucius, veljeis puolesta ma puhun.
+Tribuunit hyvät, pyydän vielä kerran, --
+
+LUCIUS.
+Tribuunit ei sua kuule, isä kulta.
+
+TITUS.
+Se ei tee mitään; jos mua kuulisivat,
+Mua eivät huomaisi; jos huomaisivat,
+Mua eivät säälisi; mut minun täytyy
+Puhua, vaikka turhaan, poikain eestä.
+Siks suruni haastan kiville;
+Vaikk' eivät vastaakaan ne tuskilleni,
+Paremmat ovat toki tribuuneja:
+Ne eivät puhettani keskeytä;
+Kun itken, nöyrästi ne ottavat
+Mun kyyneleni vastaan, itkein nekin;
+Ja arvokas jos heillä vain ois puku,
+Ei tribuunia heidän vertaistaan.
+Kivi pehmyt on kuin vaha, tribuuni
+Kovempi kiveä; on vaiti kivi,
+Ei ketään loukkaa, mutta tribuunit
+Kielellään ihmisiltä hengen vievät.
+    (Nousee.)
+Mut miksi tässä seisot, miekka maalla?
+
+LUCIUS.
+Vapautan kuolemasta veljeni;
+Siit' yrityksest' ovat tuomarit jo
+Ikuiseen maanpakoon mun tuominneet.
+
+TITUS.
+Oi, onnellinen! Sehän ystävyyttä!
+Hupero, etkö huomaa, että Rooma
+Vain erämaa on, täynnä tiikereitä?
+Eräänsä tiiker' etsii; Rooma minut
+Ja omaiseni ottaa. Onni sulle,
+Näist' ahmoista kun pääset maanpakoon!
+Mut ketä Marcus-veli tuossa tuo!
+
+    (Marcus ja Lavinia tulevat.)
+
+MARCUS.
+Varusta vanhat silmäs itkemään,
+Sydämmes muuten särkyy, jalo Titus:
+Ma vanhuudelles kuolon tuskaa tuon.
+
+TITUS.
+Se syökö minut? Anna mun se nähdä!
+
+MARCUS.
+Tää oli tyttäres.
+
+TITUS.
+                  On vieläkin.
+
+LUCIUS.
+Voi mua! Tämä näkö minut tappaa.
+
+TITUS.
+Pelokas poika! Nouse, katso häneen. --
+Lavinia, sano, mikä kiron käsi
+Sun saattoi kädetönnä isäs eteen?
+Ken houkkapää se mereen vettä loi
+Ja varvun heitti Troian suureen paloon?
+Suruni täys ol' ennen tuloasi,
+Nyt, niinkuin Niili, rajoissaan ei pysy. --
+Hae miekka! Minäi katkon käteni:
+Ne Roomaa ovat puoltaneet, mut turhaan;
+Mua ruokkiessaan tuskaa ruokkineet;
+Rukoiluun olen nostanut ne suotta;
+Ja apu niist' on ollut hyödytön.
+Nyt muut' en palvelusta niiltä pyydä,
+Kuin että toinen hakkaa toisen pois.
+Laps, hyvä ettei sulla käsiä:
+On turhaa käsin Roomaa palvella.
+
+LUCIUS.
+Sano, rakas sisko, kuka sinut rääkkäs?
+
+MARCUS.
+Ah! Voi! Tuo ajatusten armas elin,
+Jonk oli jokellus niin hurmaavaa,
+Nyt pikku-kupuhäkistään on viety,
+Miss' sointujaan kuin lintu liverteli
+Ja korvat lumos sulosävelin.
+
+LUCIUS.
+Ah, sano sitten sinä, ken sen teki.
+
+MARCUS.
+Tuommoisna hänen löysin; puistossa
+Hän harhas, piileskellen niinkuin kauris,
+Jok' auttamattoman on haavan saanut.
+
+TITUS.
+Hän oli kauriini; ken hänet silpoi,
+Löi minuun pahemman kuin kuolinhaavan.
+Nyt luodolla ma seison niinkuin mies,
+Jok', ympärillään ärjy meri, näkee
+Kuink' aalto aallolt' yhä paisuu kuohu,
+Odottain vain, ett' ärjäs hyökylaine
+Kitaansa hänet nielee suolaiseen.
+Tuost' armaat poikaseni kuoloon kulki;
+Maanpakolaisna tuossa toinen seisoo,
+Ja veli tässä tuskiani itkee.
+Mut elämälleni on haikein isku
+Lavinia kallis, kalliimp' elämääni. --
+Jos tuossa asuss' oisin kuvas nähnyt,
+Olisin tullut hulluksi; nyt mitä,
+Kun tuommoisena näen sun elävältä?
+Ei kättä sulla kuiveeks kyynelten,
+Ei kieltä ilmi tuomaan, ken sun silpoi.
+On miehes kuollut; hänen kuolemastaan
+Sun veljes syytettyinä myöskin kuolleet.
+Ah, katso, Marcus! Katso häntä, Lucius!
+Kun veljet mainitsin, niin kyyneltulva
+Taas posken kostutti, kuin mesikaste
+Maast' otetun ja surkastuneen liljan.
+
+MARCUS.
+Sit' itkee kenties, että tappoivat
+He hänen miehensä; tai kenties sitä,
+Ett' tietää syyttömiksi veljensä.
+
+TITUS.
+Iloitse: he jos miehes tappoivat,
+Niin oikeus sen kostanut on heille. --
+Ei, ei, niin rumaa työtä eivät tehneet,
+Sen siskon suru selväst' osoittaa. --
+Laps rakas, suo mun suulles suukko painaa,
+Tai anna merkki, miten tuskaas liennän.
+Kaikk' istummeko, setäs, Lucius-veljes,
+Sinä ja minä lähteen ympärille,
+Vedestä poskiamme katsellen,
+Kuink' ovat likaiset, kuin niityt, joihin
+On inhan liman tulva jättänyt?
+Ja lähteeseenkö tuijotamme, kunnes
+Tuon kirkkaan veden raikas maku muuttuu
+Karvaista kyynelistä suolaiseksi?
+Vai kätemmekö katkomme? Tai poikki
+Puremme kielemme, ja mykin ilmein
+Elämme inhat loppupäivämme?
+Mitä? Me, joill' on kieli, tuumikaamme
+Jotakin kurjaa vielä kurjempaa,
+Ett' ällistyvät sitä jälkipolvet.
+
+LUCIUS.
+Äl' itke, rakas isä! Tuskillesi,
+Näet, sisko-parka ääneen nyyhkyttää.
+
+MARCUS.
+Rauhoitu, serkku! -- Kuivaa silmäs, Titus!
+
+TITUS.
+Oi, Marcus, Marcus! Hyvin tiedän, veli,
+Ett' ei sun liinaas kyyneleeni mahdu:
+Mies-parka, omillas sen kastelit.
+
+LUCIUS.
+Lavinia rakas, poskesi ma kuivaan.
+
+TITUS.
+Kas, Marcus, kas! Ma merkkins' ymmärrän.
+Jos kieltä hällä, sanoisi hän nyt
+Sen veljellensä, minkä minä sulle:
+Tuo liina, märkä veljen kyynelistä,
+Ei avuks ole siskon poskille.
+Oo, tätä surun yksimielisyyttä!
+Mut yhtä kaukana on lohdutus
+Kuin manalan on mailta siunaus.
+
+    (Aaron tulee.)
+
+AARON.
+Titus Andronicus, tään sanan sulle
+Tuon keisarilta: poikias jos hellit,
+Niin Luciuksen, Marcuksen tai sinun
+Kätensä tulee jonkun katkaista
+Ja lähettää se hälle; palkaks siitä
+Hän tänne poikas elävinä laittaa
+Ja heidän rikoksensa anteeks suo.
+
+TITUS.
+Oi, keisar' armias! Oi, rakas Aaron!
+Noin leivon kielelläkö korppi laulaa
+Ja päivän nousust' ilotiedon tuo?
+Käteni kernaast' annan keisarille;
+Mua auta katkomaan se, hyvä Aaron.
+
+LUCIUS.
+Seis, isä! Ylvää kättäs ei saa viedä,
+Jok' on niin monta vihollista lyönyt.
+Tää käsi riittää. Minun nuoren veri
+On halvempaa kuin sun; mun käteni
+On pelastava veljieni hengen.
+
+MARCUS.
+Molempain teidän käsi Rooman eestä
+Veristä tapparaa on heilutellut,
+Tuhoa tuoden vihollisen päille:
+Teill' ansiot on kummallakin suuret.
+Mun käteni ei mitään tehnyt; kelpaa
+Tok' ehkä lankojeni lunnaiksi:
+Se silloin säästynyt on jaloon työhön.
+
+AARON.
+Sopikaa pian, kenen käden saan:
+He voivat kuolla ennen armahdusta.
+
+MARCUS.
+Mun käteni sa vie.
+
+LUCIUS.
+                   Ei, kautta taivaan!
+
+TITUS.
+Ei riitaa! Tämänlainen kuiva ruoho
+On kitkettävä pois; siis minun saat.
+
+LUCIUS.
+Oi, rakas isä, pojastas jos käyn,
+Mun pelastaa suo veljieni henki!
+
+MARCUS.
+Isämme nimess', äitimmekin tähden,
+Mun anna veljen rakkautt' osottaa!
+
+TITUS.
+Sopikaa siis; ma säästän käteni.
+
+LUCIUS.
+Käyn heti kirveen.
+
+MARCUS.
+                   Minä sitä käytän.
+
+    (Lucius ja Marcus menevät.)
+
+TITUS.
+Käy tänne, Aaron, -- aion heidät pettää.
+Kätesi mulle lainaa, niin saat minun.
+
+AARON (syrjään).
+Jos petosta on tuo, niin rehellinen
+Min' olla tahdon enkä koskaan ketään
+Noin pettää: -- vaan sun toisin tavoin petän,
+Sen vähän ajan päästä nähdä saat.
+
+    (Lyö poikki Tituksen käden.)
+
+    (Lucius ja Marcus palaavat.)
+
+TITUS.
+Nyt kiista pois! Nyt tehtävä on tehty. --
+Käteni, Aaron, keisarille vie;
+Tää käsi, sano, suojannut on häntä
+Sadoista vaaroista; hän haudatkoon sen,
+Sit' on se vähintäänkin ansainnut.
+Ja poikani, se sano, ovat mulle
+Kuin jalokivet, joista halvan maksoin,
+Mut sentään kalliin, omani kun ostin.
+
+AARON.
+Andronicus, nyt menen. Kädestäsi
+Saat kohta poikasi, -- (Syrjään.) niin, heidän päänsä.
+Oo, kuinka tästä konnantyöstä nautin
+Jo aatoksissa! Valkoiset ja narrit
+Vain hyvää tehkööt, suokoot armahdusta;
+Mull' olkoon sielu, niinkuin pinta, musta!
+
+    (Menee.)
+
+TITUS.
+Täss' yhden käden nostan taivaaseen,
+Maan puoleen lasken tämän heikon tyngän.
+Jos valtoja on, jotka kyyneleitä
+Katalan säälii, niitä rukoilen.
+    (Lavinialle.)
+Mukana polvistutko? Tee se, lapsi!
+Oi, taivas, kuule meitä, muuten ilman
+Sokaamme huokauksilla, pimitämme
+Sumulla auringonkin, niinkuin pilvi,
+Kun märkään syliinsä se sulkee sen.
+
+MARCUS.
+Oi, veli, puhu mahdollisia,
+Äläkä syvään epätoivoon syöksy!
+
+TITUS.
+Suruni syvä on, ei sillä pohjaa,
+Siis on sen purkauskin pohjaton.
+
+MARCUS.
+Tok' anna järjen johtaa voivotustas.
+
+TITUS.
+Jos tässä kurjuudess' ois järkeä.
+Niin voisin voihkinalle rajan panna.
+Kun taivas itkee, eikö maakin tulvi?
+Kun myrsky riehuu, eikö meri ärjy
+Ja pöhöposkin uhmaa taivaita?
+Kysytkö järkisyytä tähän meluun?
+Min' olen meri; kuules, kuin se huokaa!
+Hän itkevä on taivas, minä maa;
+Mereni hänen huokauksistaan paisuu,
+Ja maani hänen vuolaast' itkustaan
+Kuin vedenpaisumuksen tulviin hukkuu.
+Sen vuoks ei sisässäni pysy tuska,
+Kuin juopon pois mun oksentaa se täytyy.
+Siis sallikaa -- ken hukkaa, sill' on lupa
+Karvaasta suustaan purkaa sappea.
+
+    (Sanansaattaja tulee, tuoden kaksi päätä ja yhden käden.)
+
+SANANSAATTAJA.
+Sa, kunnon Titus, huonon palkan sait,
+Kun hyvän kätes laitoit keisarille.
+Täss' yleväin on poikiesi päät;
+Kätesi tässä, pilkoin palautettu.
+Suruas ilkutaan ja uljuuttas.
+On tuskemp' ajatella tuskiasi
+Kuin muistaa oman isän kuolemaa.
+
+    (Menee.)
+
+MARCUS.
+Jääks muuttukoon Sicilian kuuma Etna,
+Ja hornan iki-lieskaks poveni!
+Ei moista kurjuutt' ihminen voi kestää!
+Tuo hoivaa ilku itkevien kanssa,
+Mut tuskan pilkka kaksin kerroin surmaa.
+
+LUCIUS.
+Tää näky noinko syvän haavan lyö,
+Ja sentään inhottu ei elo väisty!
+Elolle elon nimen kuolo jättää,
+Kun muut' ei jäljell' elosta kuin henki!
+
+    (Lavinia suutelee Titusta.)
+
+MARCUS.
+Ah, syddn-parka, lohduton on muiskus:
+Jäävettä ryytyneelle madolle!
+
+TITUS.
+Oi, milloin päättyykään tää kauhun uni!
+
+MARCUS.
+Hyvästi, mairittelu! Kuole, Titus!
+Et nuku nyt; näet poikiesi päät,
+Soturinkätes, tyttös silvottuna;
+Maanpakolaisen poikas kauhusta
+Kalvaana, veretönnä; minut, veljes,
+Kuin kivipatsaan kylmän turtana.
+Ah, nyt en enää tuskiasi soimaa.
+Hopeahiukses revi, hampain kalva
+Toinenkin kätes: tämä kauhu olkoon
+Poloisten silmiemme viime näky!
+Nyt myrskyn aika on; miks et sa riehu?
+
+TITUS.
+Ha, ha, ha!
+
+MARCUS.
+Mut miksi naurat? Se ei sovi nyt.
+
+TITUS.
+Siks, ettei kyynelt' ole mulla enää.
+Tää suru lisäksi on vihamies:
+Vetisen silmän anastaa se tahtois
+Ja kyynel verolla sen soentaa;
+Ja kuinka silloin koston luolan löydän?
+On kuin nuo kaksi päätä haastaisi
+Ja uhkais, etten tule autuaaksi,
+Ennenkuin maksan nämä ilkityöt
+Suun sisään niille, jotk' on niihin syypäät. --
+Te, murheen murtamat, mua ympäröitkää;
+Jokaisen puoleen käännyn nyt, ja vannon
+Tuskanne kostaa, kautta sieluni!
+Nyt valan tein. -- (Marcukselle) Sin' ota toinen pää;
+Kädellä tällä minä toista kannan. --
+Lavinia, tehtävän saat sinäkin:
+Hampaissas, tyttö, kanna kättäni. --
+Pois, sinä, poika, silmistäni pois!
+Maanpaoss' olet, tänne et saa jäädä.
+Pois goottein luo, ja haali väkeä;
+Ja jos mua rakastat -- ja sen sa teet --
+Mua suutele ja mene; työt' on paljon.
+
+    (Titus, Marcus ja Lavinia menevät.)
+
+LUCIUS.
+Hyvästi, Titus, jalo isäni,
+Mies onnettomin, mink' on Rooma nähnyt!
+Hyvästi, ylvä Rooma! Paluustani
+Ma pantit jätän kalliimmat kuin henki.
+Lavinia, jalo sisko, hyvästi:
+Josp' oisit vielä, mikä olit ennen!
+Nyt Lucius ja Lavinia elävät
+Vain unheessa ja kauhun tuskissa.
+Jos Lucius elää, kohtunne hän kostaa:
+Tuo ylvä keisar-pari vielä kerjää
+Kuin porteilla Tarqvinius vaimoineen.
+Nyt goottein luo! Tuon väkeä, ja koston
+Tuon Roomalle ja Saturninukselle.
+
+    (Menee.)
+
+
+Toinen kohtaus.
+
+    Huone Tituksen talossa. Ruokapöytä katettuna.
+
+    (Titus, Marcus, Lavinia ja nuori poikanen Lucius tulevat.)
+
+TITUS.
+Nyt istukaa; mut enemp' älkää syökö,
+Kuin että juur' niin paljon voimaa saamme,
+Kuin julmain tuskaimme on kostoon tarvis.
+Sa, Marcus, päästä tämä surun solmu:
+Me kädettömät raukat, hän ja minä.
+Me kymmenkertaist' emme tuskaamme
+Voi ristikäsin ilmi tuoda. Mulle
+Tää oikea on käsi-parka jäänyt,
+Mill' ikeessä voin pitää poveni;
+Ja tuskien kun riehaamana sydän
+Komossa ruumiin tyrmäss' elämöi,
+Niin noin sen alas survon! --
+    (Lavinialle.)
+Sa, murheen kuva, joka merkein haastat,
+Kun valtavasti sydän parkas sykkii,
+Sa lyömäll' et voi sitä vaientaa.
+Sit' ohkuill' iske, huokauksilla tapa,
+Tai hampaisiisi ota pieni veitsi
+Ja kaiva reikä kohti sydämmeen,
+Niin että kaikki kyyneleet, mit' itket,
+Valuisi aukkoon, imeytyisi siihen
+Ja suolavirtaans' upottais sen narrin.
+
+MARCUS.
+Hyi, veli, hyi! Noin lastas älä neuvo
+Käsiksi käymään nuoreen elämäänsä.
+
+TITUS.
+Mitä? Onko suru sun jo vimmannut?
+Mull' yksin oikeus on hulluks tulla.
+Hän voiko käsiks käydä elämäänsä?
+Ah, miksi tuota käsi-sanaa hoet?
+Aeneaan kahdestiko haastaa käsket
+Sa Troian palosta ja kurjuudestaan?
+Puheessas älä käsittele kättä,
+Näin meille muistuttain sen puutetta!
+Hyi, hassujahan puhun! Unhottaako
+Me voimme, ettei meillä käsiä,
+Vaikk' onkin Marcus niistä puhumatta?
+Nyt ruokaillaan! Syö, rakas tyttö, tuo. --
+Ei juomaa täällä. (Marcukselle.) Kuules, mitä sanoo;
+Jo tunnen tytön kaikki tuskan merkit:
+Hän sanoo, ettei muuta juomaa juo
+Kuin kyyneleitä, surun keittämiä
+Ja hänen poskillansa kuurnituita.
+Valitus mykkä, ymmärtää sua tahdon
+Ja sanattoman kieles oppia
+Kuin kerjuumunkki pyhät rukouksensa.
+Jos huokaat, tynkäs nostat taivaaseen,
+Jos nyökkäät, viittaat, polvistut, jos minkä
+Teet merkin, niistä kirjaimiston laitan,
+Jost' aatoksias ahkerasti tutkin.
+
+POIKA.
+Oi, jätä, vaari, julmat voivotukses;
+Tädille taru kerro ratoksi.
+
+MARCUS.
+Ah, hento poika liikutuksesi itkee,
+Kun vaarinsa hän näkee synkkyyden.
+
+TITUS.
+Vait, hento taimi, kyynelien lapsi!
+Pian kyyneliin sun elos sulaa pois
+    (Marcus iskee veitsellään lautaseensa.)
+Mit' isket sinä, Marcus, veitselläsi?
+
+MARCUS.
+Kas noin, sen tapoin! Kärpänen se oli.
+
+TITUS.
+Hyi, murhamies! Sydämmeni tapoit;
+Jo hirmuun silmäni on kyllästynyt.
+Ei murha-isku, lyöty syyttömään,
+Tituksen sovi veljelle. Pois joutuin!
+Ei sinust' ole, näämmä, seuraks mulle.
+
+MARCUS.
+Ah, veli, kärpäsenhän tapoin vain!
+
+TITUS.
+Mut mitä, jos sill' isä ois ja äiti,
+Sen hennot kultasiivet kuinka lerppais
+Ja ilmass' uikuis surun surina!
+Viaton kärpäs-parka, joka tuli
+Sirolla, sointuvalla surinallaan
+Meit' ilahuttamaan, -- ja sen sa tapoit!
+
+MARCUS.
+Se ruma oli kärpänen ja musta
+Kuin keisarinnan mauri; siks sen tapoin.
+
+TITUS.
+Oo, oo, oo!
+Suo anteeks, että sua soimasin,
+Sin' olet tehnyt armeliaan työn.
+Minulle veitses anna: survon sen,
+Ja kuvittelen, että on se mauri,
+Jok' on mua tullut myrkyttämään tänne. --
+Tuoss' sinä saat, ja tuossa Tamora!
+Haa, sinä konna! Emme ole sentään
+Niin masenneet, ett' emme kahden tappaa
+Vois kärpästä, jok' ilmestynyt tänne
+On sysimustan maurin haahmossa!
+
+MARCUS.
+Mies-raukka, niin on surun lannistanut,
+Ett' oleviksi luulee varjoja!
+
+TITUS.
+Pois ruoat! Tule kanssani, Lavinia;
+Kamariis käymme; suruisia sulle
+Ma luen menneen ajan tarinoita. --
+Käy mukaan, poika; sull' on nuoret silmät:
+Lukea saat, kun minun hämärtää.
+
+                     (Menevät.)
+
+
+
+
+NELJÄS NÄYTÖS.
+
+
+Ensimmäinen kohtaus.
+
+    Tituksen talon edusta.
+
+    (Titus ja Marcus tulevat; sitten nuori Lucius, ja Lavinia,
+    juosten hänen jälkeensä.)
+
+POIKA.
+Oi, auta, vaari! Mua kaikkialla
+Lavinia-täti vainoo, miks, en tiedä. --
+Kas, setä Marcus, kuinka rientää hän! --
+En tiedä, rakas täti, mitä tahdot.
+
+MARCUS.
+Tule, Lucius, älä tätiäsi pelkää.
+
+TITUS.
+Hän ei tee pahaa; hän sua rakastaa.
+
+POIKA.
+Niin rakasti, kun isä Roomass' oli.
+
+MARCUS.
+Lavinian merkit mitä tarkoittavat?
+
+TITUS.
+Laps, älä pelkää. -- Jotain tarkoittavat. --
+Kas, Lucius, kuinka sinusta hän pitää;
+Johonkin tahtoo sua kanssaan viedä.
+Niin uskost' ei Cornelia pojilleen
+Lukenut, kuin hän sulle, runoutta
+Ja Tulliuksen Oratoria.
+
+MARCUS.
+Sin' etkö arvaa, mitä hän sun tahtoo?
+
+POIKA.
+En tiedä, enkä osaa arvata;
+Jos ei vain hulluuden se liene puuskaa.
+Ma kuulin usein vaarin sanovan,
+Ett' ylellinen suru vikaa mielen,
+Ja luin, että Troian Hecuba
+Surusta hullaantui; siit' aristuin,
+Mua täti hyvä rakastaa, sen tiedän,
+Yht' armaasti kuin oma äiti, eikä
+Mua muuten säikäyttäis kuin raivopäissään;
+Siks heitin kirjat pois ja pakenin, --
+Mut suotta ehkä. Anteeks, hyvä täti;
+Mut jos vain setä Marcus mukaan käy,
+Niin mielelläni, täti, teitä seuraan.
+
+MARCUS.
+Teen tahtos, Lucius.
+
+    (Lavinia kääntää ylösalaisin kirjat, jotka Lucius on pudottanut.)
+
+TITUS.
+                     Mitä nyt, Lavinia? --
+Hän mitä, Marcus, tuolla tarkoittaa?
+Haluaa varmaan jotain kirjaa nähdä. --
+Mik' on se näistä? -- Aukaise ne, poika. --
+Ei, sinä viisaamp' olet, lukeneempi,
+Valitse joku kirjastostani;
+Näin ilku suruasi, kunnes taivas
+Tuo ilmi tämän pillan tekijän. --
+Sano, mikä kirja?
+Miks vuorottain noin käsiään hän nostaa?
+
+MARCUS.
+Hän varmaan tarkoittaa, ett' oli monta
+Rikokseen yhtynyttä, -- monta varmaan; --
+Ja ehkä huutaa taivaan kostoa.
+
+TITUS (Luciukselle).
+Hän mitä kirjaa tuossa koperoi?
+
+LUCIUS.
+Ovidiuksen Metamorfooseja;
+Se lahja äidilt' on.
+
+MARCUS.
+                     Sen joukost' ehkä
+Valitsi rakkaudesta vainajaan.
+
+TITUS.
+Kas, kuinka kiirein lehtiä hän kääntää!
+Hänt' auttakaa! Mit' etsii hän? -- Lavinia,
+Luenko minä? Tuo se synkkä taru
+On Philomelasta, ja Tereuksesta,
+Jok' yllätti ja hänet raiskasi.
+Niin, raiskaus, varon ma, on tuskas syy.
+
+MARCUS.
+Kas, veli, kuinka lehtiä hän näyttää!
+
+TITUS.
+Laps armas, näinkö sinut yllätettiin,
+Häväistiin, raiskattiin kuin Philomela
+Mykässä, autiossa metsässä? --
+Kas, kas! -- Niin, tuommoinen se oli seutu,
+Miss' oltiin riistan ajossa, -- oo, ettei
+Siin' ajoss' oisi oltu koskaan, koskaan! --
+Sellainen, miks sen runo tässä kuvaa,
+Juur' raiskaukseen ja murhaan luontainen.
+
+MARCUS.
+Miks luonto moisen luolan loi, jos mieleen
+Ei jumalille murhenäytelmät?
+
+TITUS.
+Laps, merkki tee, -- täss' on vain ystäviä: --
+Tuon Rooman mieskö teki? Hiipikö
+Nyt Saturninus, kuin Tarqvinius muinoin
+Sodasta suorastaan Lucretian viereen?
+
+MARCUS.
+Laps rakas, istu; -- istu tähän, veli! --
+Apollo, Pallas, Zeus, Mercurius,
+Mua valaiskaa, ett' ilkimyksen löydän!
+Kas tänne, veli; -- katsohan, Lavinia:
+    (Kirjoittaa nimensä sauvallaan, jota ohjaa jalallaan ja suullaan.)
+Täss' silko hiekka on; mua jäljittele,
+Jos voit. Näet, käden avutta ma tuohon
+Nimeni piirsin. Kirottu se sydän,
+Jok' ajaa meitä moiseen kiusaukseen!
+Laps hyvä, kirjoita, tuo vihdoin ilmi
+Mit' aikoo kostettavaks jumalat.
+He kättäs ohjatkoot, kun tuskas piirrät,
+Jott' ilmi tulis pettäjät ja totuus!
+
+    (Lavinia ottaa sauvan suuhunsa, ohjaa sitä kädentyngällään
+    ja kirjoittaa.)
+
+TITUS.
+Oi, katso, veli, mit' on kirjoittanut:
+Stuprum, -- Chiron, -- Demetrius.
+
+MARCUS.
+Mitä? Mitä? -- Tamoranko irstaat pojat
+Tuon kauhean on tehneet verityön?
+
+TITUS.
+_Magni dominator poli
+Tam lentus audis scelera? tam lentus vides?_
+
+MARCUS.
+Mies hyvä, tyynny; vaikka tiedän, että
+Se, mik' on tuohon hiekkaan kirjoitettu,
+Kapinaan nostais itse hyvyyden
+Ja imulapsen kostoon yllyttäisi.
+Polvistu, veli, polvistu, Lavinia,
+Polvistu, poika, Hectorimme toivo,
+Ja vannokaatte -- niinkuin Junius Brutus
+Siveän, häväistyn Lucretian
+Isälle sekä puolisolle vannoi, --
+Ett' taiten noille gootti-pettureille
+Lupaamme surmakoston valmistaa,
+Verensä nähdä, taikka häpein kuolla.
+
+TITUS.
+Tuo hyvä on, jos tietäisit vain, kuinka.
+Mut varo: karhunpentuja jos ajat,
+Vois emo herätä ja sinut haistaa.
+Se leijonaan on liki liittynyt,
+Selällään maaten tuota hyväilee se
+Ja, kun se nukkuu, tekee mitä tahtoo.
+Nuor' olet metsämieheks; jätä tuo!
+Käy mukaan, minä vaskilehden hankin;
+Nuo sanat siihen teräspiikill' uurran,
+Ja kätken sen. Vois ärjy pohjainen
+Hajoittaa hiekan kuin Sibyllan lehdet;
+Siit' ota sitten selvä! -- Mitä, poika?
+
+POIKA.
+Ma sanon että, jos min' oisin mies,
+Niin äitinsä ei makuuhuoneessakaan
+Nuo Roomaan ikeelliset turvass' ois.
+
+MARCUS.
+Niin, uljas poika! Samoin isäs usein
+On tehnyt maalleen kiittämättömälle.
+
+POIKA.
+Teen samoin minä, setä, jos saan elää.
+
+TITUS.
+Mukaani tule asehuoneeseeni,
+Siell' asestan sun, Lucius; sinä, poika,
+Saat viedä keisarinnan pojille
+Minulta lahjan heille varatun.
+Ajathan asiani, teethän sen?
+
+POIKA.
+Tikarin ajan heidän sydämmeensä.
+
+TITUS.
+Ei, poika, ei, ma neuvon toisen keinon. --
+Tule, tyttö! -- Katso, Marcus, taloa.
+Minä ja Lucius hoviss' uhkeilemme;
+Niin totta, meitä vielä palvellaan.
+
+    (Titus ja Lavinia ja poika menevät.)
+
+MARCUS.
+Oi, taivas, hyvän miehen voihkinanko
+Sa kuulet, etkä helly, etkä sääli?
+Tuot' auta houkkaa, Marcus; useammat
+Löi hälle haavat suru sydämeen
+Kuin kilpeen naarmut vihamies; on silti
+Niin hurskas, ettei kostaa tahdo. -- Kosta,
+Taivas, kohlut vanhan Tituksen!
+
+    (Menevät.)
+
+
+Toinen kohtaus.
+
+    Huone hovilinnassa.
+
+    (Aaron, Demetrius ja Chiron tulevat toisista ovista,
+    toisista nuori Lucius ja saattaja, kädessä kimppu aseita,
+    joiden ympärillä on kirjoitettuja värssyjä.)
+
+CHIRON.
+Demetrius, täss' on Luciuksen poika;
+Hänell' on meille jotain asiaa.
+
+AARON.
+Niin, houkan vaarin houkkaa asiaa.
+
+POIKA.
+Arvoisat herrat, alamaiset teille
+Tuon terveiset Andronicukselta, --
+(Syrjään.) Tuhotkoon teidät Rooman jumalat!
+
+DEMETRIUS.
+Suur' kiitos, rakas Lucius! Mitä uutta?
+
+POIKA (syrjään).
+Sit' uutta, että ilki-raiskaajiksi
+On teidät paljastettu. -- (Ääneen). Luvallanne,
+Mun kauttan' isoisä teille laittaa
+Upeimmat aseet asehuoneestaan
+Ylevän nuoruutenne palkinnoksi,
+Tuon Rooman toivon: nämä sanat käski
+Mun teille sanoa ja teille antaa
+Tään lahjan, jotta, jos ois tarvis joskus,
+Teill' oisi hyvät varusteet ja aseet.
+Näin jätän minä teidät, (Syrjään) verikonnat!
+
+    (Poika ja saattaja menevät.)
+
+DEMETRIUS.
+Mitä? Käärö, ympärillä kirjoitus!
+No, annahan kun katson:
+_Integer vitae, scelerisque purus,
+Non eget Mauri jaculis, nec arcu_.
+
+CHIRON.
+Horatiuksesta värssy, tunnen sen:
+Sen luin koulukirjasta jo aikaa.
+
+AARON.
+Niin, värssy Horatiuksest', -- aivan oikein!
+(Syrjään.) Niin, siinä nähdään, mit' on olla aasi!
+Ei pilaa tää; syyn nuuskinut on vanhus,
+Ja aseet laittaa kirjoituksineen,
+Jok' iskee ytimiin, vaikk eivät huomaa.
+Jos viisas keisarinna jalkeill' ois,
+Hän ukon sukkeluuden hyväksyisi;
+Mut rauhan saakoon, rauhaton kun on. --
+Niin, eikös onnen tähti meitä tuonut
+Vieraina, jopa vankeinakin, Roomaan,
+Näin korkealle meidät nostaakseen?
+Tek' oikein hyvää mulle linnan portill'
+Uhata tribuunia veljen kuullen.
+
+DEMETRIUS.
+Enemmän mulle nähdä moisen herran
+Madellen meitä lahjoin' imartavan.
+
+AARON.
+Demetrius, eikö ollut hällä syytä?
+Hyvinhän kohtelitte tytärtään.
+
+DEMETRIUS.
+Oi, jospa tuhat olis roomatarta
+Noin pinteessä ja himon saaliina!
+
+CHIRON.
+Mik' armias ja ihmisrakas toivo!
+
+AARON.
+Vain äidin puuttuu aamen.
+
+CHIRON.
+                          Sit' ei puutu,
+Vaikk' olis niitä tuhansia lisää.
+
+DEMETRIUS.
+Pois tulkaa: rukoilkaamme jumalia
+Tukemaan äitiämme tuskissaan.
+
+AARON (syrjään).
+Niin, perkeleitä; meill' ei jumalia!
+
+    (Torventoitauksia kuuluu.)
+
+DEMETRIUS.
+Miks soivat linnassa nyt torvet noin?
+
+CHIRON.
+Kai ilost', ett' on keisarilla poika.
+
+DEMETRIUS.
+Vait, kuka tuossa?
+
+    (Hoitaja tulee, musta lapsi sylissä.)
+
+HOITAJA.
+                   Huoment', arvon herrat!
+Ken teist' on nähnyt Aaronin, sen maurin?
+
+AARON.
+Maurin tai kauriin, se on yhtä kaikki;
+Täss' Aaron on; mit' Aaronista tahdot?
+
+HOITAJA.
+Oi, rakas Aaron, hukass' olemme!
+Nyt auta, tai sun ikipiina perii!
+
+AARON.
+Haa! Mitä kissan naukunaa on tää?
+Mitä tulloa sa tuossa povees kätket?
+
+HOITAJA.
+Mit' ei sais taivas nähdä: keisarinnan
+Ja koko ylvän Rooman häpeää. --
+Hän päästetty on, herrat, päästetty.
+
+AARON.
+No, mistä?
+
+HOITAJA.
+           Sikiöstä, tiedän mä.
+
+AARON.
+Jumala hälle suokoon rauhansa!
+Minlaisen lahjan sai hän?
+
+HOITAJA.
+                          Perkeleen.
+
+AARON.
+Siis perkeleen on äiti! Hauska vesa!
+
+HOITAJA.
+Kuvaton, ruma, musta, inha vesa!
+Tuoss' on se, ilkeä kuin rupikonna
+Tään seudun kauniin rodun keskellä.
+Tuon äiti sulle laittaa, oman kuvas,
+Ja käskee sun sen kastaa tikarilla.
+
+AARON.
+Kirottu alju! Niinkö musta halpaa? --
+Ei, pullosuu, sin' olet kaunis kukka!
+
+DEMETRIUS.
+Mit' olet sinä tehnyt, konna?
+
+AARON.
+                              Sen,
+Mit' et saa sinä tekemättömäksi.
+
+CHIRON.
+Teit äidillemme, konna, tuhotyön.
+
+AARON.
+Tein äidillesi, konna, uho pojan.
+
+DEMETRIUS.
+Teit siinä, hornan koira, tuhotyön.
+Voi, kurjuutta! Voi, inhaa makua!
+Kirottu moisen ruman pirun pentu!
+
+CHIRON.
+Se ei saa elää.
+
+AARON.
+                Se ei kuolla saa.
+
+HOITAJA.
+Sen täytyy, Aaron: äiti tahtoo niin.
+
+AARON.
+Vai täytyy? Silloin ei saa muut kuin minä
+Tuhota lihaani ja vertani.
+
+DEMETRIUS.
+Sen rumpin pistän miekankärjelläni;
+Tuo tänne se, teen pian siitä lopun.
+
+AARON.
+Pikemmin miekka tää sun vatsaas kyntää!
+    (Ottaa lapsen hoitajalta ja paljastaa miekkansa.)
+Murhaajat, tapatteko veljenne?
+Kautt' taivaan tuikkivien kynttiläin,
+Joist' iski leimu, kun tuo poika tehtiin,
+Ken koskee tähän esikoiseeni,
+Se tämän miekan tuimaan terään kaatuu!
+Se kuulkaa, pojat: ei Encelodus
+Ja Typhonin[10] kaikk' uhkailevat laumat,
+Ei suur' Alcides, ei Mars-jumalakaan
+Vie tätä saalist' isän käsistä!
+Te, pojat punakat, te pölkkypäät!
+Valkaistut seinät, kailot krouvikilvet!
+On sysimusta väri paras väri,
+Se kaikki toiset värit luotaan lykkää;
+Ei valtameren kaikki vedet pestä
+Voi valkeaksi luikon mustaa jalkaa,
+Vaikk yhtenään se kylpee kuohuissa.
+Sanokaa Tamoralle: mull' on ikää
+Omaani puoltaa, siihen tyytyköön.
+
+DEMETRIUS.
+Noin jalon emäntäskö aiot pettää?
+
+AARON.
+Hän emäntäni on, tää minä itse,
+Mun oman nuoruuteni voiman leima;
+Tää mulle kalliimp' on kuin koko mailma,
+Ja tätä koko mailmaa vastaan suojaan,
+Tai Rooma saa sen vielä verin maksaa.
+
+DEMETRIUS.
+Tää ikihäpeäks on äidillemme.
+
+CHIRON.
+Tuost' äpärästä häntä ilkkuu Rooma.
+
+HOITAJA.
+Vihoissaan hänet surmaa keisari.
+
+CHIRON.
+Punastun, herjaansa kun aattelenkin.
+
+AARON.
+Se etuus valkoisuudestanne, hyi!
+Kavala väri, joka punastuksin
+Sydämmen salahankkeet paljastaa!
+Tää poika täss' on toista karvaa. Nähkääs,
+Kuink' isälleen se musta suka nauraa,
+Ikäänkuin sanois: "Omas olen, ukko".
+Se veljenne on, herrat, saman veren
+On ruokkima, jok' elon antoi teille,
+Samasta kohdust' ilmoille on tullut,
+Min vankeudessa tekin olitte;
+Hän veljenne on suoraa polvea,
+Mun leimaani vaikk' otsallaan hän kantaa.
+
+HOITAJA.
+Mit', Aaron, vastaan keisarinnalle?
+
+DEMETRIUS.
+Niin, mieti, Aaron, mitä tulee tehdä.
+Me kaikki sinun neuvoos suostumme.
+Laps pelasta, mut pelasta myös meidät.
+
+AARON.
+No, istukaamme tuumaa pitämään.
+Minä poikineni pidän tässä silmää.
+Seis, siinä! Puhukaa nyt turvastanne.
+
+    (Istuvat.)
+
+DEMETRIUS.
+Kuink' usea on nainen lapsen nähnyt?
+
+AARON.
+Kas noin! Kun sovitaan, min' olen lammas;
+Mut jos te tiuskaisette maurille,
+Ei vuorten leijona, ei ärjäs kauris,
+Ei meri riehu niin, kuin Aaron raivoo.
+No, sano, kuink' on moni lapsen nähnyt?
+
+HOITAJA.
+Cornelia, kätilö, ja minä itse,
+Ei muuten kukaan muu kuin keisarinna.
+
+AARON.
+Kätilö, keisarinna ja sa itse:
+Kaks kyll' on vaiti, kun on kolmas poissa.
+Mene, kerro tämä keisarinnalle!
+    (Pistää hänet.)
+Pii, pii! Noin porsas vinkuu pistettäissä.
+
+DEMETRIUS.
+Miks noin teet, Aaron? Mitä tarkoitat?
+
+AARON.
+Hei, herraseni, politiikkaa vain!
+Tuo pitkäkieli lörppä saisko elää
+Ja rikoksemme ilmaista? Ei, herrat!
+Nyt kerron teille koko tuumani.
+Maamieheni on täällä, eräs Muley,
+Jonk' eukko eilen pojan synnytti
+Juur' näköisensä, valkoisen kuin tekin.
+Hyväilkää isää, äiti lahjokaa,
+Sanokaa heille, kuink' on asiat
+Ja kuinka heidän lapsens arvoon pääsee
+Ja itse keisarinkin perijäksi,
+Kun poikaani se vaihdetaan, ja saadaan
+Hovissa noussut myrsky hillityksi.
+Hyväilköön keisari sit' omanaan.
+Niin, herrat: tuolle minä lääkkeen annoin,
+    (Osoittaen hoitajaa.)
+Te saatte pitää huolta peijaisista;
+Täss' aho on, ja teiss' on reippautta.
+Kun työ on tehty, vitkastelematta
+Kätilö heti lähettäkää mulle.
+Kun kätilö ja hoitaja on pois,
+Niin naiset mielin määrin juoruilkoot.
+
+CHIRON.
+Näen, Aaron, ettet ilmallekaan usko
+Sa salaisuuttas.
+
+DEMETRIUS.
+                 Tamoraa näin säästät,
+Ja siitä hän sua kiittää poikineen.
+
+    (Demetrius ja Chiron menevät, kantaen pois hoitajan ruumiin.)
+
+AARON.
+Nyt pääskyn lentimillä goottein luo!
+Tään kalleuteni sinne talletan
+Ja keisarinnan ystäville laitan
+Salaiset terveiseni. -- Tule, tule,
+Sa paksuhuuli, täältä vien sun pois;
+Sinä se tähän pulaan meidät saatoit.
+Sua ruokin marjoilla ja juurilla,
+Heralla, voilla; imeä saat vohlaa
+Ja luolass' asua; ma soturiksi
+Sun kasvatan ja laumain johtajaksi.
+
+    (Menee.)
+
+
+Kolmas kohtaus.
+
+    Julkinen paikka lähellä keisarin linnaa.
+
+    (Titus tulee, kädessä nuolia, joiden kärkeen on kiinnitetty
+    kirjeitä. Hänen kanssaan Marcus, nuori Lucius ja muita
+    sukulaisia.)
+
+TITUS.
+Tule, tule, Marcus; -- tässä paikka, langot --
+No, poika, näytä amputaitoasi:
+Vain tarkkaan tähtää, niin käy määrään nuoli.
+_Terras Astraea reliquit_:
+Muistathan, Marcus: pakeni ja meni!
+Työaseet esiin! Teidän, langot, tulee
+Hapaanne heittää, meret pohjustaa;
+Vedestä ehkä hänet löydätte;
+Ei, -- siell' ei oikeutt' enempää kuin maalla! --
+Te, Publius ja Sempronius, toimeen käykää:
+Kuokalla kaivakaa ja lapiolla,
+Maan sisus-uumenihin tunkekaa
+Ja, tultuanne Pluton valtakuntaan,
+Tää pyyntökirja hälle antakaa
+Ja sanokaa, ett' oikeutt', apua
+Andronicus hält' anoo, vanhus, jolta
+Sydämmen särki kiittämätön Rooma. --
+Ah, Rooma! Niin, tein onnettomaks sun,
+Kun kansan äänet siirsin tuohon mieheen,
+Jok' ilkeästi nyt mua kiduttaa. --
+No, menkää, kaikki huolell' urkkikaa,
+Hakekaa tarkkaan kaikki sotalaivat;
+On keisar' ehkä hänet laivaan vienyt;
+Mene ja mangu sitten oikeutta!
+
+MARCUS.
+Oi, Publius, eikö surullista nähdä
+Jaloa setääs häiriössä noin?
+
+PUBLIUS.
+Siks onkin meidän pyhä tehtävämme
+Hänt' öin ja päivin tarkkaan vaalia
+Ja lempeästi oikkujansa noutaa.
+Siks kunnes aika hellän avun tuo.
+
+MARCUS.
+Ei, tuohon suruun apua ei ole.
+Sotaiseen kostoliittoon goottein kanssa!
+Ja koston saakoon kiittämätön Rooma,
+Ja palkan Saturninus-petturi!
+
+TITUS.
+No, Publius? No, hyvät herrat? Mitä,
+Te joko hänet tapasitte?
+
+PUBLIUS.
+                         Emme;
+Mut Pluto teille lupaa, että Koston
+Te saatte tuonesta, jos tahdotte.
+Niin paljon tehtävää on Oikeudella
+Zeun luona taivaassa ja muuallakin,
+Ett' teidän täytyy hetki odottaa.
+
+TITUS.
+On väärin noin mua viivykkeillä syöttää.
+Palavaan järveen itse sukellan
+Ja kantapäistä hänet sieltä nostan.
+Olemme pensait', eikä setripuita,
+Ei suuriluisia kuin kyklopit,
+Mut rautaa, Marcus, selkäranka rautaa; --
+Vaikk' eihän tätä tuskaa selkä kestä!
+Ja kosk' ei maasta eikä manalasta
+Saa oikeutta, niin taivaan jumalia
+Me pyydämme, ett' alas Oikeuden
+He lähettävät kostoks tuskillemme.
+Nyt toimeen! Sinä, Marcus, ammut hyvin.
+    (Jakaa heille nuolia.)
+_Ad Jovem_, sulle tuo; -- tää _ad Apollinem_; --
+_Ad Martem_, se on itseäni varten; --
+Tuo Pallaan on; -- tuo Hermeen; -- tuo on, Cajus,
+Saturnuksen, ei Saturninuksen:
+Sehän ois suoraan tuuleen ampumista. --
+Nyt, poika! -- Ammu, Marcus, kun ma käsken.
+Se totta tepsii, minkä kirjoitin;
+Ei jäänyt ykskään jumal' anomatta.
+
+MARCUS.
+Te kaikki nuolet hoviin ampukaa:
+Näin korskaa keisaria kidutamme.
+
+TITUS.
+Nyt jouset jänteen! (Ampuvat.) Bravo, Lucius-poika!
+Juur' Neitseen kohtuun: Pallaalle se anna!
+
+MARCUS.
+Min' ammuin penikulman ohi kuun:
+Zeun kädess' on sun kirjeesi nyt varmaan.
+
+TITUS.
+Haa, Publius! Mit' olet tehnyt? Kas,
+Sa ammuit toisen sarven Taurukselta!
+
+MARCUS.
+Sep oli somaa! Publius kun ampui,
+Niin suuttui Härkä, tuustas Ariesta,
+Ja Kauriin sarvet putosivat hoviin.
+Ja ken ne löysi? Keisarinna konna.
+Ja rouva nauroi, käski maurin viedä
+Ne heti isännälleen lahjaksi.
+
+TITUS.
+Niin oikein! Onneks olkoon armolle!
+    (Talonpoika tulee, kädessä koppa, jossa on kaksi kyyhkystä.)
+Taivaasta sana! Posti tuli, Marcus!
+Mit' uutta, mies? Sull' onko kirjeitä?
+Oikeutta saanko? Mitä sanoo Jupiter?
+
+TALONPOIKA.
+Niin, Jupi-Piiteri, se hirttomieskö? Hän sanoo, että on ottanut alas
+piitan; sillä miestä ei hirtetä ennen kuin ensi viikolla.
+
+TITUS.
+Ma kysyn: mitä sanoo Jupiter?
+
+TALONPOIKA.
+Ah, herra hyvä, minä en tunne Juu-Piitertä: en ole ikänäni hänen
+kanssaan ryypännyt.
+
+TITUS.
+Mitä, konna, etkö sinä kuljeta --?
+
+TALONPOIKA.
+Kyllä, herra, kyyhkyjäni; en mitään muuta.
+
+TITUS.
+Mut etkö ole tullut taivaasta?
+
+TALONPOIKA.
+Taivaastako? Ah, herra, siellä en ole koskaan ollut. Jumala minua
+varjelkoon siitä röyhkeydestä, että tunkeutuisin nuorella iälläni
+taivaaseen! Olin vain kyyhkyineni menossa tripuuni-lepsun puheille
+jupakan vuoksi, joka on käymässä setäni ja erään keisarin miehen
+välillä.
+
+MARCUS.
+Mutta tämähän tulee aivan niinkuin tilattuna viemään perille
+anomuskirjasi. Anna hänen jättää kyyhkyset keisarille sinun puolestasi.
+
+TITUS.
+Sano minulle, voitko sinä jättää anomuskirjan keisarille oikein
+säädyllisesti?
+
+TALONPOIKA.
+En, totisesti, en ole koskaan eläissäni ollut säätymies.
+
+TITUS.
+Mies, tule tänne, jätä turhat lorut;
+Vain anna keisarille kyyhkysi,
+Ma hänelt' oikeutta sulle hankin.
+Seis, varro, -- tuossa kultaa vaivastasi!
+Minulle tuokaa mustetta ja kynä. --
+Jätäthän säädykkäästi anomuksen?
+
+TALONPOIKA.
+Kyllä, herra.
+
+TITUS.
+Siis tässä sulle anomuskirja omasta puolestasi. Ja kun tulet hänen
+luokseen, niin muista heti lähestyessäsi polvistua; sitten suudella
+hänen jalkaansa; sitten antaa kyyhkysi; ja sitten odottaa palkkaasi.
+Minä olen siinä käsillä; katso, että toimitat asiasi hyvin.
+
+TALONPOIKA.
+Sen lupaan, herra, minuun luottakaa.
+
+TITUS.
+Mies, onko sulla veistä? Näytä tänne! --
+Tuo veitsi, Marcus, kääri pyyntökirjaan --
+Olethan laatinut sen oikein nöyrän. --
+Ja kun sen olet keisarille vienyt,
+Koputa oveeni ja vastaus tuo.
+
+TALONPOIKA.
+Jumalan haltuun, herra; sen ma teen.
+
+TITUS.
+No, Marcus, lähtekäämme. -- Tule, Publius!
+
+    (Menevät.)
+
+
+Neljäs kohtaus.
+
+    Keisarinlinnan edusta.
+
+    (Saturninus, Tamora, Demetrius, Chiron seuralaisineen tulevat,
+    Saturninuksen kädessä nuolet, jotka Titus on ampunut.)
+
+SATURNINUS.
+Mit' arvelette tästä herjauksesta?
+Näin onko koskaan Rooman keisaria
+Ivailtu, kiusattu ja uhmailtu,
+Siks' että tasan jakaa oikeutta?
+Te tiedätte sen, niinkuin jumalatkin, --
+Mit' ikään rahvaan korvaan kuiskikoot
+Nuo rauhanhäiritsijät -- ettei mitään
+Lainvastaist' ole tehty röyhkeille
+Tituksen pojille. Vaikk' onkin suru
+Hält' älyn pimittänyt, saako silti
+Hän meihin puuskiaan ja oikkujaan
+Ja kostoaan ja katkeruuttaan purkaa?
+Nyt kirjoittaa hän taivaalt' apua:
+Kas, tuo on Zeulle, tuo Apollolle,
+Hermeelle tuo, tuo sodan jumalalle!
+Nuo somat lehdet, pitkin Roomaa lentäin,
+Sen senaattia parjaavat ja meitä
+Lain polkijaksi julki huutavat.
+Ihanaa pilaa! Eikö totta, herrat?
+Ikäänkuin Roomass' oikeutt' ei oisi!
+Mut jos ma elän, tekohulluudella
+Hän ei saa ivaans' enää kaunistaa,
+Vaan tietköön, että Saturninuksessa
+Viel' elää oikeus; ja jos nukkuukin se,
+Hän herättää sen niin, ett' ylpeimmänkin
+Kapinamiehen raivossaan se murskaa.
+
+TAMORA.
+Suur' isäntäni, rakas Saturninus,
+Eloni turva, aatosteni herra,
+Oi, tyynny, kärsi ukon heikkoutta:
+Hän poikans' uljaat kadotti, ja suru
+Sydämmeen syvän leikannut on haavan.
+Surussa häntä ennen lohduta,
+Kuin että pientä rankaiset ja suurta
+Tuon ivan vuoks. (Syrjään.) Näin tulee Tamoran,
+Ovelan vaimon, kaikkein mieliks olla.
+Mut, Titus, iskun sait sa, joka tuntuu
+Sydämmen juuriin! Jos on Aaron viisas,
+Käy kaikki hyvin: tyyneen ankkuroidaan. --
+    (Talonpoika tulee.)
+No, poika hyvä, meitäkö sä etsit?
+
+TALONPOIKA.
+Niin, tietystikin, jos teidän vapaasukuisuutenne on keisarillinen.
+
+TAMORA.
+Olen keisarinna; tuoss' on keisari.
+
+TALONPOIKA.
+Vai tuo se on! -- Jumala ja pyhä Tapani antakoon teille hyvää iltaa!
+Tuon tässä teille kirjeen ja pari kyyhkystä tässä.
+
+    (Saturninus lukee kirjeen.)
+
+SATURNINUS.
+Pois viekää, palkaks oiti hirttäkää!
+
+TALONPOIKA.
+Kuinka paljon rahaa saan?
+
+TAMORA.
+Saat mennä hirteen, poika, kuuletko.
+
+TALONPOIKA.
+Vai hirteen! Silloin maarinkin olen hankkinut kaulalleni autuaallisen
+lopun.
+
+    (Poistuu vartijain saattamana.)
+
+SATURNINUS.
+Kavala, kuulumaton häväistys!
+Moist' ilkikonnuuttako pitää sietää?
+Kyll' arvaan, mistä tämä juoni johtuu.
+Tuon kärsisinkö? Petturit nuo pojat,
+Jotk' oikeus näki syypäiks veljen murhaan,
+Minäkö laittomasti teurastin? --
+Tukasta tänne laahatkaa se konna
+Ei ikä häntä eikä arvo suojaa. --
+Tuon korskan ivan tähden sinut silvon.
+Ovela houkka, minut valtaan autoit
+Vain hallitakses minua ja Roomaa.
+    (Aemilius tulee.)
+Aemilius, mit' uutta?
+
+AEMILIUS.
+                      Miekkaan, miehet!
+Parempaa syyt' ei Roomall' ollut koskaan.
+Ko'onneet ovat gootit sotajoukon
+Lujia, saaliin-ahneit' urhoja;
+Jo tänne marssivat, ja heitä johtaa
+Lucius, vanhan Titus-ukon poika,
+Jok' uhkaa tehdä kostonretkellään
+Tuhompaa vielä kuin Coriolanus.
+
+SATURNINUS.
+Kuin? Lucius-urho goottein päällikkönä?
+Se sana koski; pääni painuu, niinkuin
+Vilussa kukka, myrskyn suussa heinä.
+Niin, niin, nyt alkaa surut lähetä.
+Se alhaiso, se, nähkääs, häntä suosii:
+He sanovat -- sen olen usein kuullut,
+Kun salapuvuss' olen liikkunut --
+Luciuksen karkoituksen laittomaksi,
+Ja toivoisivat häntä keisariksi.
+
+TAMORA.
+Pois pelko! Onhan kaupunkimme luja!
+
+SATURNINUS.
+Niin, mutta kansa suosii Luciusta
+Ja luopuu minusta ja auttaa häntä.
+
+TAMORA.
+Kun keisar' olet, keisarina toimi!
+Pimittää voiko sääskiparvi päivän?
+Suvaitsee kotka lintusien laulaa,
+Ei kysy, mikä laulun tarkoitus;
+Se tietää että siipeins' siimeksellä
+Mykistää, milloin tahtoo, laulajan.
+Niin sinäi Rooman huimapäiden tee.
+Hyvitä mieles; tiedä, keisari:
+Andronicuksen sanoilla ma hurmaan
+Makeemmilla ja tuhokkaammilla
+Kuin lampaan apila, tai täky kalan;
+Tuo toiseen taudin herkullinen ruoka,
+Ja toisen täkykoukku haavoittaa.
+
+SATURNINUS.
+Pojaltaan armoa ei meille pyydä.
+
+TAMORA.
+Sen tekee, Tamora jos häntä pyytää.
+Min' imartelen, täytän vanhan korvat
+Makeimmin sanoin; vaikk' ois korva kuuro
+Ja sydän voittaa mahdoton, niin täytyy
+Mun kieltäin kuulla sydämmen ja korvan. --
+(Aemiliukselle.) Edellä mene sinä airuena;
+Sano, että keisar' urho Luciusta
+Tavata tahtoo; kohtauspaikaks määrää
+Andronicuksen, vanhan isän, talo.
+
+SATURNIUS.
+Aemilius, täytä toimes arvokkaasti.
+Jos panttivangin vaatii vakuudekseen,
+Niin määrätköön mink' itse haluaa.
+
+AEMILIUS.
+Teen taattavasti niinkuin käskette.
+
+TAMORA.
+Nyt Titus-vanhuksen ma menen luo
+Ja taidollani häntä houkuttelen
+Gooteista vieroittamaan Luciuksen.
+Nyt taaskin, rakas keisar, ilostu
+Ja pelkos minun juonihini hautaa.
+
+SATURNIUS.
+Sun onni suokoon hänet taivuttaa.
+
+                       (Menevät.)
+
+
+
+
+VIIDES NÄYTÖS.
+
+
+Ensimmäinen kohtaus.
+
+    Tasanko Rooman lähellä.
+
+    (Lucius tulee goottilaisen sotajoukon etupäässä
+    liehuvin lipuin ja helisevin soitoin.)
+
+LUCIUS.
+Soturit uljaat, taatut ystäväni,
+Suuresta Roomast' olen saanut kirjeen,
+Joss' ilmi hehkuu viha keisariin
+Ja meidän tuloamme ikävöidään.
+Siis, ylvät urhot, arvo vaatii teitä
+Vain käskemään, ei herjaa sietämään;
+Ja mit' on Rooma tehnyt teille pillaa,
+Siit' olkoon kosto kolminkertainen.
+
+1 GOOTTI.
+Sa uljas verso suuren Tituksen,
+Jok' ennen kauhun toi, vaan nyt tuo lohdun,
+Ja jonka urhotyöt ja kunnon toimet
+Ivalla maksoi kiittämätön Rooma,
+Sa meihin uskalla; sua seuraamme --
+Kuin kesäpaahteess' äijät mehiläiset,
+Joit' emo kukkamaille kuljettaa --
+Tamora-julmurille kostamaan.
+
+GOOTIT.
+Sanomme kaikki samaa mitä hän.
+
+LUCIUS.
+Hänelle kiitos, kiitos teille kaikin!
+Ken tuossa reippaan gootin saatossa?
+
+    (Eräs goottilainen tulee, taluttaen Aaronia,
+    joka kantaa lastaan käsivarrellaan.)
+
+2 GOOTTI.
+Suur' Lucius, leiristä kun katsomaan
+Ma menin hävinnyttä luostaria,
+Ja rakennuksen raunioita siinä
+Kun tarkoin tarkastin, niin muurin alta
+Äkisti kuulin lapsen porua.
+Ma ääntä seurasin, ja silloin kuulin
+Näin nuhdeltavan pikku-parkujaa:
+"Vait, sinä tumma vesa, joka tulet
+Puoliksi minuun, puoliks äitiisi!
+Jos isän veri ei ihos ilmaisisi,
+Ja luonnolt' oisit saanut äitis värin,
+Niin voisit tulla keisariksi, lurjus:
+Kun maidonkarvat lehmä on ja härkä
+Ei sysimustaa synny vasikkaa.
+Vait, vesa, vait!" -- näin kakaraa hän torui --
+"Ma jonkun hyvän gootin luo sun vien;
+Kun kuulee hän, ett' olet keisarinnan,
+Niin äitis vuoks sua hellästi hän vaalii."
+Nyt, miekka maalla, esiin ryntäsin
+Ja hänet yllätin ja tänne saatoin;
+Te tehkää hälle mitä mielitte.
+
+LUCIUS.
+Mies hyvä, piru ihmishahmoss' on hän:
+Hän Titukselta kelpo käden vei;
+Tuo helmi keisarinnan silmät käänsi,
+Ja tuossa kiimansa on halpa tulos. --
+Sano, valkosilmä konna, mihin aiot
+Tuon pirunnaamas jäljennöksen viedä?
+Et vastaa? Kuuro oletko? Ei sanaa?
+Köys tänne! Puuhun hänet hirttäkää,
+Ja viereen äpäräkin vetäkää!
+
+AARON.
+Älä koske: se on verta kuninkaan!
+
+LUCIUS.
+Isäänsä tulee: viekää hirteen vaan!
+Laps ensin: isä nähköön nytkäyksen
+Ja saakoon sydämmeensä hylkäyksen!
+Hoi, tikkaat tänne!
+
+    (Tikapuut tuodaan, joita Aaronin tulee nousta.)
+
+AARON.
+                    Lucius, lapsi säästä,
+Ja vie se multa keisarinnalle.
+Jos sen sa teet, niin kerron ihmeitä,
+Joit' on sun sangen hyödyllistä tietää.
+Mut jos et tahdo, tulkoon mikä uho,
+Vait olen vain; mut teidät vieköön tuho!
+
+LUCIUS.
+No, puhu; jos sa mieleisiä haastat,
+Niin. lspses eloon jää ja hoidon saa.
+
+AARON.
+Vai mieleisiä? Totta totisesti,
+Sydäntäs vihloo kuulla mitä puhun:
+Ma kerron murhaa, verta, raiskausta,
+Pimeyden töitä, kauhun tekoja,
+Petosta, konnuutt', ilkeyttä, jota
+On sääli kuulla, vaikk' ei sääli tehdä;
+Sen kaiken kanssani ma hautaan vien,
+Jos sin' et vanno että laps saa elää.
+
+LUCIUS.
+Sun lapses elää saa. Siis puhu pois!
+
+AARON.
+Se ensin vanno, sitten minä alan.
+
+LUCIUS.
+Kehenkä vannon? Jumalaa et usko,
+Kuink' uskoa sa sitten valaa voit?
+
+AARON.
+Vaikk' en ma uskoisi, -- enk' uskokaan,
+Niin, koska tiedän, että olet hurskas
+Ja omaat mitä tunnoks sanotaan,
+Ja pappismetkuihin ja -mutkiin luotat,
+Joit' olen nähnyt sinun noudattavan,
+Niin vaadin valaa; tiedän, että narrin
+On jumalana tiukusauvansa,
+Ja mitä siihen vannoo, sen hän pitää;
+Siks sitä penään. Vanno siis sen saman
+Jumalan kautta, -- olkoon vaikka mikä, --
+Jot' ylistät ja jota palvelet,
+Ett' autat poikaa, ruokit, kasvatatkin,
+En muuten rahtuakaan ilmaise.
+
+LUCIUS.
+Sen vannon sulle jumalani kautta.
+
+AARON.
+Siis ensin: keisarinnalle sen tein.
+
+LUCIUS.
+Mik' irstainen ja kylläymätön nainen!
+
+AARON.
+Oo, tuo vain sulaa oli hurskautta
+Sen suhteen, mitä kohta kuulla saat.
+Bassianus hänen pojiltaan sai surman,
+He siskos raiskasivat, kädet hältä
+Ja kielen leikkasivat pois ja hänet
+Niin sievistivät kuin sa itse näit.
+
+LUCIUS.
+Hyi, konna! Tuoko sievistämist' on?
+
+AARON.
+Kerivät, huuhtoivat ja sievistivät;
+Niin, sievän kepposen ne herrat teki.
+
+LUCIUS.
+Oo, konnat, petomaiset niinkuin sinä!
+
+AARON.
+Niin oikein, minult' oppivat he taidon.
+Tuon kiiman perivät he äidiltään,
+Niin totta pelissä kuin valtti voittaa;
+Mut verenhimons' oppivat kai multa,
+Niin, totta vie, kuin kurkkuun iskee hurtta.
+Nyt työni todistakoot, mihin kelpaan.
+Minä se veljes saatoin tuohon kuoppaan,
+Miss' oli Bassianus ruumiina;
+Ma kirjeen kirjoitin, jonk' isäs löysi,
+Ja, liitoss' äidin sekä poikain kanssa,
+Ma kullan kätkin, josta kirje puhui;
+Jos mitä tehtiin, mikä mieltäs vihloo,
+Ma kaikess' aina turmaa edistin.
+Ma juonittelin isältäsi käden,
+Ja kun sen sain, niin syrjään vetäydyin
+Ja naurust' olin ihan pakahtua.
+Ma seinän raost' utelin, kun isäs
+Sai kädestänsä poikiensa päät;
+Näin hänen itkevän ja nauroin niin,
+Ett' tulvi vesi munkin silmistäni.
+Kun juonen kerroin keisarinnalle,
+Hän tuosta ilosanomasta pyörtyi
+Ja suuteli mua senkin seitsemästi.
+
+1 GOOTTI.
+Ja tuonko kerrot, etkä punastu?
+
+AARON.
+Kuin musta koira, -- niinkuin sanotaan.
+
+LUCIUS.
+Noit' ilkitöitä etkö kadu?
+
+AARON.
+                           Kyllä
+Sit', etten tehnyt tuhansia lisää.
+Kiroan vielä nytkin sitä päivää --
+Niit' ei juur' monta liene kirottavaa --
+Jona en tehnyt jotain julki-julmaa:
+Murhannut miestä taikka murhauttanut,
+Pilannut naista tai sit' aikonut,
+Syytöntä syönyt, väärää valaa tehnyt,
+Verivihollisiks ystäviä saanut,
+Katkaissut kaulaa köyhän elukalta,
+Tulehen sytyttänyt öiseen aikaan
+Ladot ja pielekset ja omaajalle
+Sanonut: "Sammuta ne kyynelilläs."
+Ma kaivoin ruumiit haudoista ja panin
+Ne pystyyn ystävien oven eteen,
+Kun unohtua juuri oli suru,
+Ja niiden nahkaan, niinkuin puuhun, uursin
+Ma roomalaiseen tyyliin nämä sanat:
+"Ei suru kuole, vaikka minä kuolin."
+Hoo, tuhatt' olen kauhun työtä tehnyt
+Niin sukkelaan kuin tapan kärpäsen;
+Ja mikään ei mua karmi niin kuin se,
+Ett' en voi tehdä tuhansia lisää.
+
+LUCIUS.
+Alas se perkele! Noin ihanaa
+Hän ei saa kuolla hirttokuolemaa.
+
+AARON.
+Jos perkeleit' on, perkel olla mielin
+Ja palavassa ikituless' elää,
+Jos sun vain seuraks saisin helvettiin
+Ja myrkkykielin kiduttaa sua saisin.
+
+LUCIUS.
+Jo riittää tuo; suu hältä tukkikaa!
+
+    (Eräs goottilainen tulee.)
+
+GOOTTI.
+Suur' Lucius, viesti Roomasta on tuolla
+Ja pyytää päästä teidän pateillenne.
+
+LUCIUS.
+Sisähän tulkoon!
+    (Aemilius tulee.)
+Aemilius, terve! Mitä Roomast' uutta?
+
+AEMILIUS.
+Suur' Lucius ja te, goottein ruhtinaat,
+Tuon tervehdyksen Rooman keisarilta:
+Hän tuntee asevoimanne ja pyytää
+Isänne luona teitä puhutella;
+Jos panttimuksia te vaaditte,
+Niin ne hän teille viipymättä laittaa.
+
+1 GOOTTI.
+Mitä sanoo päällikkömme?
+
+LUCIUS.
+Aemilius, keisari jos isälleni
+Ja Marcus-sedälleni takuun suo,
+Niin heti valmis olen. -- Eespäin, mars!
+
+
+Toinen kohtaus.
+
+    Rooma. Tituksen talon edusta.
+
+    (Tamora, Demetrius ja Chiron tulevat valepuvussa.)
+
+TAMORA.
+Täss' oudossa ja kolkoss' asussa
+Andronicusta vastaan käyn ja sanon
+Ett' olen Kosto, manalasta tullut
+Kamalain tuskiensa sovittajaks. --
+Koputa huoneen oveen, missä kuuluu
+Hän julmaa koston tuumaa hautovan,
+Ja sano, että Kosto häneen yhtyy
+Tuhoomaan tuiki hänen sortajansa.
+
+    (Koputtavat.)
+
+    (Titus avaa huoneensa ikkunan.)
+
+TITUS.
+Ken häiritsee mua miettelyssäni?
+Ovenko avaamaan mua viettelette,
+Jott' ilmaan lentäis synkät tuumani
+Ja näin ois kaikki miettelyni turhaa?
+Mut petytte. Mit' aion tehdä, nähkääs.
+Se täss' on verin kirjoitettuna;
+Ja minkä kirjoitin, sen täytän myös.
+
+TAMORA.
+Ma tulin, Titus, kanssas puhumaan.
+
+TITUS.
+Ei sanaa! Suloll' en voi haastaa minä:
+Kädetön olen, eleit' olen vailla.
+Sin' olet voiton puolla; vaiti siis!
+
+TAMORA.
+Jos tuntisit mun, kyllä puhuisit.
+
+TITUS.
+En hullu ole; kyllin sinut tunnen:
+Tää käs' sen todistaa, tää punapräntti,
+Nää vaot, tuskain, huolten kyntämät,
+Yöt raskaat, vaivan päivät, surut kaikki
+Sen todistavat, että sinut tunnen:
+Tamora olet, korska keisarinna.
+Nyt vaaditko mun toista kättäni?
+
+TAMORA.
+Ei, tuskain mies, en ole Tamora:
+Hän pahaa sulle suo, mut minä hyvää.
+Min' olen Kosto, manan lähettämä:
+Povestas korppikotkat karkoitan,
+Verisen palkan tuoden sortajilles.
+Mua päivän valoon tervehytä; tule,
+Taposta puhelkaamme, surmasta.
+Ei sitä loukkoa, ei piilopaikkaa,
+Ei umpi-pimeytt' eikä usvaist' uomaa,
+Miss' inha valtaus tai veri-murha
+Niin piillä voivat, etten niitä keksi.
+Kun korvaan kuiskaan julman nimen: kosto,
+Niin pahin syntinenkin vapisee.
+
+TITUS.
+Sinäkö Kosto? Tänne lähetetty
+Kiduttamaanko vihamiehiäni?
+
+TAMORA.
+Se olen; tule siis mua tervehtimään.
+
+TITUS.
+Tee mulle ensin palvelus, niin tulen.
+Sivullas, näetkös, Valtaus on ja Murha;
+Nyt näytä mulle, että olet Kosto:
+Nuo pistä tai ne vaununpyöriis sido,
+Ma silloin tulen ajomieheks sulle
+Ja kiidän kanssas halki ilmojen;
+Kaks sälköä sä hanki pikimustaa
+Vetämään kiirein koston-vaunujasi,
+Ja murhamiehet etsi luolistaan;
+Ja kun on vaunus niiden päitä täynnä,
+Min' astun pois ja pyörän rinnalla
+Kuin orja jalan talsin päivän pitkän,
+Siit' alkaen kuin Hyperion nousee
+Ja siihen asti kuin se mereen laskee;
+Näin päivästä mä päivään laahustan,
+Jos Valtauksen ja Murhan pois sa juurit.
+
+TAMORA.
+Nää mua käskyläinä seuraavat.
+
+TITUS.
+Vai käskyläinä? Mikä nimi heillä?
+
+TAMORA.
+Valtaus ja Murha; tämä nimi siksi,
+Kun näitä paheita he kostavat.
+
+TITUS.
+Oi, kuinka ovat keisarinnan poikain
+Ja sinä keisarinnan näköinen!
+Mut meillähän, maan matosilla, silmät
+On hullunkuriset ja eksyttävät.
+Suloinen Kosto! Nyt sun luokses tulen.
+Ykskätisen jos tyydyt syleilyyn,
+Niin heti sinut syliini ma suljen.
+
+    (Poistuu ikkunasta.)
+
+TAMORA.
+Näin tulee noutaa hourun oikkuja.
+Jos millä hänen hulluuttaan ma syötän,
+Se teidän tulee myöntäin vahvistaa.
+Nyt lujast' uskoo hän, ett' olen Kosto,
+Ja tämän luulon pettämänä tänne
+Hän Luciuksen tuottaa, poikansa.
+Kun pidoissani sitten turvass' istuu,
+Niin viekkaan juonen keksin, millä voin
+Nuo horjuvaiset gootit hajoittaa
+Tai tehdä hälle vihamielisiksi.
+Tuoss' on hän; osaani mun näyttää täytyy.
+
+    (Titus tulee.)
+
+TITUS.
+Oo, kauan olen hourinut sun tähtes!
+No, terve murheen majaan, Raivotar!
+Niinikään tekin, Valtaus ja Murha! --
+Ilmetty keisarinna poikineen!
+Hyvin on kalkki: mauri puuttuu vain.
+Pirua moista manass' eikö ollut?
+Ei keisarinna, nähkääs, askelt' astu,
+Jos mauria ei hällä seurassaan;
+Ja ollaksenne oikein keisarinna,
+Mukana pitäis moinen piru olla.
+Mut näinkin tervetulleet! -- Mitä nyt?
+
+TAMORA.
+Sa mitä tahdot vain, Andronicus.
+
+DEMETRIUS.
+Tuo tänne murhaaja, niin hälle näytän.
+
+CHIRON.
+Tuo tänne konna, jok' on raiskuun tehnyt,
+Min' olen pantu hälle kostamaan.
+
+TAMORA.
+Tuo tänne tuhannen sa sortajaasi,
+Ma kostaa tahdon heille kaikille.
+
+TITUS.
+Kirotut Rooman kadut kaikki etsi,
+Ja jos näet jonkun sinun näköisesi,
+Se tapa, Murha: se on murhamies. --
+Käy mukaan sinä, ja jos sattumalta
+Sa jonkun tapaat sinun näköisesi,
+Se tapa, Valtaus: se on raiskaaja. --
+Käy mukaan sinä; keisarimme hoviss'
+On kuningatar, maurin palveloima;
+Sa hänet omast' asustasi tunnet:
+Hän päästä jalkaan sun on näköisesi.
+Oi, väkivalloin surmaa nuo: he ovat
+Mun väkivallanneet ja omani.
+
+TAMORA.
+Hyvinpä neuvot meitä; tahtos teemme.
+Suvainnet, hyvä Titus, tänne tuottaa
+Nyt poikas, Lucius-urhon, joka johtaa
+Sotaista gootti-laumaa Roomaa vastaan;
+Pitoihin kutsu hänet luoksesi.
+Kun tääll' on hän, niin juhlajuominkeihin
+Tuon tänne keisarinnan poikineen
+Ja keisarin ja kaikki sortajasi:
+He saavat polvillaan sua rukoilla
+Ja sinä heihin poves tuskat purkaa. <
+Mit' arvelee mun tuumastani Titus?
+
+TITUS.
+Hoi, veli Marcus! Synkkä Titus kutsuu.
+    (Marcus tulee.)
+Mene veljenpoikas Luciuksen luo;
+Kysele häntä goottein leiristä;
+Tuo hänet tänne, muutamia goottein
+Pääruhtinaita hänen mukanaan.
+Alalleen jättäköön hän soturinsa.
+Sano, että keisari ja keisarinna
+Tääll' ovat pidoissa; hän tulkoon mukaan.
+Se tee mun tähteni, ja hänkin samoin,
+Jos isänsä on henki hälle rakas.
+
+MARCUS.
+Sen kyllä teen, ja heti palajan.
+
+    (Menee.)
+
+TAMORA.
+Nyt menen toimittamaan asiasi
+Ja käskylääni otan mukaani.
+
+TITUS.
+Ei, Valtaus ja Murha jätä tänne,
+Takaisin muuten kutsun veljeni,
+Ja Lucius saa yksin koston täyttää.
+
+TAMORA (syrjään pojilleen).
+Mit' arvelette? Tänne jäättekö,
+Siks kuin käyn keisarille kertomaan,
+Kuink' aikomamme juonen suoritin?
+Puhukaa hyvää, mieltään noutakaa,
+Ja hänen luokseen jääkää kunnes palaan.
+
+TITUS (syrjään).
+Nuo tunnen, vaikka luulevat mun hulluks,
+Ja kiedon heidät omaan satimeensa,
+Kirotut tuonen koirat emoineen.
+
+DEMETRIUS (Tamoralle).
+Te menkää milloin tahdotte; me jäämme.
+
+TAMORA.
+Hyvästi, Titus! Kosto erkanee
+Ja vihamiehes ansaan viettelee.
+
+TITUS.
+Sen hyvin uskon; hyväst', armas Kosto!
+
+    (Tamora menee.)
+
+CHIRON.
+No, vanhus, mitä tointa annat meille?
+
+TITUS.
+Oo, kyllin teill' on täällä tehtävää. --
+Hoi, Cajus, Publius ja Valentin!
+
+    (Publius ja muita tulee.)
+
+PUBLIUS.
+Te kutsuitte?
+
+TITUS.
+              Nuo kaksi tunnetteko?
+
+PUBLIUS.
+He varmaan ovat keisarinnan pojat,
+Demetrius ja Chiron.
+
+TITUS.
+Hyi, Publius, hyi! Sa suurest' erehdyt.
+Tää täss' on Murha, Valtaus on tuo toinen,
+Ja siksi sido heidät, hyvä Publius;
+Käsiksi heihin, Valentin ja Cajus!
+Ma tätä hetkeä jo kauan toivoin,
+Ja nyt sen sain. Siis lujiin pankaa köysiin;
+Suu tukkikaa, jos huutaa alkavat.
+
+    (Titus menee. Publius y.m. sitovat Chironin ja Demetriuksen.)
+
+CHIRON.
+Seis, konnat! Täss' on keisarinnan pojat!
+
+PUBLIUS.
+Ja siksi teemme niinkuin käsketään. --
+Suu tukkoon heiltä; sanaakaan ei enää!
+No, onko vahvaa? Lujaa tehkää vain!
+
+    (Titus Andronicus palaa, mukanaan Lavinia, edellisellä
+    veitsi kädessä, jälkimmäinen kantaen maljakkoa.)
+
+TITUS.
+Lavinia, tule, tule! Tuossa kahleiss'
+On vihamiehesi! -- Suu tukkoon heiltä:
+Puhua älkää heidän salliko!
+He kuulkoot vain mun julmat sanani. --
+Te konnat, Chiron ja Demetrius,
+Tuoss' on se lähde, jonka sokaisitte,
+Se kaunis kesä, johon talven toitte.
+Tapoitte hältä miehen; siitä työstä
+Kaks hänen veljistään on surman saanut;
+Minulta käsi vietiin pilkaten;
+Ja käsikullat, kielen, senkin, mik' on
+Kalliimpi näitä -- puhtaan kainouden --
+Te, ihmispedot, hältä ryöstitte.
+Mitä sanoisitte nyt, jos sallisin?
+Te häpeisitte pyytää armoa.
+Nyt kuulkaa, kurjat, kuinka teitä rääkkään:
+Kädellä tällä kurkun leikkaan teiltä;
+Lavinia tyngillänsä pitää maljaa,
+Johonka kootaan syntiverenne.
+Pitoihin tänne tulee äitinne,
+Nimenään Kosto; hän mun hulluks luulee.
+Haa, kuulkaa! Luunne jauhan tomuksi,
+Vereenne siitä vastaan taikinan,
+Ja taikinasta laitan piirakoita,
+Ja niihin teidän riettaat päänne leivon;
+Ja sitten äitinne, se irstas portto,
+Kuin maa, saa niellä omat sikiönsä.
+Nää on ne pidot, joihin hänet kutsuin;
+Täss' äidin herkkupalat. Lastani
+Pideltiin julmemmin kuin Philomelaa,
+Ja julmemmin kuin Prokne minä kostan.
+Nyt tänne kurkkunne! -- Lavinia, tule,
+    (Leikkaa heiltä kurkut.)
+Ja ota veri; ja kun ovat kuolleet,
+Niin hienon hienoksi ma jauhan luut
+Ja tuohon inhaan nesteeseen ne hierrän.
+Ja siihen sotkuun leivon sitten päät. --
+Pois tulkaa! Kukin tehköön parastaan,
+Niin että pidot tulee julmemmat
+Ja verisemmät kuin Kentaurin juhla.
+Noin! Pois ne viekää! Kokiks itse rupeen,
+Niin ett' on valmista, kun äiti saapuu.
+
+    (Menevät, vieden ruumiit mukanaan.)
+
+
+Kolmas kohtaus.
+
+    Teltta Tituksen talon edustalla. Pöytä katettuna.
+
+    (Lucius, Marcus, gootteja, ja Aaron, vangittuna, tulevat.)
+
+LUCIUS.
+Kosk' isä tahtoo että palaan Roomaan,
+Niin, setä hyvä, olen tyytyväinen.
+
+1 GOOTTI.
+Niinikään mekin, käyköön kuinka käy.
+
+LUCIUS.
+Tuo mauri-peto pane talteen, setä,
+Tuo julma tiikeri, tuo perkele.
+Hän ravintoa vailla, kahleiss' olkoon,
+Siks kuin hän keisarinnan itsen nähden
+Todeksi näyttää tämän irstaat työt.
+Ja vahvass' olkoot väijyss' ystävämme:
+Lie keisarilla pahat mielessä.
+
+AARON.
+Kiroja horna kuiskatkoon nyt korvaan
+Ja kieltän' auttakohon purkamaan
+Pakoovan sydämmeni vihan mujut!
+
+LUCIUS.
+Pois, verikoira, jumalaton peto! --
+Setääni auttakaa; pois hänet viekää!
+    (Gootit vievät pois Aaronin. Torventoitauksia kuuluu.)
+Tuloss' on keisari: jo torvet soivat.
+
+    (Saturninus, Tamora, tribuuneja, senaattoreja y.m. tulee.)
+
+SATURNINUS.
+Yht' enempääkö taivaall' auringoita?
+
+LUCIUS.
+Miks itseäsi auringoksi sanot?
+
+MARCUS.
+Seis, Rooman keisari, ja sinä, lanko!
+Sovussa riitanne on ratkaistava.
+On pidot valmiit, jotka Titus huolell'
+On valmistanut hyvään tarkoitukseen:
+Sopua, rauhaa, Rooman hyvää varten.
+Lähemmä tulkaa siis, ja istukaa.
+
+SATURNINUS.
+Sen teemme, Marcus.
+
+    (Hoboijat soivat. Titus kokiksi puettuna, Lavinia hunnutettuna,
+    nuori Lucius ja muita tulee. Titus asettaa ruoat pöydälle.)
+
+TITUS.
+Terveeksi, keisari ja keisarinna!
+Terveeksi, Lucius, ja uljaat gootit!
+Terveeksi kaikki! Atria on halpa,
+Mut tyydyttänee toki. Pyydän, syökää!
+
+SATURNINUS.
+Miks tuossa puvussa, Andronicus?
+
+TITUS.
+Siks, että itse tahdoin kaikki laittaa
+Näin ylhäisille pöytävieraille.
+
+TAMORA.
+Olemme kiitolliset, hyvä Titus.
+
+TITUS.
+Niin varmaan, mieleni jos tuntisitte.
+Mut, majesteetti, mulle sanokaa:
+Tekikö oikein tuittupää Virginius,
+Kun omin käsin tyttärensä tappoi,
+Jok' oli raiskattu ja häväisty?
+
+SATURNINUS.
+No, tietysti.
+
+TITUS.
+              Ja syynne?
+
+SATURNINUS.
+                         Jottei tyttö
+Eläisi häpeäänsä kauemmin
+Eik' isää murheest' aina muistuttaisi.
+
+TITUS.
+Tehokas, mahtava ja vahva syy,
+Elävä esikuva, ohje, käsky
+Minulle, katalalle, tehdä samoin. --
+Lavinia, kuole, kanssas häpeäsi,
+Ja häpeäsi kanssa isän suru!
+
+    (Pistää Lavinian kuoliaaksi.)
+
+SATURNINUS.
+Mit' olet tehnyt, julmus?
+
+TITUS.
+                          Tappanut
+Sen, joka sokeaks mun itketti.
+Yht' onneton ma olen kuin Virginius,
+Tuhansin enemmänkin syytä mulla
+On tähän julmuuteen; -- nyt on se tehty.
+
+SATURNINUS.
+Hän raiskattuko? Kenen se on työtä?
+
+TITUS.
+Täss', armo hyvä: suvaitkaahan syödä!
+
+TAMORA.
+Miks tyttäresi tapoit?
+
+TITUS.
+                       Minä en;
+Demetrius ja Chiron teki sen:
+He hänet raiskasivat, kielen veivät;
+He yksin syypäät ovat, toiset eivät.
+
+SATURNINUS.
+Te menkää heti heitä noutamaan.
+
+TITUS.
+Täss' ovat, leivottuina piirakkaan!
+Nyt äiti ahminut on herkkupalaa
+Ja lihaa syönyt oman kohtuns' alaa.
+Se totta: veitsi tää sen todistaa.
+
+    (Pistää Tamoran kuoliaaksi.)
+
+SATURNINUS.
+Haa, kuole, hullu! Työsi palkkans saa.
+
+    (Surmaa Tituksen.)
+
+LUCIUS.
+Isänsä surman-iskuun poika vastaa:
+Verestä veri, kuolo kuolemasta!
+
+    (Surmaa Saturninuksen. Suuri hälinä syntyy. Kansa joutuu
+    hämmennyksiin ja hajaantuu. Marcus, Lucius ja heidän
+    pnoluelaisensa nousevat Tituksen asunnon portaille.)
+
+MARCUS.
+Apeat miehet, Rooman kansalaiset,
+Revityt melskeessä kuin lintuparvi,
+Jonk' ärjysäät ja myrskyt hajoittaa,
+Opastaa minun suokaa, miten koota
+Tuo hajavilja yhdeks sitomeksi,
+Rikotut luut taas liittää yhdeks rungoks,
+Jott' itseään ei Rooma tuhoisi,
+Tuo, jota mahtivallat kumartavat,
+Häpeäll' itseään ei lopettaisi
+Kuin mikä toivoton ja halpa orja.
+Mut jos nää rypyt, ajan hallan merkit,
+Nää kypsän älyn taatut todisteet,
+Teit' ei saa sanojani tarkkaamaan,
+    (Luciukselle.)
+Puhu sinä, Rooman kallis ystävä,
+Kuin ennen esi-isämme,[11] kun kertoi
+Hän juhla-äänell' lemmensairaan Didon
+Surevaan korvaan julmaa tarinaa
+Tulipalo-yöstä, jolloin kreikkalaiset
+Priamukselta Troian viekastivat.
+Sano, kuka Sinon lumos korvamme,
+Ken toi sen turmakoneen, joka iski
+Sisäisen sodan haavan meidän Troiaan. --
+Ei teräst' ole, piitä sydämmeni;
+Suurt' en voi suruani ilmi tuoda:
+Sanani kyyneltulva upottaisi
+Ja särkis äänen silloin, kun sen pitäis
+Enimmin teitä liikuttaa ja saada
+Teiss' ystävyyden sääli heräämään.
+Täss' sodanpäämies on, hän puhukoon,
+Niin sydämmenne sykähtää ja itkee.
+
+LUCIUS.
+Siis, jalot kuulijani, tietäkää:
+Nuo konnat, Chiron ja Demetrius,
+He keisarimme veljen murhasivat,
+He raiskasivat sisaremme, heidän
+Teostaan veljemmekin mestattiin,
+Isämme kyyneleitä ilkasteltiin
+Ja halvoin juonin hältä vietiin käsi,
+Jok' oli Rooman taistot taistellut
+Ja hautaan laittanut sen vihamiehet.
+Minutkin tylyst' ajettihin maasta,
+Sulettiin portit, itkein mieroon syöstiin
+Apua viholliselt' etsimään;
+Nuo vihans' upottaen kyyneliini,
+Mun syliins' ystävänä sulkivat.
+Minä, se hyljeksitty, verelläni
+Kotini onnen suojasin, pois työnsin
+Sen sydämmestä vihamiehen miekan
+Ja omaan poveeni sen kärjen käänsin.
+En ole kerskuri, sen tiedätte,
+Mut mykät arpani ne todistavat
+Ett' oikea on puheeni ja tosi.
+Mut vait! Ma liiaks siirryn aineesta
+Katalaan omaan kehuun. Anteeks suokaa;
+Kell' ystävää ei ole, kehuu itse.
+
+MARCUS.
+Nyt mull' on puheen vuoro. Tämä lapsi
+Se Tamoran on kohdun hedelmä,
+Isänä jumalaton maurilainen,
+Tuo kaikkein näiden tuskain alkusyy.
+Tituksen taloss' on se konna; hän voi
+Sanani todistaa. Nyt päättäkää,
+Oliko Tituksella syytä kostaa
+Noin mahdoton ja sietämätön loukkaus,
+Suurempi kuin mit' ihmisluonto kestää.
+Totuuden kuulitte; mit' arvelette?
+Väärinkö teimme? Sen jos näytätte,
+Niin me, Andronicusten kurja jäännös,
+Sijalta tältä, missä seisomme,
+Käsikkäin alas suin päin syöksymme
+Ja murskaks lyömme päämme kallioon,
+Näin tehden äkkilopun suvustamme.
+Puhukaa, roomalaiset! Tahdotteko,
+Niin heti tapahtuva on se teko.
+
+AEMILIUS.
+Ei, tule alas kunnon roomalainen,
+Kädestä tuoden meidän keisaria,
+Lucius-keisaria; koko kansa,
+Sen tiedän, siihen antaa suostuntansa.
+
+MARCUS.
+Terveeksi, Lucius, Rooman keisari!
+    (Palvelijalle.)
+Tituksen surutaloon mene sinä
+Ja tänne tuo se mauri-pakana:
+Hän hirvittävään verikuolemaan
+On tuomittava häijyst' elämästään. --
+    (Lucius ynnä muut astuvat alaa.)
+Eläköön Lucius, Rooman suuri valtias!
+
+LUCIUS.
+Suur' kiitos teille! Hallita niin soisin,
+Ett' onnen rikot ehjäks tehdä voisin.
+Mut, ystävät, nyt hetken loma vain:
+Minulle luonto määrää raskaan toimen. --
+Pois syrjään kaikki! -- Sinä, setä, tule,
+Tomulle tälle murheen kyynel suo. --
+Tuoss' sulle lämmin suukko kylmiin huuliin,
+    (Suutelee Titusta.)
+Tuoss' surun pisar otsaan veriseen, --
+Se poikas viimeinen on lemmenlahja!
+
+MARCUS.
+Suukosta suukko, kyynel kyyneleestä
+Tuoss' ota muistoks Marcus-veljeltäsi!
+Vaikk' oisi ääretön ja määrätön
+Tää kyynelvelka, kaikki suorittaisin.
+
+LUCIUS.
+Tule, poika, tule; opi meistä, mitä
+On sulaa kyyneliin. Sua vaaris lempi,
+Sua usein hypitti hän polvellaan,
+Povellaan nukutti ja uneen lauloi,
+Ja monta kertoi sulle tarinaa
+Sun lapsen mielellesi otollista.
+Siis lapsen hellyydellä pieni tilkka
+Hänelle pikku-lähteestäsi suo;
+Niin säästää hellä luonto: ystäväin
+Surussa tulee käydä käsikkäin.
+Nyt hyvästele häntä haudan poveen;
+Tee tehtäväsi: sano jäähyväiset!
+
+POIKA.
+Oi, vaari, vaari! Oi, jos minä oisin
+Nyt kuolleena, ja sinä eläisit! --
+Hyvä jumala! En puhua ma voi:
+Tukahdun itkuuni, jos suuni avaan.
+
+    (Roomalaisia tulee, tuoden mukanaan Aaronin.)
+
+1 ROOMALAINEN.
+Surunne heittäkää, Andronicukset,
+Ja tämä kehno konna tuomitkaa,
+Jok' aiheutti kaikki nämä hirmut.
+
+LUCIUS.
+Hän rintaa myöten maahan kaivettakoon;
+Rajutkoon siinä, ruokaa huutakoon;
+Se joka häntä auttaa taikka säälii,
+On kuolon oma. Tää on tuomiomme.
+Lujasti hänet maahan kaivakaa!
+
+AARON.
+Miks vait on viha, kiukku kieletön?
+En ole laps, ett' turhin rukouksin
+Katuisin mitä olen pahaa tehnyt;
+Tekisin tuhat kertaa pahempaakin
+Kuin mitä tein, jos mulla vain ois valta.
+Jos mitä hyvää eläissäni tein,
+Sydämmen pohjasta ma sitä kadun.
+
+LUCIUS.
+Hyvät ystävät, pois viekää keisari,
+Isänsä hautaan hänet haudatkaa.
+Lavinian ja isäni me sitten
+Panemme meidän perheen hautaholviin.
+Mut Tamora, tuo julma tiikeri,
+Hän ruumissaattoa ja hautavirttä
+Ja sielukellojakin olkoon vailla:
+Pedon ja korpin ruoaks heitettäköön!
+Hän eli niinkuin peto armotonna,
+Siis armottoman saakoon kohtelun.
+Kirotun maurin tuomio täyttäkää;
+Hän oli alkusyynä turmioomme.
+Niin sitten hallitsemme, että moista
+Verinäytelmää ei tapahtuisi toista.
+
+                          (Menevät.)
+
+
+
+
+SELITYKSIÄ:
+
+
+[1] _Troian kuningatar_. Hecuba, tarun mukaan, repi silmät Trakian
+kuninkaan Polymestorin päästä, kun tämä oli ahneudesta surmannut hänen
+poikansa, joka on kuninkaan turviin jätetty.
+
+[2] _Ken Solonin on onnen saavuttanut_. Tarkoittaa Solonin tunnettua
+lausetta: "ei kukaan ole onnellinen ennen kuolemaansa."
+
+[3] _Tään valkean ja tahrattoman vaipan_. Tällaiseen -- toga candidaan
+-- tuli, tasavallan tavan mukaan, viranhakijan pukeutua; siitä nimi
+candidatus.
+
+[4] _Laerteen viisas poika_. S.o. Odysseus.
+
+[5] _Hoi, karttuja!_ Lontoon oppipoikain huuto katumellakoissa.
+
+[6] _Prinssi-karkuri_. S.o. Aeneas.
+
+[7] _Mun poveni on valtias Saturnus_. Astrologien mukaan
+Saturnus-planeetan vaikutus oli paha ja turmiollinen sen alla
+syntyneihin, kun sitä vastoin Venuksen vaikutus on kiihoittava.
+
+[8] _Kimriläinen_. Kimria oli tarumainen maa, missä synkeys ja
+pimeys vallitsi.
+
+[9] _Kokyton sumusuu_. Kokytos oli manalan jokia.
+
+[10] _Encelodus ja Typhon_ olivat jättien, titaanien, johtajia
+sodassa jumalia vastaan.
+
+[11] _Kuin ennen esi-isämme_. S.o. Aeneas.
+
+[12] _Ken toi sen turmakoneen_. Viittaus puuhevoseen, jonka avulla
+Troia valloitettiin.
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Titus Andronicus, by William Shakespeare
+
+*** END OF THIS PROJECT GUTENBERG EBOOK TITUS ANDRONICUS ***
+
+***** This file should be named 21100-8.txt or 21100-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/1/1/0/21100/
+
+Produced by Tapio Riikonen
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
