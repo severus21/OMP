@@ -3,6 +3,7 @@ use std::io::{Cursor, Error, BufReader, BufWriter, SeekFrom};
 use std::fs::{self, DirEntry,File};
 use std::path::{Path,PathBuf};
 
+use std::cmp::min;
 use dedup::rabin::{BUFF_MAX_SIZE};
 extern crate crc64;
 
@@ -50,14 +51,18 @@ pub fn sha256(location:&str) -> Result<String, Error>{
     Ok(hasher.result_str()) 
 }
 
-pub fn crc64(location:&str) -> Result<u64, Error>{
+pub fn crc64(reader:&mut BufReader<File>, begin:u64, end:u64) -> Result<u64, Error>{
     let mut crc = 0;
-    let mut reader = BufReader::with_capacity(BUFF_MAX_SIZE, 
-                                              try!(File::open(location))); 
-    loop{
+    let mut i = begin;
+    try!(reader.seek(SeekFrom::Start(begin)));
+
+    while i<end{
         let len = {
             let buff = try!(reader.fill_buf());
-            crc = crc64::crc64(crc, &buff[0..buff.len()]);
+            
+            crc = crc64::crc64(crc, &buff[0..min(end-i,buff.len()as u64)as usize]);
+            i += buff.len()as u64;
+            
             buff.len()
         };
         if len == 0{
@@ -68,4 +73,3 @@ pub fn crc64(location:&str) -> Result<u64, Error>{
         
     Ok(crc) 
 }
-

@@ -13,6 +13,8 @@ extern crate tempfile;
 use self::tempfile::tempfile;
 use dedup::chunk::{Chunk, CHUNK_HEADER_LEN, MAX_CHUNKS_LEN};
 
+use utility::crc64;
+
 const METADATA_BUFF_SIZE :usize= 10 * 1024;//use to load .index
 pub const DATA_BUFF_SIZE :usize= 10 * 1024;//use to load .index
 
@@ -57,6 +59,8 @@ pub fn from(cursor : &mut BufReader<File>)->Result<BlobEntry, Error>{
 //ID du block, <= id min des chunks à l'intérieur du blob
 pub struct Blob{
     pub id          : String,
+    pub crc_index   : u64, //crc64 of .index
+    pub crc_data    : u64, //crc64 of .data
     n_chunks    : usize,
     
     pub loaded      : bool,
@@ -67,7 +71,9 @@ pub struct Blob{
 impl Blob{
     pub fn new(id : &str) -> Blob{
         Blob{
-            id       : String::from(id),   
+            id       : String::from(id),
+            crc_index: 0,
+            crc_data : 0,
             n_chunks : 0,
 
             loaded   : false,
@@ -98,6 +104,20 @@ impl Blob{
         location
     }
     
+    fn compute_crc_index(&self, location: &PathBuf) -> Result<u64,Error>{
+        let mut reader =  BufReader::with_capacity(DATA_BUFF_SIZE, 
+                            File::open(self.location_index(location.clone()))?);
+        let end = reader.seek(SeekFrom::End(0))?;
+        crc64(&mut reader, 0, end)
+    }
+    
+    fn compute_crc_data(&self, location: &PathBuf) -> Result<u64,Error>{
+        let mut reader =  BufReader::with_capacity(DATA_BUFF_SIZE, 
+                            File::open(self.location_data(location.clone()))?);
+        let end = reader.seek(SeekFrom::End(0))?;
+        crc64(&mut reader, 0, end)
+    }
+
     fn find_pos(&self, id:&String) -> usize{
         if self.metadata.is_empty(){ 
             return 0;
@@ -278,6 +298,8 @@ impl Blob{
             self.n_chunks = self.n_chunks >> 1;
             let mut next = Blob{
                 id : next_metadata.first().unwrap().id.clone(),
+                crc_index : 0,
+                crc_data : 0,
                 n_chunks : last_n-self.n_chunks,
 
                 metadata : next_metadata,
@@ -324,10 +346,15 @@ impl Blob{
                     }
                 }
             }
-
+            
             //Copy tempfile
             try!(remove_file(self.location_data(dir.clone())));
             try!(rename(self.location_tmpdata(dir.clone()), self.location_data(dir.clone())));
+            
+            next.crc_index = next.compute_crc_index(&dir)?;
+            next.crc_data = next.compute_crc_data(&dir)?;
+            self.crc_index = self.compute_crc_index(&dir)?;
+            self.crc_data = self.compute_crc_data(&dir)?;
             self.mutated = true;
 
             Ok(next)
@@ -338,7 +365,7 @@ impl Blob{
             return Ok(());
         }
 
-        let location = self.location_index(dir);
+        let location = self.location_index(dir.clone());
         let mut file = match File::open(location.clone()){
             Ok(file) => file,
             Err(err) => 
@@ -362,6 +389,15 @@ impl Blob{
         assert!(self.metadata.is_empty());
        
         self.n_chunks = reader.read_u64::<LittleEndian>()? as usize;
+        
+        if self.crc_index != self.compute_crc_index(&dir)? {
+            panic!("CRC_INDEX invalid");
+            //TODO return error
+        }
+        if self.crc_data != self.compute_crc_data(&dir)?{
+            panic!("CRC_INDEX data");
+            //TODO return error
+        }
         self.metadata = Vec::with_capacity(self.n_chunks);
 
         for _ in 0..self.n_chunks{
@@ -378,9 +414,9 @@ impl Blob{
         }
         
         if self.n_chunks == 0{
-            return self.delete_files(dir);
+            return self.delete_files(dir.clone());
         }
-        let location = self.location_index(dir);
+        let location = self.location_index(dir.clone());
         let mut file = try!(File::create(location));
         file.set_len(8 + HEADER_LEN_ENTRY as u64* self.metadata.len() as u64);
         let mut writer = BufWriter::with_capacity(METADATA_BUFF_SIZE, file);
@@ -394,6 +430,9 @@ impl Blob{
             writer.write_u64::<LittleEndian>(entry.pos)?;
             writer.write_u64::<LittleEndian>(entry.len)?;
         }
+        
+        self.crc_index = self.compute_crc_index(&dir)?;
+        self.crc_data = self.compute_crc_index(&dir)?;
 
         self.mutated = false;
         Ok(())
