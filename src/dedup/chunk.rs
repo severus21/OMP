@@ -77,11 +77,11 @@ pub struct Chunk{
     pub id : String,        //see the report
     pub begin : u64,        //position of the begining of the block, in the file, of data described by the chunk
     pub len : u64,          //length of the block          
-
+    pub crc : u64, //0 if no data, crc64
     pub data : Vec<u8>
 }
 
-pub const CHUNK_HEADER_LEN :usize= 1 + 2 * 8 +64;
+pub const CHUNK_HEADER_LEN :usize= 1 + 2 * 8 + 8 +64;
 impl Chunk{
     //The position, in the file, after the last byte of the block, 
     //described by the chunk,
@@ -104,6 +104,7 @@ impl Chunk{
             },
             begin  : cursor.read_u64::<LittleEndian>().unwrap(), 
             len    : cursor.read_u64::<LittleEndian>().unwrap(),
+            crc  : cursor.read_u64::<LittleEndian>().unwrap(),
             data   : Vec::new(),
         };
         chunk.read_data(cursor); 
@@ -115,6 +116,7 @@ impl Chunk{
         writer.write_all(self.id.as_bytes())?; //64
         writer.write_u64::<LittleEndian>(self.begin)?;
         writer.write_u64::<LittleEndian>(self.len)?;
+        writer.write_u64::<LittleEndian>(self.crc)?;
         writer.write_all(&self.data[..])
     }
 
@@ -171,6 +173,7 @@ impl Chunk{
                     id      : String::from(""),
                     begin   : beg,
                     len     : len,
+                    crc   : 0,
                     data    : Vec::new()
                 };
                 
@@ -198,7 +201,7 @@ pub struct HChunk{
     pub lvl : usize,
 }
 
-
+/*
 impl HChunk{
     pub fn new(begin :u64, mask:usize, lvl : usize) -> HChunk{
         HChunk{ 
@@ -459,6 +462,6 @@ impl PartialEq for HChunk{
 
         true 
     }
-}
+}*/
 
 

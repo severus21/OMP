@@ -7,44 +7,23 @@ use dedup::rabin::{RabinHasher, BUFF_MAX_SIZE};
 use storage::storage_handler::BlobIndex;
 use dedup::dedup::{Phi,Rule};
 
-use utility::visit_files;
+use utility::{visit_files,sha256};
 
 use std::collections::HashMap;
 
 use std::cmp::min;
 
 use std::path::Path;
-//TODO
-//LA fonction de hashage pour les id devrait être encodé dans un module
-//Pareil pour rabin, utiliser le même module
+
+extern crate crc64;
+
 extern crate crypto;
 use self::crypto::digest::Digest;
 use self::crypto::sha2::Sha256;
-
 pub struct Client{
     db : BlobIndex,
     phi  : Phi,      
 }
-
-fn sha256(location:&str) -> Result<String, Error>{
-    let mut hasher = Sha256::new();
-    let mut reader = BufReader::with_capacity(BUFF_MAX_SIZE, 
-                                              try!(File::open(location))); 
-    loop{
-        let len = {
-            let buff = try!(reader.fill_buf());
-            hasher.input(&buff[0..buff.len()]);
-            buff.len()
-        };
-        if len == 0{
-            break;    
-        }
-        reader.consume(len);    
-    }
-        
-    Ok(hasher.result_str()) 
-}
-
 
 impl Client{
     pub fn new(db_location:String) -> Client {
@@ -159,6 +138,7 @@ impl Client{
                 
                 if( subchunks.len()>1){ 
                     chunk.data = index.into_inner();
+                    chunk.crc = crc64::crc64(0,&chunk.data);
                     chunk.len = chunk.data.len() as u64;
                     self.db.add_chunk(&chunk);
                 }else{//subchunk is chunk and already saved
@@ -191,6 +171,7 @@ impl Client{
             begin : 0,
             len   : file_size,
             data  : Vec::new(),
+            crc   : 0,  
         };
         self._set(&mut root, &mut reader, &mut hasher, &rule.masks, 0);
 

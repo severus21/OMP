@@ -49,7 +49,26 @@ impl BlobIndex{
     pub fn cache_len(&self) -> usize{
         self.cache_index.len()
     }
-    
+   
+    //Format DB
+    //|-----------------|-----------------
+    //|Number blobs u64 | Entries
+    //|-----------------|----------------
+    //
+    //Entries
+    //|
+    //| Blob id | crc64 .index | crc64 .data
+    //|
+    //
+    //Maj à chaque éviction du cache
+    //Vérification à chaque ajout dans le cache
+    pub fn location_db(&self) -> PathBuf{
+        let mut location = PathBuf::from(&self.db_dir);
+        location.push(String::from("db"));
+        location.set_extension("db");
+        location
+    }
+
     fn load_pos(&mut self, pos : usize) -> Result<(),Error>{
         let id = self.blobs[pos].id.clone(); 
         if self.cache_index.contains_key(&id){

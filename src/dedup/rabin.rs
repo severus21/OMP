@@ -14,6 +14,7 @@ extern crate crypto;
 use self::crypto::digest::Digest;
 use self::crypto::sha2::Sha256;
 
+extern crate crc64;
 extern crate time;
 use self::time::precise_time_s;
 
@@ -100,8 +101,10 @@ pub struct RabinHasher{
     fingerprint : u64,
     min_size : u64, //min_size of a chunk, if lower it will be aggregated
     max_size : u64, //max_size of a chunk, if greater it will be split with the "max_size" as length, should be at least twice greater than min_size
-    hasher : Sha256, 
     
+    hasher : Sha256, 
+    crc    : u64,
+
     last_end : u64, //end of the previous stop
 
     pos : u64,//number of input call
@@ -144,7 +147,9 @@ impl RabinHasher{
             min_size : min_size,
             max_size : max_size,
             out_of_bounds : [0,0],
+            
             hasher : hasher,
+            crc :0,
 
             pos : 0,
             last_end : 0,
@@ -166,6 +171,7 @@ impl RabinHasher{
         self.fingerprint = 0;
        
         self.hasher.reset();
+        self.crc = 0;
 
         self.pos = 0;
         self.last_end = 0;
@@ -230,6 +236,7 @@ impl RabinHasher{
                 id    : String::new(),
                 begin : self.last_end,
                 len   : self.pos - self.last_end,
+                crc   : 0,
                 data  : Vec::new()
             };
             
@@ -237,6 +244,7 @@ impl RabinHasher{
                 chunk.len += 1;
                 print!("c{} {}\n",chunk.len, self.pos);
                 self.hasher.input(&[*x]);
+                self.crc = crc64::crc64(self.crc,&[*x]);
                 chunks.push(chunk);
                 return;
             }
@@ -244,12 +252,16 @@ impl RabinHasher{
             if chunk.len <= self.min_size{//on privilégie la découpe à l'aggrégation
                 self.out_of_bounds[0] += 1;
                 self.hasher.input(&[*x]);
+                self.crc = crc64::crc64(self.crc,&[*x]);
                 return;
             }else{
                 self.last_end = self.pos;
                 
                 chunk.id = self.hasher.result_str();
+                chunk.crc = self.crc;
+
                 self.hasher.reset();
+                self.crc = 0;
             }
             
             if chunk.len >= self.max_size{//Chunk spliting rule
@@ -262,6 +274,7 @@ impl RabinHasher{
            
         }
         self.hasher.input(&[*x]);
+        self.crc = crc64::crc64(self.crc,&[*x]);
 
         //self.pos += 1;
         self.t_split += precise_time_s() - start1;
@@ -274,7 +287,7 @@ impl RabinHasher{
         let start1 = precise_time_s();
         
         let mut hasher = Sha256::new();
-         
+        let mut crc = 0; 
         for chunk in chunks{
             if chunk.id == ""{
                 hasher.reset();
@@ -286,6 +299,8 @@ impl RabinHasher{
                         let tmp = min((chunk.len-len) as usize, buff.len());
 
                         hasher.input(&buff[0..tmp]);
+                        crc = crc64::crc64(crc, &buff[0..tmp]);
+
                         len+=tmp as u64;
                         
                         if tmp == 0{//TODO

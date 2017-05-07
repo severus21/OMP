@@ -97,7 +97,7 @@ impl Blob{
         location.set_extension("index");
         location
     }
-
+    
     fn find_pos(&self, id:&String) -> usize{
         if self.metadata.is_empty(){ 
             return 0;
