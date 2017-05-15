@@ -13,6 +13,10 @@ use self::time::precise_time_s;
 use dedup::chunk::{Chunk};
 use storage::blob::{Blob};
 
+extern crate bloom;
+use self::bloom::{ASMS, CountingBloomFilter};
+const BLOOM_FILTER_FALSE_POSITIVE_RATE : f32 = 0.01;
+const BLOOM_FILTER_NUMBER : u32 = 10000;
 
 const STORING_DELAY : f64 = 5.; //Second
 //For now, we will use a sorted vect, after it should be implemented with BTree
@@ -26,7 +30,9 @@ pub struct BlobIndex{
     blobs : Vec<Blob>,
 
     cache_index : HashMap<String, f64>, //id => last save
-    cache_fifo  : VecDeque<String>
+    cache_fifo  : VecDeque<String>,
+    
+    bloom : CountingBloomFilter //store the ids of the chunks stored in the blobs
 }
 
 impl BlobIndex{
@@ -39,6 +45,11 @@ impl BlobIndex{
             
             cache_index : HashMap::with_capacity(max_blobs_loaded),
             cache_fifo  : VecDeque::with_capacity(max_blobs_loaded),
+            
+            bloom : CountingBloomFilter::with_rate(4,
+                                                   BLOOM_FILTER_FALSE_POSITIVE_RATE
+                                                   ,BLOOM_FILTER_NUMBER)
+
         }
     }
    
@@ -146,7 +157,10 @@ impl BlobIndex{
                         let res = next.save(PathBuf::from(&self.db_dir));
                         self.blobs.insert(pos+1, next);
                         match self.store_pos(pos) {
-                            Ok(())=> res,
+                            Ok(())=>{
+                                self.bloom.insert(&chunk.id);
+                                res
+                            },
                             Err(err) => match res {
                                 Ok(()) => Err(err),
                                 Err(err1) => Err(err1)
@@ -172,6 +186,10 @@ impl BlobIndex{
     }
 
     pub fn exists_chunk(&mut self, id : &String) -> Result<bool, Error>{
+        if self.bloom.contains(&id){
+            return Ok(true);
+        }
+
         let pos = self.find_pos(id);
         try!(self.load_pos(pos));
 
@@ -206,7 +224,9 @@ impl BlobIndex{
                                              id); 
 
         match self.store_pos(pos){
-            Ok( _ ) => res,
+            Ok( _ ) =>{ 
+                self.bloom.remove(&id);
+                res},
             Err(err) => match res{
                 Ok(_) => Err(err),
                 _     => res  

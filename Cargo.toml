@@ -11,3 +11,5 @@ mime_guess = "1.8.1"
 byteorder = "1.0.0"
 tempfile = "2.1.5"
 crc64 = "1.0.0"
+
+bloom = "0.3.2" 
